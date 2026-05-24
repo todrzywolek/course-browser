@@ -671,7 +671,10 @@ function openDoc(doc) {
       <iframe class="${frameClass}" src="${embedUrl}"
               allow="autoplay" allowfullscreen loading="lazy"></iframe>
     </div>`;
-  viewerArea.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  // Scroll only #main (not the whole viewport) to avoid hiding the topbar on mobile.
+  // scrollIntoView() can incorrectly scroll ancestor scroll containers on iOS/Android.
+  const main = document.getElementById('main');
+  setTimeout(() => main.scrollTo({ top: main.scrollHeight, behavior: 'smooth' }), 50);
 }
 
 function closeViewer() {
