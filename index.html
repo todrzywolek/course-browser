@@ -350,6 +350,68 @@ let allCourses   = [];
 let activeCourse = null;
 let activePostId = null;
 
+// ── Routing helpers ────────────────────────────────────────────────────────
+function pushUrl(courseId, postId) {
+  let hash = '#';
+  if (courseId) hash += '/' + courseId;
+  if (postId)   hash += '/' + postId;
+  history.pushState(null, '', hash);
+  updateTitle(courseId, postId);
+}
+
+function parseHash() {
+  const raw   = location.hash.replace(/^#\/?/, '');
+  const parts = raw ? raw.split('/').filter(Boolean) : [];
+  return { courseId: parts[0] || null, postId: parts[1] || null };
+}
+
+function updateTitle(courseId, postId) {
+  if (!courseId) { document.title = 'Course Browser 🎓'; return; }
+  const course = allCourses.find(c => c.id === courseId);
+  if (!course)  { document.title = 'Course Browser 🎓'; return; }
+  if (postId) {
+    const post = course.categories.flatMap(c => c.posts).find(p => p.id === postId);
+    document.title = post ? `${post.name} — ${course.title}` : course.title;
+  } else {
+    document.title = course.title + ' 🎓';
+  }
+}
+
+// Navigate the UI based on the current URL hash (called on popstate + boot)
+function navigateFromUrl() {
+  if (!allCourses.length) return;
+  const { courseId, postId } = parseHash();
+
+  if (!courseId) {
+    activeCourse = null;
+    activePostId = null;
+    if (allCourses.length === 1) {
+      // Single-course: jump straight in without a history push
+      _renderCourse(allCourses[0]);
+      const first = allCourses[0].categories.flatMap(c => c.posts)
+        .find(p => p.video_drive_id || p.description || p.documents.length);
+      if (first) _renderPost(first.id);
+    } else {
+      renderHome();
+      updateTitle(null, null);
+    }
+    return;
+  }
+
+  const course = allCourses.find(c => c.id === courseId);
+  if (!course) { renderHome(); return; }
+
+  _renderCourse(course);
+  const targetId = postId
+    ? postId
+    : course.categories.flatMap(c => c.posts)
+        .find(p => p.video_drive_id || p.description || p.documents.length)?.id;
+  if (targetId) _renderPost(targetId);
+  updateTitle(courseId, targetId);
+}
+
+window.addEventListener('popstate', navigateFromUrl);
+
 // ── Boot ───────────────────────────────────────────────────────────────────
 async function boot() {
   try {
@@ -362,11 +424,7 @@ async function boot() {
     return;
   }
 
-  if (allCourses.length === 1) {
-    openCourse(allCourses[0]);
-  } else {
-    renderHome();
-  }
+  navigateFromUrl();
 }
 
 // ── Home ───────────────────────────────────────────────────────────────────
@@ -398,11 +456,13 @@ function renderHome() {
 function goHome() {
   activeCourse = null;
   activePostId = null;
-  show('home-screen');
+  pushUrl(null, null);
+  renderHome();
 }
 
-// ── Open course ────────────────────────────────────────────────────────────
-function openCourse(course) {
+// ── Open course ─────────────────────────────────────────────────────────────
+// Internal: render course UI without touching the URL
+function _renderCourse(course) {
   activeCourse = course;
   activePostId = null;
   show('app');
@@ -421,12 +481,16 @@ function openCourse(course) {
   // Reset content pane
   document.getElementById('placeholder').style.display = '';
   document.getElementById('content').classList.remove('visible');
+}
 
-  // Auto-select first post with video or description
+// User action: open a course and push a URL entry
+function openCourse(course) {
+  _renderCourse(course);
   const first = course.categories
     .flatMap(c => c.posts)
     .find(p => p.video_drive_id || p.description || p.documents.length);
-  if (first) selectPost(first.id);
+  pushUrl(course.id, first ? first.id : null);
+  if (first) _renderPost(first.id);
 }
 
 // ── Sidebar ────────────────────────────────────────────────────────────────
@@ -487,7 +551,8 @@ function filterSidebar(q) {
 }
 
 // ── Post ───────────────────────────────────────────────────────────────────
-function selectPost(postId) {
+// Internal: render post UI without touching the URL
+function _renderPost(postId) {
   activePostId = postId;
   document.querySelectorAll('.post-item').forEach(el =>
     el.classList.toggle('active', el.dataset.postId === postId));
@@ -500,6 +565,12 @@ function selectPost(postId) {
   renderPost(post, cat);
   document.querySelector(`.post-item[data-post-id="${postId}"]`)
           ?.scrollIntoView({ block: 'nearest' });
+}
+
+// User action: select a lesson and push a URL entry
+function selectPost(postId) {
+  if (activeCourse) pushUrl(activeCourse.id, postId);
+  _renderPost(postId);
 }
 
 function renderPost(post, cat) {
