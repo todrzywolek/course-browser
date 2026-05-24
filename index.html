@@ -157,7 +157,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 
 /* Video (Google Drive iframe) */
 .video-wrap {
-  position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;
+  position: relative; width: 100%; aspect-ratio: 16 / 9; overflow: hidden;
   border-radius: var(--radius); background: #000;
   margin-bottom: 24px; border: 1px solid var(--border);
 }
@@ -278,6 +278,10 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 
   /* Home screen: single column on very small screens */
   .course-grid { grid-template-columns: 1fr; }
+
+  /* Video: Drive player has title bar + controls that push beyond pure 16:9.
+     min-height ensures the player chrome is never clipped by overflow:hidden. */
+  .video-wrap { min-height: 300px; }
 
   /* Reduce embed height */
   .viewer-wrap .embed-frame { height: 320px; }
