@@ -4,9 +4,351 @@
     "title": "Archetypy_Oprogramowania",
     "categories": [
       {
+        "id": "2158888852",
+        "name": "INTRO - dziękujemy!",
+        "posts": [
+          {
+            "id": "2194800975",
+            "name": "Testuj z nami nową platformę!",
+            "description": "<p data-end=\"324\" data-start=\"185\">W tej edycji możesz korzystać z <strong data-end=\"235\" data-start=\"217\">dwóch platform</strong>:<br/><br data-end=\"239\" data-start=\"236\"/>- klasycznej <strong data-end=\"263\" data-start=\"253\">Kajabi</strong> oraz<br/>- <strong><a href=\"https://edu2.devstyle.pl/\">edu2.devstyle.pl</a> </strong>- to nasza własna platforma, którą stworzyliśmy od zera, specjalnie dla Was. Chcemy, żeby było maksymalnie wygodnie, przejrzyście i po prostu dobrze. :)</p>\n<p data-end=\"392\" data-start=\"326\">Kursowe materiały znajdziesz zarówno na edu2, jak i na Kajabi. Obie platformy działają na ten moment równolegle.</p>\n<p data-end=\"392\" data-start=\"326\">Jeśli jeszcze <strong data-end=\"447\" data-start=\"408\">nie logowałeś się wcześniej do edu2</strong>, to wejdź na <a href=\"https://edu2.devstyle.pl/\">edu2.devstyle.pl</a>, podaj maila, którym logujesz się na Kajabi i sprawdź, jak wygląda nauka w nowym wydaniu!</p>\n<p data-end=\"754\" data-start=\"606\">Platforma działa także mobilnie - wystarczy, że<span> </span><strong data-end=\"686\" data-start=\"654\">dodasz ją do ekranu głównego (PWA)</strong>.<br data-end=\"690\" data-start=\"687\"/>Na iPhone zrób to koniecznie przez przeglądarkę Safari. 📱<br/><br/></p>\n<p data-end=\"963\" data-start=\"893\">Wejdź, sprawdź, klikaj, testuj - i daj nam znać, co myślisz.<br data-end=\"1031\" data-start=\"1028\"/>Twoja opinia ma dla nas ogromne znaczenie. 💛</p>",
+            "video_drive_id": "",
+            "documents": []
+          },
+          {
+            "id": "2194895953",
+            "name": "Społeczność Archetypy Oprogramowania",
+            "description": "<p></p>\n<p class=\"link-styling\">Dołącz koniecznie do naszej społeczności na Discordzie<strong> - to serce programu Archetypy Oprogramowania!</strong></p>\n<p class=\"link-styling\">To właśnie tam realnie przyspieszysz swój rozwój poprzez wspólne burze mózgów i bezpośredni kontakt z Bartkiem Słotą, Sławkiem Sobótką oraz Kubą Pilimonem, którzy osobiście dbają o to, by każda Twoja wątpliwość zamieniła się w konkretne rozwiązanie.<br/><br/>Nie czekaj - dołącz już teraz i bądź częścią tej społeczności: <a href=\"https://archetypyoprogramowania.pl/discord\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://archetypyoprogramowania.pl/discord</a></p>\n<p class=\"link-styling\"><strong>Jeśli chcesz wycisnąć z programu maksimum wiedzy i praktyki - nie może Cię tam zabraknąć!</strong></p>",
+            "video_drive_id": "",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "2159452479",
+        "name": "M01 - Wstęp [01:08:08]",
+        "posts": [
+          {
+            "id": "2194991082",
+            "name": "L01: Archetypy jako fundament analizy systemów [28:03]",
+            "description": "<hr/><hr/>\n<p><span style=\"font-weight: 400;\">Discord: </span><a href=\"https://archetypyoprogramowania.pl/discord\"><span style=\"font-weight: 400;\">https://archetypyoprogramowania.pl/discord</span></a><span style=\"font-weight: 400;\"> </span></p>\n<p><span style=\"font-weight: 400;\">Repozytorium: </span><span style=\"font-weight: 400;\"><a href=\"https://github.com/archetypy-oprogramowania\">https://github.com/archetypy-oprogramowania</a><a href=\"https://github.com/Archetypy-Oprogramowania\"> </a></span></p>\n<hr/><hr/>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Wszystkie slajdy, transkrypcje, pliki mp3, do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów Archetypów Oprogramowania wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne.</span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\">Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n</ul>",
+            "video_drive_id": "1SqUOCgUqzRj6q99QevHrc1SL5644DsE3",
+            "documents": [
+              {
+                "name": "AO_M01L01_prezentacja.pdf",
+                "drive_id": "1zxfSI2tigyVsURXIoQ0EW7OAOTSnGCFZ",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163390952/ao_m01l01_prezentacja-pdf"
+              },
+              {
+                "name": "AO_M01L01_transkrypcja.pdf",
+                "drive_id": "1oIMXfP7G-bJUhHsJV0C9tTe7Laq_Z6NN",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163242259/ao_m01l01_transkrypcja-pdf"
+              },
+              {
+                "name": "AO-M01L01.mp3",
+                "drive_id": "1NOyohZ6IDJhv7mpOLl5Cox5WnW6odVr1",
+                "mime": "audio/mpeg",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163230434/ao-m01l01-mp3"
+              },
+              {
+                "name": "AO_M01_wszystkie_prezentacje.zip",
+                "drive_id": "1exni-LvD6Usx7OBIt-m7FXmNTR6MlljU",
+                "mime": "application/zip",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163390955/ao_m01_wszystkie_prezentacje-zip"
+              },
+              {
+                "name": "AO_M01_wszystkie_transkrypcje.zip",
+                "drive_id": "13WKuluSVLKGenYcYBF6nGxSXo_SFoioY",
+                "mime": "application/zip",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163242261/ao_m01_wszystkie_transkrypcje-zip"
+              },
+              {
+                "name": "AO_M01_wszystkie_MP3.zip",
+                "drive_id": "1oZYackKEDwJrDGB8NBUebP2px2lIxiKp",
+                "mime": "application/zip",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163254412/ao_m01_wszystkie_mp3-zip"
+              }
+            ]
+          },
+          {
+            "id": "2194993498",
+            "name": "L02: Kiedy opłaca się szukać archetypów [08:47]",
+            "description": "<hr/><hr/>\n<p><span style=\"font-weight: 400;\">Discord: </span><a href=\"https://archetypyoprogramowania.pl/discord\"><span style=\"font-weight: 400;\">https://archetypyoprogramowania.pl/discord</span></a><span style=\"font-weight: 400;\"> </span></p>\n<p><span style=\"font-weight: 400;\">Repozytorium: </span><span style=\"font-weight: 400;\"><a href=\"https://github.com/archetypy-oprogramowania\">https://github.com/archetypy-oprogramowania</a><a href=\"https://github.com/Archetypy-Oprogramowania\"> </a></span></p>\n<hr/><hr/>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Wszystkie slajdy, transkrypcje, pliki mp3, do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów Archetypów Oprogramowania wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne.</span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\">Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n</ul>",
+            "video_drive_id": "1_9Nh01C5IX3LgmOnstoH99jVkt6Wh0Lu",
+            "documents": [
+              {
+                "name": "AO_M01L02_prezentacja.pdf",
+                "drive_id": "1QdcuIqA-PpNJtpB-mnmCotPBfzC8helU",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163390950/ao_m01l02_prezentacja-pdf"
+              },
+              {
+                "name": "AO_M01L02_transkrypcja.pdf",
+                "drive_id": "1hoqm86aY5bJqon7mdG4V2sM8QxMfqU2E",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163242264/ao_m01l02_transkrypcja-pdf"
+              },
+              {
+                "name": "AO-M01L02.mp3",
+                "drive_id": "1qWcZNCEIdSW8VlkfkMqZNZ6YunwN1uwL",
+                "mime": "audio/mpeg",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163230444/ao-m01l02-mp3"
+              }
+            ]
+          },
+          {
+            "id": "2194994422",
+            "name": "L03: Kluczowe definicje [06:28]",
+            "description": "<hr/><hr/>\n<p><span style=\"font-weight: 400;\">\"Książka Jim Arlow, Ila Neustadt, 2003, Enterprise Patterns and MDA: Building Better Software with Archetype Patterns and UML\": </span><a href=\"https://www.oreilly.com/library/view/enterprise-patterns-and/032111230X/\"><span style=\"font-weight: 400;\">https://www.oreilly.com/library/view/enterprise-patterns-and/032111230X/</span></a><span style=\"font-weight: 400;\"> </span></p>\n<hr/><hr/>\n<p><span style=\"font-weight: 400;\">Discord: </span><a href=\"https://archetypyoprogramowania.pl/discord\"><span style=\"font-weight: 400;\">https://archetypyoprogramowania.pl/discord</span></a><span style=\"font-weight: 400;\"> </span></p>\n<p><span style=\"font-weight: 400;\">Repozytorium: </span><span style=\"font-weight: 400;\"><a href=\"https://github.com/archetypy-oprogramowania\">https://github.com/archetypy-oprogramowania</a><a href=\"https://github.com/Archetypy-Oprogramowania\"> </a></span></p>\n<hr/><hr/>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Wszystkie slajdy, transkrypcje, pliki mp3, do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów Archetypów Oprogramowania wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne.</span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\">Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n</ul>",
+            "video_drive_id": "1SVLB6ZEHxDzyNREAFdx24r8Au2RFGfVd",
+            "documents": [
+              {
+                "name": "AO_M01L03_prezentacja.pdf",
+                "drive_id": "1RhcKNrjyl0ygjzLPRpNRjnWvZURgqeCc",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163390949/ao_m01l03_prezentacja-pdf"
+              },
+              {
+                "name": "AO_M01L03_transkrypcja.pdf",
+                "drive_id": "1LsG_8QigOkrUJwOH8vLh4lb5_7SBv8I6",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163242265/ao_m01l03_transkrypcja-pdf"
+              },
+              {
+                "name": "AO-M01L03.mp3",
+                "drive_id": "1CuvYE6iXVmlmClVwOFY95bHhnhwU6-NP",
+                "mime": "audio/mpeg",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163230449/ao-m01l03-mp3"
+              }
+            ]
+          },
+          {
+            "id": "2194994990",
+            "name": "L04: Dla kogo jest to szkolenie [09:49]",
+            "description": "<hr/><hr/>\n<p><span style=\"font-weight: 400;\">Discord: </span><a href=\"https://archetypyoprogramowania.pl/discord\"><span style=\"font-weight: 400;\">https://archetypyoprogramowania.pl/discord</span></a><span style=\"font-weight: 400;\"> </span></p>\n<p><span style=\"font-weight: 400;\">Repozytorium: </span><span style=\"font-weight: 400;\"><a href=\"https://github.com/archetypy-oprogramowania\">https://github.com/archetypy-oprogramowania</a><a href=\"https://github.com/Archetypy-Oprogramowania\"> </a></span></p>\n<hr/><hr/>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Wszystkie slajdy, transkrypcje, pliki mp3, do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów Archetypów Oprogramowania wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne.</span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\">Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n</ul>",
+            "video_drive_id": "1v_RP3MHUyaQ01A60NWGgkGA9sQkSKeGA",
+            "documents": [
+              {
+                "name": "AO_M01L04_prezentacja.pdf",
+                "drive_id": "1lKukn550vcpf2O9UL2vAf-b2dajMTYq6",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163390947/ao_m01l04_prezentacja-pdf"
+              },
+              {
+                "name": "AO_M01L04_transkrypcja.pdf",
+                "drive_id": "1dz4W2NzBDtFTsnv0jHW0S3w714ofXwPP",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163242266/ao_m01l04_transkrypcja-pdf"
+              },
+              {
+                "name": "AO-M01L04.mp3",
+                "drive_id": "1V_wSyusTz8O5LPJoP6Xk1pl3sECxmeGq",
+                "mime": "audio/mpeg",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163230454/ao-m01l04-mp3"
+              }
+            ]
+          },
+          {
+            "id": "2194996767",
+            "name": "L05: AI vs ludzki hipokamp [08:59]",
+            "description": "<hr/><hr/>\n<p><span style=\"font-weight: 400;\">\"Hipokamp\": </span><a href=\"https://explorebiology.org/collections/neuroscience/grid-and-place-cells-keys-to-the-spatial-map-in-your-brain\"><span style=\"font-weight: 400;\">https://explorebiology.org/collections/neuroscience/grid-and-place-cells-keys-to-the-spatial-map-in-your-brain</span></a><span style=\"font-weight: 400;\"> </span></p>\n<hr/><hr/>\n<p><span style=\"font-weight: 400;\">Discord: </span><a href=\"https://archetypyoprogramowania.pl/discord\"><span style=\"font-weight: 400;\">https://archetypyoprogramowania.pl/discord</span></a><span style=\"font-weight: 400;\"> </span></p>\n<p><span style=\"font-weight: 400;\">Repozytorium: </span><span style=\"font-weight: 400;\"><a href=\"https://github.com/archetypy-oprogramowania\">https://github.com/archetypy-oprogramowania</a><a href=\"https://github.com/Archetypy-Oprogramowania\"> </a></span></p>\n<hr/><hr/>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Wszystkie slajdy, transkrypcje, pliki mp3, do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów Archetypów Oprogramowania wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne.</span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\">Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n</ul>",
+            "video_drive_id": "1XvALpoUfb9XVy2TY-6FfWJA-xtvid0Q0",
+            "documents": [
+              {
+                "name": "AO_M01L05_prezentacja.pdf",
+                "drive_id": "1zFPek8IbOLZOGNggvHpyUx0U9XiJJWLt",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163390944/ao_m01l05_prezentacja-pdf"
+              },
+              {
+                "name": "AO_M01L05_transkrypcja.pdf",
+                "drive_id": "1UusFz5xXfBW8Ey8hX66kaFfpTrvMtTrD",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163242268/ao_m01l05_transkrypcja-pdf"
+              },
+              {
+                "name": "AO-M01L05.mp3",
+                "drive_id": "1XmtFigaiyWT-lJdOvDLsLIgMlnvVEhaf",
+                "mime": "audio/mpeg",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163230456/ao-m01l05-mp3"
+              }
+            ]
+          },
+          {
+            "id": "2194998018",
+            "name": "L06: Nasze autorskie podejście [03:23]",
+            "description": "<hr/><hr/>\n<p><span style=\"font-weight: 400;\">Discord: </span><a href=\"https://archetypyoprogramowania.pl/discord\"><span style=\"font-weight: 400;\">https://archetypyoprogramowania.pl/discord</span></a><span style=\"font-weight: 400;\"> </span></p>\n<p><span style=\"font-weight: 400;\">Repozytorium: </span><span style=\"font-weight: 400;\"><a href=\"https://github.com/archetypy-oprogramowania\">https://github.com/archetypy-oprogramowania</a><a href=\"https://github.com/Archetypy-Oprogramowania\"> </a></span></p>\n<hr/><hr/>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Wszystkie slajdy, transkrypcje, pliki mp3, do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów Archetypów Oprogramowania wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne.</span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\">Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n</ul>",
+            "video_drive_id": "1XeAgXk6Ik3arizZKjKBf1MdFs8VIWHSB",
+            "documents": [
+              {
+                "name": "AO_M01L06_prezentacja.pdf",
+                "drive_id": "1VSJ6j0jQODBRJ66dHuVVA0clljj28QmZ",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163390943/ao_m01l06_prezentacja-pdf"
+              },
+              {
+                "name": "AO_M01L06_transkrypcja.pdf",
+                "drive_id": "1WYduPLRSjNGoC_m_QW0JkF83jcxs5Dl3",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163242269/ao_m01l06_transkrypcja-pdf"
+              },
+              {
+                "name": "AO-M01L06.mp3",
+                "drive_id": "1tJRv_zutC1MT5LdKJ3-hmO3Jjc9NtAaj",
+                "mime": "audio/mpeg",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163230462/ao-m01l06-mp3"
+              }
+            ]
+          },
+          {
+            "id": "2195008307",
+            "name": "L07: Archetypy w procesie sprzedaży usług IT [02:39]",
+            "description": "<hr/><hr/>\n<p><span style=\"font-weight: 400;\">\"DevTalk o FDE (Forward Deployed Engineer)\": </span><a href=\"https://open.spotify.com/episode/4qCG8ZJKQ6wKwKukT6uOTo\"><span style=\"font-weight: 400;\">Spotify</span></a><span style=\"font-weight: 400;\">, </span><a href=\"https://podcasts.apple.com/pl/podcast/devtalk-139-o-archetypach-i-nowej-roli-w-it-ze-s%C5%82awomirem/id933567686?i=1000749982628\"><span style=\"font-weight: 400;\">Apple Podcast</span></a></p>\n<hr/><hr/>\n<p><span style=\"font-weight: 400;\">Discord: </span><a href=\"https://archetypyoprogramowania.pl/discord\"><span style=\"font-weight: 400;\">https://archetypyoprogramowania.pl/discord</span></a><span style=\"font-weight: 400;\"> </span></p>\n<p><span style=\"font-weight: 400;\">Repozytorium: </span><span style=\"font-weight: 400;\"><a href=\"https://github.com/archetypy-oprogramowania\">https://github.com/archetypy-oprogramowania</a><a href=\"https://github.com/Archetypy-Oprogramowania\"> </a></span></p>\n<hr/><hr/>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Wszystkie slajdy, transkrypcje, pliki mp3, do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów Archetypów Oprogramowania wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne.</span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\">Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n</ul>",
+            "video_drive_id": "1-Fy-cU0rDgi-FKOzk5AIHDQJQZqvR9QQ",
+            "documents": [
+              {
+                "name": "AO_M01L07_prezentacja.pdf",
+                "drive_id": "1-J_78ayVJn_dA9Lc5U7N7gTXOGhpnNZs",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163390942/ao_m01l07_prezentacja-pdf"
+              },
+              {
+                "name": "AO_M01L07_transkrypcja.pdf",
+                "drive_id": "1sBb37ToHb2XKw9zqyqolGvNQ7Ox00P-7",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163242271/ao_m01l07_transkrypcja-pdf"
+              },
+              {
+                "name": "AO-M01L07.mp3",
+                "drive_id": "1PgQaTerXYz8JB9EZW0Mu-JF8U-pHzUVt",
+                "mime": "audio/mpeg",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163230482/ao-m01l07-mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "id": "2159501783",
         "name": "M02 - Produkt i katalog [03:28:40]",
         "posts": [
+          {
+            "id": "2195193057",
+            "name": "Scenka 1 [02:16]",
+            "description": "<hr/><hr/>\n<p><span style=\"font-weight: 400;\">Discord:<span> </span></span><a href=\"https://archetypyoprogramowania.pl/discord\"><span style=\"font-weight: 400;\">https://archetypyoprogramowania.pl/discord</span></a><span style=\"font-weight: 400;\"> </span></p>\n<p><span style=\"font-weight: 400;\">Repozytorium:<span> </span></span><span style=\"font-weight: 400;\"><a href=\"https://github.com/archetypy-oprogramowania\">https://github.com/archetypy-oprogramowania</a><a href=\"https://github.com/Archetypy-Oprogramowania\"> </a></span></p>\n<hr/><hr/>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Wszystkie slajdy, transkrypcje, pliki mp3, do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów Archetypów Oprogramowania wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne.<br/><br/></span><span style=\"font-weight: 400;\">Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n</ul>",
+            "video_drive_id": "13-ghsx3ZJcTbWLHPJOux1q1v6LrA2y72",
+            "documents": [
+              {
+                "name": "AO_M02S01_transkrypcja.pdf",
+                "drive_id": "1BiD5MjOkOqSCSlne9vOiayONNpcZ-ZgY",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163321224/ao_m02s01_transkrypcja-pdf"
+              },
+              {
+                "name": "M02S01.mp3",
+                "drive_id": "1tNUTScFFIgOGNnRHQyX9_CFLZGOuJlA2",
+                "mime": "audio/mpeg",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163281271/m02s01-mp3"
+              }
+            ]
+          },
+          {
+            "id": "2195184626",
+            "name": "L01: Rozpoznawanie produktu w systemie [10:43]",
+            "description": "<hr/><hr/>\n<p><span style=\"font-weight: 400;\">Discord: </span><a href=\"https://archetypyoprogramowania.pl/discord\"><span style=\"font-weight: 400;\">https://archetypyoprogramowania.pl/discord</span></a><span style=\"font-weight: 400;\"> </span></p>\n<p><span style=\"font-weight: 400;\">Repozytorium: </span><span style=\"font-weight: 400;\"><a href=\"https://github.com/Archetypy-Oprogramowania\">https://github.com/archetypy-oprogramowania</a></span></p>\n<hr/><hr/>\n<p><span style=\"font-weight: 400;\">Wszystkie slajdy, transkrypcje, pliki mp3, do tego modułu są do pobrania pod pierwszą lekcją.</span></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów Archetypów Oprogramowania wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne.</span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\">Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n</ul>",
+            "video_drive_id": "1cEaBChwlSrk0_hJrifqShQN5HqTArL5R",
+            "documents": [
+              {
+                "name": "AO_M02L01_transkrypcja.pdf",
+                "drive_id": "1j7tuupo9ZOoGrsxMYaej0g4ayl8WEzaE",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163321240/ao_m02l01_transkrypcja-pdf"
+              },
+              {
+                "name": "AO_M02L01_prezentacja.pdf",
+                "drive_id": "1PDrd0kJPO9T9joqfGCzcnKKMB7KCjRmn",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163321254/ao_m02l01_prezentacja-pdf"
+              },
+              {
+                "name": "AO-M02L01.mp3",
+                "drive_id": "1A1U_FfQV5kvI6urlAG2PD-79bQIa-RKZ",
+                "mime": "audio/mpeg",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163277030/ao-m02l01-mp3"
+              },
+              {
+                "name": "AO_M02_wszystkie_transkrypcje.zip",
+                "drive_id": "1rj1owl5qRHiruuC4nIonR4DWenbFdGuj",
+                "mime": "application/zip",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163322162/ao_m02_wszystkie_transkrypcje-zip"
+              },
+              {
+                "name": "AO_M02_wszystkie_prezentacje",
+                "drive_id": "1t_CIDD2HOpCIazCzPxlScBVM8Hr4_Yw9",
+                "mime": "application/octet-stream",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163830107/ao_m02_wszystkie_prezentacje"
+              },
+              {
+                "name": "AO_M02_wszystkie_MP3.zip",
+                "drive_id": "1fB9vivXv07h1drnVFlNi8eDUgjCOhTQ7",
+                "mime": "application/zip",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163321259/ao_m02_wszystkie_mp3-zip"
+              }
+            ]
+          },
+          {
+            "id": "2195185380",
+            "name": "L02: Sześć typowych poziomów chaosu produktowego [31:48]",
+            "description": "<hr/><hr/>\n<ul>\n<li><span style=\"font-weight: 400;\">\"Produkty unikatowe (grafika)\": </span><a href=\"https://www.thomann.es/esp_snakebyte_blks_james_hetfield.htm\"><span style=\"font-weight: 400;\">https://www.thomann.es/esp_snakebyte_blks_james_hetfield.htm</span></a></li>\n</ul>\n<hr/><hr/>\n<p><span style=\"font-weight: 400;\">Discord:<span> </span></span><a href=\"https://archetypyoprogramowania.pl/discord\"><span style=\"font-weight: 400;\">https://archetypyoprogramowania.pl/discord</span></a><span style=\"font-weight: 400;\"> </span></p>\n<p><span style=\"font-weight: 400;\">Repozytorium:<span> </span></span><span style=\"font-weight: 400;\"><a href=\"https://github.com/archetypy-oprogramowania\">https://github.com/archetypy-oprogramowania</a><a href=\"https://github.com/Archetypy-Oprogramowania\"> </a></span></p>\n<hr/><hr/>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Wszystkie slajdy, transkrypcje, pliki mp3, do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów Archetypów Oprogramowania wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne.</span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\">Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n</ul>",
+            "video_drive_id": "1H6Gx6vVHHU3FircnBmmRceTvq6A32jML",
+            "documents": [
+              {
+                "name": "AO_M02L02_prezentacja.pdf",
+                "drive_id": "1oyeZ4YVKAhvhk0r3O7ZAjhAJaOksXng4",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163321277/ao_m02l02_prezentacja-pdf"
+              },
+              {
+                "name": "AO_M02L02_transkrypcja.pdf",
+                "drive_id": "1kJosD861YSG2xY24U6jhVPZlfHeSrw2s",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163321274/ao_m02l02_transkrypcja-pdf"
+              },
+              {
+                "name": "AO-M02L02.mp3",
+                "drive_id": "1ZL6GBz9i4bpl5QE9DFKr-zFNKXfIDKME",
+                "mime": "audio/mpeg",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163277209/ao-m02l02-mp3"
+              }
+            ]
+          },
+          {
+            "id": "2195185741",
+            "name": "L03: Definicja produktu i instancja produktu [16:35]",
+            "description": "<hr/><hr/>\n<ul>\n<li><span style=\"font-weight: 400;\">\"Książka Jim Arlow, Ila Neustadt, 2003, Enterprise Patterns and MDA: Building Better Software with Archetype Patterns and UML\": </span><a href=\"https://www.amazon.pl/s?i=stripbooks&amp;rh=p_27%3AJim%2BArlow&amp;ref=dp_byline_sr_book_1\"><span style=\"font-weight: 400;\">https://www.amazon.pl/s?i=stripbooks&amp;rh=p_27%3AJim%2BArlow&amp;ref=dp_byline_sr_book_1</span></a></li>\n</ul>\n<hr/><hr/>\n<p><span style=\"font-weight: 400;\">Discord:<span> </span></span><a href=\"https://archetypyoprogramowania.pl/discord\"><span style=\"font-weight: 400;\">https://archetypyoprogramowania.pl/discord</span></a><span style=\"font-weight: 400;\"> </span></p>\n<p><span style=\"font-weight: 400;\">Repozytorium:<span> </span></span><span style=\"font-weight: 400;\"><a href=\"https://github.com/archetypy-oprogramowania\">https://github.com/archetypy-oprogramowania</a><a href=\"https://github.com/Archetypy-Oprogramowania\"> </a></span></p>\n<hr/><hr/>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Wszystkie slajdy, transkrypcje, pliki mp3, do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów Archetypów Oprogramowania wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne.</span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\">Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n</ul>",
+            "video_drive_id": "1kjpFNwPMQJZcbVEKLeCX217HK_ahibbe",
+            "documents": [
+              {
+                "name": "AO_M02L03_transkrypcja.pdf",
+                "drive_id": "1iVkk4ZzSFWySAZ9uE-soV5TRvBa13wE7",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163321304/ao_m02l03_transkrypcja-pdf"
+              },
+              {
+                "name": "AO_M02L03_prezentacja.pdf",
+                "drive_id": "1zC9awLT1n1zQRAbw2UZEHS2QjxFUbQJQ",
+                "mime": "application/pdf",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163321302/ao_m02l03_prezentacja-pdf"
+              },
+              {
+                "name": "AO-M02L03.mp3",
+                "drive_id": "1simCi3B9V1PzPCvM2XW5VJQDQR8-6hw7",
+                "mime": "audio/mpeg",
+                "_original_url": "https://edu.devstyle.pl/courses/downloads/2163278371/ao-m02l03-mp3"
+              }
+            ]
+          },
           {
             "id": "2195186835",
             "name": "L04: Identyfikowalność i śledzenie produktów [19:31]",
@@ -8097,23 +8439,23 @@
             "id": "2187232984",
             "name": "#1: Supermoce Uczenia: Hakowanie Wiedzy z LLMami [02:23:45]",
             "description": "<hr/><hr/>\n<p><span>Koniecznie dołącz do naszej społeczności Developer Jutra na Discord!<br/>Adres: </span><span><a href=\"https://developerjutra.pl/discord\">https://developerjutra.pl/discord</a><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://developerjutra.pl/discord\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://developerjutra.pl/discord\"> </a></span></p>\n<p><span>Repozytorium z kodem z webinarów: </span><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://github.com/developer-jutra/dj-webinars\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://github.com/developer-jutra/dj-webinars\"><span>https://github.com/developer-jutra/dj-webinars</span></a></p>",
-            "video_drive_id": "1SqFrPo3Qta2o5OEhYQMdLfmvyGfHcd4G",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Webinar_01.MP3",
-                "drive_id": "12aEQBdaY7pgZqzNJ1Vq0dqjp_lhP052l",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2160782701/dj_webinar_01-mp3"
               },
               {
                 "name": "DJ_Webinar_01_transkrypcja.pdf",
-                "drive_id": "19q5FV65vMPFMDKY3NZNq5UIFHRJWyKFq",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2160782676/dj_webinar_01_transkrypcja-pdf"
               },
               {
                 "name": "DJ_Webinar_01_prezentacja.pdf",
-                "drive_id": "1xvNEiuGfueRNtimr7Jyrg0e6uOXqK129",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2160781731/dj_webinar_01_prezentacja-pdf"
               }
@@ -8123,23 +8465,23 @@
             "id": "2187233152",
             "name": "#2: MCP: Nowy Język Komunikacji z AI [02:06:09]",
             "description": "<hr/><hr/>\n<p><span>Koniecznie dołącz do naszej społeczności Developer Jutra na Discord!<br/>Adres: </span><span><a href=\"https://developerjutra.pl/discord\">https://developerjutra.pl/discord</a><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://developerjutra.pl/discord\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://developerjutra.pl/discord\"> </a></span></p>\n<p><span>Repozytorium z kodem z webinarów: </span><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://github.com/developer-jutra/dj-webinars\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://github.com/developer-jutra/dj-webinars\"><span>https://github.com/developer-jutra/dj-webinars</span></a></p>",
-            "video_drive_id": "1kkok8Hl15u60QeGBnkZm6Kp0itJxT4QH",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Webinar_02_transkrypcja.pdf",
-                "drive_id": "1cwMDjZf_j1Updsu2UW8cEo2FnPAv8ZuF",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2160829132/dj_webinar_02_transkrypcja-pdf"
               },
               {
                 "name": "DJ_Webinar_02.MP3",
-                "drive_id": "108hy2JcdQHw2JXwxnShkJ_Hpu6nbDe-J",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2160800571/dj_webinar_02-mp3"
               },
               {
                 "name": "DJ_Webinar_02_prezentacja.pdf",
-                "drive_id": "102bWW6JVUqSqZBLkoug4mZFTdelzll5D",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2160800462/dj_webinar_02_prezentacja-pdf"
               }
@@ -8149,23 +8491,23 @@
             "id": "2187233215",
             "name": "#3: DevOps bez Bólu:  Od Zera do  Deploymentu [02:22:02]",
             "description": "<hr/><hr/>\n<p><span>Koniecznie dołącz do naszej społeczności Developer Jutra na Discord!<br/>Adres: </span><span><a href=\"https://developerjutra.pl/discord\">https://developerjutra.pl/discord</a><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://developerjutra.pl/discord\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://developerjutra.pl/discord\"> </a></span></p>\n<p><span>Repozytorium z kodem z webinarów: </span><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://github.com/developer-jutra/dj-webinars\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://github.com/developer-jutra/dj-webinars\"><span>https://github.com/developer-jutra/dj-webinars</span></a></p>",
-            "video_drive_id": "1vQZzr2PQ0jq11KKCxTveDtYZXPCPTPdS",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Webinar_03.MP3",
-                "drive_id": "1rLyugeNbaZn4wOi7lswhvkS_HXTjJ1RI",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161167634/dj_webinar_03-mp3"
               },
               {
                 "name": "DJ_Webinar_03_transkrypcja.pdf",
-                "drive_id": "1outIg3PegNd_fxGUzOhnuVs6qqjYN_m_",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161167407/dj_webinar_03_transkrypcja-pdf"
               },
               {
                 "name": "DJ_Webinar_03_prezentacja.pdf",
-                "drive_id": "10d-7miyljhsBIqbbIZMz4UGtNAYzMHFD",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2160852927/dj_webinar_03_prezentacja-pdf"
               }
@@ -8175,23 +8517,23 @@
             "id": "2187233421",
             "name": "#4: Full-Stack Ninja: Pierwsza Transformacja [02:37:31]",
             "description": "<hr/><hr/>\n<p><span>Koniecznie dołącz do naszej społeczności Developer Jutra na Discord!<br/>Adres: </span><span><a href=\"https://developerjutra.pl/discord\">https://developerjutra.pl/discord</a><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://developerjutra.pl/discord\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://developerjutra.pl/discord\"> </a></span></p>\n<p><span>Repozytorium z kodem z webinarów: </span><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://github.com/developer-jutra/dj-webinars\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://github.com/developer-jutra/dj-webinars\"><span>https://github.com/developer-jutra/dj-webinars</span></a></p>",
-            "video_drive_id": "1Om-DU1GYO2JF-KFkmsXsb3S6GyA6AIOr",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Webinar_04.MP3",
-                "drive_id": "1YGeMy-U7LihCKeC9_tThxfmmHXDxTInl",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161167392/dj_webinar_04-mp3"
               },
               {
                 "name": "DJ_Webinar_04_transkrypcja.pdf",
-                "drive_id": "19IYDZo0i8DHmotUwk_zo1Cy4f6bJTFV3",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161171798/dj_webinar_04_transkrypcja-pdf"
               },
               {
                 "name": "DJ_Webinar_04_prezentacja.pdf",
-                "drive_id": "1c6KuUQftFxcnnrAMSitpm_rk-JX8DWes",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2160899771/dj_webinar_04_prezentacja-pdf"
               }
@@ -8201,23 +8543,23 @@
             "id": "2187233484",
             "name": "#5: Oko Saurona: Monitorowanie Aplikacji Bez Tajemnic [02:11:17]",
             "description": "<hr/><hr/>\n<p><span>Koniecznie dołącz do naszej społeczności Developer Jutra na Discord!<br/>Adres: </span><span><a href=\"https://developerjutra.pl/discord\">https://developerjutra.pl/discord</a><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://developerjutra.pl/discord\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://developerjutra.pl/discord\"> </a></span></p>\n<p><span>Repozytorium z kodem z webinarów: </span><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://github.com/developer-jutra/dj-webinars\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://github.com/developer-jutra/dj-webinars\"><span>https://github.com/developer-jutra/dj-webinars</span></a></p>",
-            "video_drive_id": "1o3hH8CvObvWJkBZH40MBZJTxK3qArxE4",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Webinar_05.MP3",
-                "drive_id": "103ez2fH61drZZPQKQLMcTum-PsOnT1VL",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161167308/dj_webinar_05-mp3"
               },
               {
                 "name": "DJ_Webinar_05_transkrypcja.pdf",
-                "drive_id": "1jxP9U9KdF4zs8wNEAAoiHSDw3lZG53ec",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161166861/dj_webinar_05_transkrypcja-pdf"
               },
               {
                 "name": "DJ_Webinar_05_prezentacja.pdf",
-                "drive_id": "1zE4gqnq8b59rpk6fAG712guaoNQ72uaH",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161009748/dj_webinar_05_prezentacja-pdf"
               }
@@ -8227,17 +8569,17 @@
             "id": "2188538793",
             "name": "#6.1 WPROWADZENIE: Eksploracja domeny logistycznej z LLM [02:11:25]",
             "description": "<ul>\n<li><span>wątek w którym poznawaliśmy domenę: <a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://www.perplexity.ai/search/i-want-you-to-generate-10-diff-7VWrXlIzRVeXSHgTZMeYgQ?login-new=false&amp;login-source=oneTapThread\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://www.perplexity.ai/search/i-want-you-to-generate-10-diff-7VWrXlIzRVeXSHgTZMeYgQ?login-new=false&amp;login-source=oneTapThread\">https://www.perplexity.ai/search/i-want-you-to-generate-10-diff-7VWrXlIzRVeXSHgTZMeYgQ?login-new=false&amp;login-source=oneTapThread</a></span><span class=\"hiddenVisually__27f77\">,</span></li>\n<li><span>ER diagram na podstawie opisu domeny (bazowany na snapshocie z powyższego wątku): <a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://www.perplexity.ai/search/please-analyze-this-descriptio-KY2oGTffQO6rAdcEmqnpkA\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://www.perplexity.ai/search/please-analyze-this-descriptio-KY2oGTffQO6rAdcEmqnpkA\">https://www.perplexity.ai/search/please-analyze-this-descriptio-KY2oGTffQO6rAdcEmqnpkA</a></span><span class=\"hiddenVisually__27f77\">,</span></li>\n<li><span>uzupełnione prompty/linki dla <code class=\"inline\">deliveroo</code>: <a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://github.com/developer-jutra/dj-webinars/tree/main/deliveroo/_prompts\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://github.com/developer-jutra/dj-webinars/tree/main/deliveroo/_prompts\">https://github.com/developer-jutra/dj-webinars/tree/main/deliveroo/_prompts</a></span></li>\n</ul>",
-            "video_drive_id": "1Eph8Rq01z4s8Q7IiJrt6YLVFGWT2SSeS",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_BonusVI_Eksploracja_Domeny_Logistycznej_LLM.MP3",
-                "drive_id": "1_HpsTvZeuLdr9b5yqrEqal3uJk5kheqO",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161485349/dj_bonusvi_eksploracja_domeny_logistycznej_llm-mp3"
               },
               {
                 "name": "DJ_Webinar_bonus_Eksploracja_domeny_logistycznej_prezentacja.pdf",
-                "drive_id": "1ZwyGFfn1Y35TEtZbfOJWqV_OcoCJ_Kif",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161151370/dj_webinar_bonus_eksploracja_domeny_logistycznej_prezentacja-pdf"
               }
@@ -8247,23 +8589,23 @@
             "id": "2187233636",
             "name": "#6.2: Eksploracja Biznesowa: Magia Event Stormingu [02:15:54]",
             "description": "<hr/><hr/>\n<p><span>Koniecznie dołącz do naszej społeczności Developer Jutra na Discord!<br/>Adres: </span><span><a href=\"https://developerjutra.pl/discord\">https://developerjutra.pl/discord</a><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://developerjutra.pl/discord\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://developerjutra.pl/discord\"> </a></span></p>\n<p><span>Repozytorium z kodem z webinarów: </span><span><a href=\"https://github.com/developer-jutra/dj-webinars\">https://github.com/developer-jutra/dj-webinars</a><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://github.com/developer-jutra/dj-webinars\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://github.com/developer-jutra/dj-webinars\"> </a></span></p>\n<hr/><hr/>\n<p><strong>Materiał wprowadzający przed warsztatem</strong>: <a href=\"https://edu.devstyle.pl/products/developer-jutra/categories/2157586829/posts/2188538793\">Eksploracja domeny logistycznej z LLM</a></p>\n<hr/><hr/>\n<p><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://excalidraw.com/#room=0e71998fd223f8840282,TET6AD5cjlqBgt5SN77SfQ\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://excalidraw.com/#room=0e71998fd223f8840282,TET6AD5cjlqBgt5SN77SfQ\"><span>https://excalidraw.com/#room=0e71998fd223f8840282,TET6AD5cjlqBgt5SN77SfQ</span></a></p>\n<p> </p>",
-            "video_drive_id": "1HnftWuYhZpYREl0wc5wMycNV0cE7HUb-",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Webinar_06_transkrypcja.pdf",
-                "drive_id": "18rCmwnMJdEKk3zPT9SaUKt1fXSeiWusO",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161220877/dj_webinar_06_transkrypcja-pdf"
               },
               {
                 "name": "DJ_Webinar_06.MP3",
-                "drive_id": "1pJhVIUeAbCbtXhvrQTpfIy_ePNyIGH6J",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161166971/dj_webinar_06-mp3"
               },
               {
                 "name": "DJ_Webinar_06_prezentacja.pdf",
-                "drive_id": "1kd4xKksOuKJKaDDA_88fsgazApy38ifn",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161152595/dj_webinar_06_prezentacja-pdf"
               }
@@ -8273,23 +8615,23 @@
             "id": "2187233759",
             "name": "#7: Kontrakty Nie Muszą Boleć: Automatyzacja Dla Wymagających [02:01:18]",
             "description": "<hr/><hr/>\n<p><span>Koniecznie dołącz do naszej społeczności Developer Jutra na Discord!<br/>Adres: </span><span><a href=\"https://developerjutra.pl/discord\">https://developerjutra.pl/discord</a><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://developerjutra.pl/discord\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://developerjutra.pl/discord\"> </a></span></p>\n<p><span>Repozytorium z kodem z webinarów: </span><span><a href=\"https://github.com/developer-jutra/dj-webinars\">https://github.com/developer-jutra/dj-webinars</a><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://github.com/developer-jutra/dj-webinars\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://github.com/developer-jutra/dj-webinars\"> </a></span></p>",
-            "video_drive_id": "1Gml3ZBfdUOas90j6S8d05iHASAyUUFtd",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Webinar_07_transkrypcja.pdf",
-                "drive_id": "1PG1vejw83GczFrXbFfyc-PeV44cmHIQS",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161253941/dj_webinar_07_transkrypcja-pdf"
               },
               {
                 "name": "DJ_Webinar_07.MP3",
-                "drive_id": "1Sr5gpEPwSG7gRRhccU7x0iVTGeWNsL5l",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161228233/dj_webinar_07-mp3"
               },
               {
                 "name": "DJ_Webinar_07_prezentacja.pdf",
-                "drive_id": "1_4NNPl9SjA-sX7TShREknZ9OjOeJpcfM",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161222280/dj_webinar_07_prezentacja-pdf"
               }
@@ -8299,23 +8641,23 @@
             "id": "2187233851",
             "name": "#8: Arsenal LLM: Narzędzia, Które Zmieniają Reguły Gry [02:53:28]",
             "description": "<hr/><hr/>\n<p><span>Koniecznie dołącz do naszej społeczności Developer Jutra na Discord!<br/>Adres: </span><span><a href=\"https://developerjutra.pl/discord\">https://developerjutra.pl/discord</a><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://developerjutra.pl/discord\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://developerjutra.pl/discord\"> </a></span></p>\n<p><span>Repozytorium z kodem z webinarów: </span><span><a href=\"https://github.com/developer-jutra/dj-webinars\">https://github.com/developer-jutra/dj-webinars</a><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://github.com/developer-jutra/dj-webinars\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://github.com/developer-jutra/dj-webinars\"> </a></span></p>",
-            "video_drive_id": "10Tt1rHCAZVoejc20ar6GJu-au1oRXQ6h",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Webinar_08_transkrypcja.pdf",
-                "drive_id": "1kb5XJDttoMn7ovzzzCji1SDTWS4tqrbG",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161330087/dj_webinar_08_transkrypcja-pdf"
               },
               {
                 "name": "DJ_Webinar_08_prezentacja.pdf",
-                "drive_id": "1wtO3q1g0cAryM-rcN47TPtVea64f3Ia-",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161264408/dj_webinar_08_prezentacja-pdf"
               },
               {
                 "name": "DJ_Webinar_08.MP3",
-                "drive_id": "1zlHdSDhpeqF4YQjAINkxG2iU5J0cgdPx",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161268681/dj_webinar_08-mp3"
               }
@@ -8325,23 +8667,23 @@
             "id": "2187233886",
             "name": "#9: Zaawansowane Modelowanie: Archetypy [02:33:47]",
             "description": "<hr/><hr/>\n<p><span><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://www.perplexity.ai/search/i-would-like-you-to-briefly-ex-.4g9J8wTQpiDkvcIg52UmQ\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://www.perplexity.ai/search/i-would-like-you-to-briefly-ex-.4g9J8wTQpiDkvcIg52UmQ\">https://www.perplexity.ai/search/i-would-like-you-to-briefly-ex-.4g9J8wTQpiDkvcIg52UmQ</a></span><span class=\"hiddenVisually__27f77\">,</span></p>\n<p><span><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://www.perplexity.ai/search/i-want-you-to-explain-in-detai-s5bi5ez2S2KgFEDiVZO6vg\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://www.perplexity.ai/search/i-want-you-to-explain-in-detai-s5bi5ez2S2KgFEDiVZO6vg\">https://www.perplexity.ai/search/i-want-you-to-explain-in-detai-s5bi5ez2S2KgFEDiVZO6vg</a></span><span class=\"hiddenVisually__27f77\">,</span></p>\n<p><span><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://www.perplexity.ai/search/generate-an-example-sql-code-s-pFnCc.MKRHyafI9yZe1WxA\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://www.perplexity.ai/search/generate-an-example-sql-code-s-pFnCc.MKRHyafI9yZe1WxA\">https://www.perplexity.ai/search/generate-an-example-sql-code-s-pFnCc.MKRHyafI9yZe1WxA</a></span></p>\n<hr/><hr/>\n<p>Koniecznie dołącz do naszej społeczności Developer Jutra na Discord!</p>\n<p><span>Adres: </span><span><a href=\"https://developerjutra.pl/discord\">https://developerjutra.pl/discord</a><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://developerjutra.pl/discord\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://developerjutra.pl/discord\"> </a></span></p>\n<p><span>Repozytorium z kodem z webinarów: </span><span><a href=\"https://github.com/developer-jutra/dj-webinars\">https://github.com/developer-jutra/dj-webinars</a><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://github.com/developer-jutra/dj-webinars\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://github.com/developer-jutra/dj-webinars\"> </a></span></p>",
-            "video_drive_id": "1Gdeci1_L5U-teC5avtmjBmsqcmsuI2ch",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Webinar_09_transkrypcja.pdf",
-                "drive_id": "1F5xV0B-N08Dz5Bof8SCrrzc9PMTuFUYz",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161478012/dj_webinar_09_transkrypcja-pdf"
               },
               {
                 "name": "DJ_Webinar_09_prezentacja.pdf",
-                "drive_id": "150eGpwP-g42EV8AknQ2XqUmxh4wZJOYQ",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161462966/dj_webinar_09_prezentacja-pdf"
               },
               {
                 "name": "DJ_Webinar_09.MP3",
-                "drive_id": "1-YEc_fuSahsphbROLEfj-F9AFPpKF8w5",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161332721/dj_webinar_09-mp3"
               }
@@ -8351,23 +8693,23 @@
             "id": "2187233930",
             "name": "#10: Inżynieria Produktowa: Od Kodu do Wartości Biznesowej [02:18:08]",
             "description": "<hr/><hr/>\n<p><span>Koniecznie dołącz do naszej społeczności Developer Jutra na Discord!<br/>Adres: </span><span><a href=\"https://developerjutra.pl/discord\">https://developerjutra.pl/discord</a><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://developerjutra.pl/discord\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://developerjutra.pl/discord\"> </a></span></p>\n<p><span>Repozytorium z kodem z webinarów: </span><span><a href=\"https://github.com/developer-jutra/dj-webinars\">https://github.com/developer-jutra/dj-webinars</a><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://github.com/developer-jutra/dj-webinars\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://github.com/developer-jutra/dj-webinars\"> </a></span></p>",
-            "video_drive_id": "1YrYPDNenazo-VWkkFfGBtvGsIBwapLZ4",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Webinar_10_transkrypcja.pdf",
-                "drive_id": "1dBRnPLUpqbZsZmb9V0Z9GlSkCX4pY7r1",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161580837/dj_webinar_10_transkrypcja-pdf"
               },
               {
                 "name": "DJ_Webinar_10_prezentacja.pdf",
-                "drive_id": "18OBQKuOc6LVBplFD0rQpegusHyJzD9CC",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161462968/dj_webinar_10_prezentacja-pdf"
               },
               {
                 "name": "DJ_Webinar_10.MP3",
-                "drive_id": "1dwW-rlPLhscYRPdHE8HnYvrZ8zPWF4_E",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161463065/dj_webinar_10-mp3"
               }
@@ -8383,11 +8725,11 @@
             "id": "2187417498",
             "name": "1. Jak wygląda praca Developera Jutra [02:25:08]",
             "description": "",
-            "video_drive_id": "1kMEvzVN66Wi4JlelZiZ0hWJUAKd2wOYV",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Bonus1_Praca_Developera_Jutra.MP3",
-                "drive_id": "1g40mfUwdQABDkzdRB5bc6g719_qRL7fc",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161485351/dj_bonus1_praca_developera_jutra-mp3"
               }
@@ -8397,11 +8739,11 @@
             "id": "2187416514",
             "name": "2. AI jako Twój osobisty zespół juniorów. Co i jak TY musisz umieć, by nie obudzić się z ręką w nocniku [02:52:25]",
             "description": "",
-            "video_drive_id": "1kPtZUHLNev87HjltJpgoNQuaZ2QHCUXr",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Bonus2_AI_Osobisty_Zespol_Juniorow.MP3",
-                "drive_id": "11HO_J2Dv1buXVHe2s-bRIWJhDR53NCSl",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161485355/dj_bonus2_ai_osobisty_zespol_juniorow-mp3"
               }
@@ -8411,17 +8753,17 @@
             "id": "2187488359",
             "name": "3. Angular Q&A [00:59:28]",
             "description": "<hr/><hr/>\n<p><span>Dodatkowy, bonusowy live tylko dla uczestników Developera Jutra! Godzina pytań, odpowiedzi i wspólnego rozwijania angularowych kompetencji.</span></p>",
-            "video_drive_id": "1mKoZgeLedZAMjKBX4ILZ4q39qXgfQJ8s",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Bonus3_Angular_Q_A.MP3",
-                "drive_id": "1NwMMyxqgmLOXKlgjiRqE3HRbrug81UKL",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161485358/dj_bonus3_angular_q_a-mp3"
               },
               {
                 "name": "DJ_Webinar_BONUS_Angular_QA_prezentacja.pdf",
-                "drive_id": "1QxqimN3qchAg7-pBjkTGxPT_qj7WfDJI",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2160798533/dj_webinar_bonus_angular_q_a_prezentacja-pdf"
               }
@@ -8431,11 +8773,11 @@
             "id": "2187552169",
             "name": "4. Myśl jak architekt: od toolingu struktury - do architektury [00:54:23]",
             "description": "<hr/><hr/>\n<p><span>W tym odcinku przyglądamy się pytaniu technicznemu, zadanemu na Discordzie przez uczestniczkę. Celem jest zmiana kontekstu, wejście w głąb nie tyle samych technikaliów - ale co za nimi stoi: jaki problem rozwiązujemy, jak wygląda kontekst: biznesu, produktu, organizacji, zespołów itp. Inna perspektywa. To autentyczne (nie spreparowane) pytanie jest świetnym materiałem do zilustrowania zmiany perspektywy: z narzędzi i/lub struktury - na architekturę.</span></p>",
-            "video_drive_id": "1ZOb6aE3Xm6OdiTRaqlkUv96O2dyTgvO_",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Bonus4_Od_Toolingu_Do_Architektury.MP3",
-                "drive_id": "1c7uNCpkvaC57AjF6p7NSyHv3uueNWXUl",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161485359/dj_bonus4_od_toolingu_do_architektury-mp3"
               }
@@ -8445,17 +8787,17 @@
             "id": "2187604321",
             "name": "5. Fundamenty architektury Oprogramowania [02:04:49]",
             "description": "<hr/><hr/>\n<p><span>💛 Fundamenty architektury Oprogramowania - dla developerów, którzy nie czują, że się skutecznie poruszają po tematach architektonicznych.</span></p>\n<hr/><hr/>\n<p>Lektury warte uwagi:</p>\n<ul>\n<li><em>Software architecture for developers</em>, <strong>Simon Brown</strong></li>\n<li><em>Fundamentals of Software Architecture. An Engineering Approach, </em><strong>Mark Richards &amp; Neal Ford</strong></li>\n<li><em><strong> </strong>Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures, </em><strong>Neal Ford, Mark Richards, Pramod Sadalage &amp; Zhamak Dehghani </strong></li>\n<li><em>Building Evolutionary Architectures: Support Constant Change, </em><strong>Neal Ford, Rebecca Parsons &amp; Patrick Kua </strong></li>\n</ul>",
-            "video_drive_id": "1rX9lcHvUWrUJ3rF7PrcAwRRQknHgOIMu",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Bonus5_Fundamenty_Architektury_Oprogramowania.MP3",
-                "drive_id": "1ADO9AY0tjCKuRiU6nh6nl3KKruvSBCjK",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161485363/dj_bonus5_fundamenty_architektury_oprogramowania-mp3"
               },
               {
                 "name": "DJ_Webinar_bonus_fundamenty_architektury.pdf",
-                "drive_id": "15l2M3cqx7T_5YDXqm_kinedUhCUhRvWF",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2160852917/dj_webinar_bonus_fundamenty_architektury-pdf"
               }
@@ -8469,13 +8811,13 @@
             "documents": [
               {
                 "name": "DJ_Bonus6_Lagodne_DDD.MP3",
-                "drive_id": "15uHfk2-x_N0gH5k9TokpDqjubA4ayoLV",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161485368/dj_bonus6_lagodne_ddd-mp3"
               },
               {
                 "name": "lagodny-wstep-do-ddd.excalidraw.zip",
-                "drive_id": "15Ou5tUNuBougK6ldRM9fCD9NOFAmJROE",
+                "drive_id": "",
                 "mime": "application/zip",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2160936840/lagodny-wstep-do-ddd-excalidraw-zip"
               }
@@ -8485,11 +8827,11 @@
             "id": "2187883674",
             "name": "7. Angular Coding [02:49:19]",
             "description": "<p><span>Praktyczny quickstart kodowania w angularze, ze szczególnym uwzględnieniem promptowania.</span></p>",
-            "video_drive_id": "11F_2_zm0l9G5YRtc0yZj3I_GqWOnkBqm",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Bonus7_Angular_Coding.MP3",
-                "drive_id": "1VQu2xgOMXwlsz6qNkvvy-bLPoXYCr2HQ",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161485369/dj_bonus7_angular_coding-mp3"
               }
@@ -8499,11 +8841,11 @@
             "id": "2187889535",
             "name": "8. Warsztat projektowania architektury aplikacji [01:47:30]",
             "description": "<p><span>Indywidualny projekt uczestnika - aplikacja wspierająca naukę jako punkt wyjścia do rozmowy o tym, jak potrzeby i cele wpływają na decyzje projektowe.</span></p>",
-            "video_drive_id": "1Lf6woQLB_cWAeKg0oriqKWiZ6O3ZbOiy",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Bonus8_Warsztat_Architektury_Aplikacyjnej.MP3",
-                "drive_id": "12YMd8odtWX46DmeLuAxVGoN-kgHtPpK0",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161485370/dj_bonus8_warsztat_architektury_aplikacyjnej-mp3"
               }
@@ -8513,11 +8855,11 @@
             "id": "2188273322",
             "name": "9. Backend Live Coding: Warehouse Management System [01:48:26]",
             "description": "<p>Tworzymy fundamenty systemu do zarządzania magazynem.</p>",
-            "video_drive_id": "1HzKXYMBY4f7ZHwIcbtnHiTAOPw5S4FC4",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Bonus9_Backend_Live_Coding_WMS.MP3",
-                "drive_id": "1YZ6Cvun4jABvkEebq_U8_yJG3V7yQRQn",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161485385/dj_bonus9_backend_live_coding_wms-mp3"
               }
@@ -8527,11 +8869,11 @@
             "id": "2188645220",
             "name": "10. Power Prompting na przykładzie WMS/GUI oraz Lovable [00:45:08]",
             "description": "<hr/><hr/>\n<p><span>Prompt użyty podczas nagrania: </span><a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://www.perplexity.ai/search/this-is-a-prompt-i-need-to-sen-ZSp5Aw4DSA6fJzXowwj7fw?5=d\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://www.perplexity.ai/search/this-is-a-prompt-i-need-to-sen-ZSp5Aw4DSA6fJzXowwj7fw?5=d\"><span>https://www.perplexity.ai/search/this-is-a-prompt-i-need-to-sen-ZSp5Aw4DSA6fJzXowwj7fw?5=d</span></a></p>",
-            "video_drive_id": "166r_LoLjRBkVLkqalbpksfLgkN54b0Eb",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Bonus10_Power_Prompting_WMS_GUI_Lovable.MP3",
-                "drive_id": "1RZsujLD7tLyn_ILMuvUyfP2h54LCKUsV",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161485389/dj_bonus10_power_prompting_wms_gui_lovable-mp3"
               }
@@ -8541,17 +8883,17 @@
             "id": "2188538841",
             "name": "11. Kubernetes: Architektura i ekosystem w pigułce [01:22:23]",
             "description": "",
-            "video_drive_id": "1GZaxTo_OyxVV4t5elXeV9T-tqy1pXJ7e",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Bonus11_Praktyczny_Kubernetes.MP3",
-                "drive_id": "1DuK90zG2o92zJTCZXNnjo_G9e3Ztf-r-",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161485393/dj_bonus11_praktyczny_kubernetes-mp3"
               },
               {
                 "name": "DJ_Webinar_bonus_Kubernetes.pdf",
-                "drive_id": "14BZm0HxvrUi35tf4fFziuF7bz-1jObXn",
+                "drive_id": "",
                 "mime": "application/pdf",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161297583/dj_webinar_bonus_kubernetes-pdf"
               }
@@ -8561,11 +8903,11 @@
             "id": "2189116213",
             "name": "12. Przepiękny interfejs użytkownika w kilku krokach [01:01:36]",
             "description": "<hr/><hr/>\n<p><span class=\"yt-core-attributed-string--link-inherit-color\" dir=\"auto\">Skorzystamy z kilku narzędzi AI-owych, aby stworzyć przepiękny UI dostosowany do naszej aplikacji pod kątem: </span></p>\n<ul class=\"yt-core-attributed-string__list-group\" dir=\"ltr\">\n<li><span class=\"yt-core-attributed-string--link-inherit-color\" dir=\"auto\">technologicznym </span></li>\n<li><span class=\"yt-core-attributed-string--link-inherit-color\" dir=\"auto\">domenowym </span></li>\n<li><span class=\"yt-core-attributed-string--link-inherit-color\" dir=\"auto\">wizuanym </span></li>\n</ul>\n<p><span class=\"yt-core-attributed-string--link-inherit-color\" dir=\"auto\">Koszt: 0zł. Sastysfakcja Gwarantowana 😎</span></p>",
-            "video_drive_id": "1muiee0zqLzLpaWXz2AfMoNY661WlbIMc",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Bonus12_Piekny_UI.MP3",
-                "drive_id": "1ERJ_x3PwRy9ChHCsmXAlPY_DdIx0vU53",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161485397/dj_bonus12_piekny_ui-mp3"
               }
@@ -8575,11 +8917,11 @@
             "id": "2189060237",
             "name": "13. Vertical Slices Architecture na przykładzie Customer Portal Vue/Nuxt [01:40:54]",
             "description": "<hr/><hr/>\n<p><span>Bierzemy na warsztat, rozbudowaną aplikację frontendową powstałą w Vue/Nuxt i adaptujemy ją do Vertical Slices Architecture. Rozpoczynamy od poznania funkcji i kontekstu aplikacji, omawiamy VSA i promptujemy dostosowanie apki do architektury.</span></p>\n<hr/><hr/>\n<ul>\n<li><span>ukończone VSA: <a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://github.com/developer-jutra/dj-webinars/tree/main/deliveroo/customer-portal/features\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://github.com/developer-jutra/dj-webinars/tree/main/deliveroo/customer-portal/features\">https://github.com/developer-jutra/dj-webinars/tree/main/deliveroo/customer-portal/features</a> </span></li>\n<li><span>cursor rules: <a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://github.com/developer-jutra/dj-webinars/tree/main/deliveroo/customer-portal/.cursor/rules\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://github.com/developer-jutra/dj-webinars/tree/main/deliveroo/customer-portal/.cursor/rules\">https://github.com/developer-jutra/dj-webinars/tree/main/deliveroo/customer-portal/.cursor/rules</a> </span></li>\n<li><span>prompty, z których powstawał customer portal: <a class=\"anchor_edefb8 anchorUnderlineOnHover_edefb8\" href=\"https://github.com/developer-jutra/dj-webinars/tree/main/deliveroo/_prompts\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://github.com/developer-jutra/dj-webinars/tree/main/deliveroo/_prompts\">https://github.com/developer-jutra/dj-webinars/tree/main/deliveroo/_prompts</a></span></li>\n</ul>",
-            "video_drive_id": "1KJeZvwYg8b9ZsQ0R50cDMiBv_mSVvK68",
+            "video_drive_id": "",
             "documents": [
               {
                 "name": "DJ_Bonus13_Vertical_Slices_Architecture.MP3",
-                "drive_id": "1oodisgd5vaEdEVYAGTg2d_403t5uN4xt",
+                "drive_id": "",
                 "mime": "audio/mpeg",
                 "_original_url": "https://edu.devstyle.pl/courses/downloads/2161485399/dj_bonus13_vertical_slices_architecture-mp3"
               }
