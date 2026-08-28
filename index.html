@@ -2,7 +2,7 @@
 <html lang="pl">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 <title>Course Browser 🎓</title>
 <style>
 /* ── Reset & variables ─────────────────────────────────────────────────── */
@@ -20,30 +20,46 @@
   --text3:     #5a6a80;
   --success:   #34d399;
   --warn:      #fbbf24;
+  --danger:    #f87171;
   --sidebar-w: 300px;
   --topbar-h:  52px;
   --radius:    8px;
   --shadow:    0 4px 24px rgba(0,0,0,.5);
+  /* Safe-area insets (notches / home indicator); 0 on devices without them. */
+  --sa-l:      env(safe-area-inset-left, 0px);
+  --sa-r:      env(safe-area-inset-right, 0px);
+  --sa-b:      env(safe-area-inset-bottom, 0px);
 }
 
 html, body { height: 100%; }
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-       background: var(--bg); color: var(--text); line-height: 1.6; overflow: hidden; }
+       background: var(--bg); color: var(--text); line-height: 1.6; overflow: hidden;
+       overscroll-behavior: none; -webkit-text-size-adjust: 100%; }
 
 ::-webkit-scrollbar { width: 6px; height: 6px; }
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
 
 /* ── Screens ───────────────────────────────────────────────────────────── */
-.screen { height: 100vh; }
+/* dvh tracks the *visible* viewport, so the bottom of the page never ends up
+   hidden behind a mobile browser's collapsing toolbar (vh is the fallback). */
+.screen { height: 100vh; height: 100dvh; }
 .hidden { display: none !important; }
 
 /* ── Home screen ───────────────────────────────────────────────────────── */
 #home-screen {
   display: flex; flex-direction: column; align-items: center;
-  justify-content: center; gap: 40px; padding: 40px 20px;
-  overflow-y: auto;
+  justify-content: flex-start;
+  gap: 40px;
+  padding: 40px calc(20px + var(--sa-l)) calc(40px + var(--sa-b)) calc(20px + var(--sa-r));
+  overflow-y: auto; overscroll-behavior: contain;
 }
+/* Auto margins centre the stack while it fits and collapse to 0 once it
+   overflows. `justify-content: center` would instead push the top of the
+   content above the scroll origin, making it permanently unreachable. */
+#home-screen > :first-child { margin-top: auto; }
+#home-screen > :last-child  { margin-bottom: auto; }
+
 #home-screen h1 { font-size: 2rem; text-align: center; }
 #home-screen .subtitle { color: var(--text2); text-align: center; margin-top: -28px; }
 
@@ -70,13 +86,17 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 @keyframes spin { to { transform: rotate(360deg); } }
 
 /* ── App layout ────────────────────────────────────────────────────────── */
-#app { display: flex; flex-direction: column; height: 100vh; }
+#app { display: flex; flex-direction: column; height: 100vh; height: 100dvh; }
 
 #topbar {
   height: var(--topbar-h); min-height: var(--topbar-h);
   background: var(--bg2); border-bottom: 1px solid var(--border);
-  display: flex; align-items: center; padding: 0 20px; gap: 16px;
-  flex-shrink: 0; z-index: 10;
+  display: flex; align-items: center; gap: 16px;
+  padding: 0 calc(20px + var(--sa-r)) 0 calc(20px + var(--sa-l));
+  flex-shrink: 0;
+  /* Needs a position for z-index to apply — otherwise the mobile sidebar
+     overlay sits on top and swallows the back / menu button taps. */
+  position: relative; z-index: 30;
 }
 #topbar .course-title { font-weight: 700; font-size: 1.05rem; flex: 1;
                         overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
@@ -95,7 +115,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 #sidebar {
   width: var(--sidebar-w); min-width: var(--sidebar-w);
   background: var(--bg2); border-right: 1px solid var(--border);
-  overflow-y: auto; flex-shrink: 0;
+  overflow-y: auto; overscroll-behavior: contain; flex-shrink: 0;
 }
 .sidebar-search {
   position: sticky; top: 0; z-index: 2;
@@ -137,10 +157,14 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 }
 .post-icon { font-size: .75rem; flex-shrink: 0; opacity: .7; }
 .post-name-text { flex: 1; overflow: hidden; display: -webkit-box;
-                  -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+                  -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+                  overflow-wrap: anywhere; }
 
 /* ── Main content ──────────────────────────────────────────────────────── */
-#main { flex: 1; overflow-y: auto; padding: 28px 36px; background: var(--bg); }
+#main {
+  flex: 1; overflow-y: auto; overscroll-behavior: contain; background: var(--bg);
+  padding: 28px calc(36px + var(--sa-r)) calc(28px + var(--sa-b)) calc(36px + var(--sa-l));
+}
 
 #placeholder {
   height: 100%; display: flex; align-items: center;
@@ -158,8 +182,12 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 /* Video (Google Drive iframe) */
 .video-wrap {
   position: relative; width: 100%; aspect-ratio: 16 / 9; overflow: hidden;
+  /* Cap the height so a 16:9 player never grows past the visible viewport
+     (matters on short/landscape phones, where it would otherwise push the
+     controls off-screen). Width shrinks with it, keeping the ratio intact. */
+  max-width: calc(78dvh * 16 / 9);
   border-radius: var(--radius); background: #000;
-  margin-bottom: 24px; border: 1px solid var(--border);
+  margin: 0 auto 24px; border: 1px solid var(--border);
 }
 .video-wrap iframe {
   position: absolute; top: 0; left: 0; width: 100%; height: 100%;
@@ -180,7 +208,21 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
   background: var(--bg2); border: 1px solid var(--border);
   border-radius: var(--radius); padding: 20px 24px;
   margin-bottom: 24px; font-size: .93rem; line-height: 1.8;
+  /* Descriptions are raw HTML from the course platform and contain bare URLs
+     hundreds of characters long — without this they force a horizontal scroll. */
+  overflow-wrap: anywhere;
 }
+/* Embedded players (YouTube etc.) ship hard-coded width="560" height="315"
+   attributes; force them back to a fluid 16:9 box. */
+.description-box iframe {
+  display: block; width: 100%; max-width: 100%;
+  height: auto; aspect-ratio: 16 / 9; border: none;
+  border-radius: var(--radius); margin: 12px 0; background: #000;
+}
+.description-box img, .description-box video { max-width: 100%; height: auto; }
+.description-box pre, .description-box table { display: block; max-width: 100%; overflow-x: auto; }
+.description-box h1 { font-size: 1.25rem; line-height: 1.35; margin-bottom: 8px; }
+.description-box code { background: var(--bg3); padding: 1px 5px; border-radius: 4px; font-size: .88em; }
 .description-box a { color: var(--accent); }
 .description-box a:hover { color: var(--accent2); }
 .description-box p { margin-bottom: 10px; }
@@ -191,11 +233,14 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 .description-box strong { color: var(--text); }
 
 /* Documents */
+/* min() on the track floor + min-width:0 on the item stop long unbreakable
+   filenames from blowing the grid track wider than its container. */
 .docs-grid {
-  display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(min(220px, 100%), 1fr));
   gap: 10px; margin-bottom: 32px;
 }
 .doc-card {
+  min-width: 0;
   background: var(--bg2); border: 1px solid var(--border);
   border-radius: var(--radius); padding: 12px 14px;
   cursor: pointer; color: var(--text); display: flex; align-items: center; gap: 10px;
@@ -205,7 +250,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 .doc-card.unavailable { opacity: .38; cursor: default; }
 .doc-card.unavailable:hover { border-color: var(--border); background: var(--bg2); }
 .doc-icon { font-size: 1.4rem; flex-shrink: 0; }
-.doc-info { overflow: hidden; }
+.doc-info { overflow: hidden; min-width: 0; }
 .doc-name { font-size: .83rem; font-weight: 600; overflow: hidden;
             text-overflow: ellipsis; white-space: nowrap; }
 .doc-meta { font-size: .73rem; color: var(--text3); }
@@ -228,7 +273,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
   transition: background .1s, color .1s;
 }
 .btn-close-viewer:hover { background: var(--bg3); color: var(--text); }
-.viewer-wrap .embed-frame { width: 100%; height: 600px; border: none; display: block; }
+.viewer-wrap .embed-frame { width: 100%; height: min(600px, 72dvh); border: none; display: block; }
 .viewer-wrap .audio-frame { width: 100%; height: 80px; border: none; display: block; }
 
 /* Search highlight */
@@ -253,9 +298,17 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 }
 #sidebar-overlay.visible { display: block; }
 
-/* ── Mobile breakpoint ─────────────────────────────────────────────────── */
-@media (max-width: 680px) {
-  :root { --sidebar-w: min(80vw, 300px); }
+/* ── Tablet / small laptop ─────────────────────────────────────────────── */
+@media (max-width: 1100px) and (min-width: 901px) {
+  :root { --sidebar-w: 250px; }
+  #main { padding: 24px 24px calc(24px + var(--sa-b)); }
+}
+
+/* ── Drawer breakpoint ─────────────────────────────────────────────────── */
+/* Below this the fixed sidebar eats too much of the reading column, so it
+   collapses into an off-canvas drawer. */
+@media (max-width: 900px) {
+  :root { --sidebar-w: min(85vw, 320px); }
 
   /* Show hamburger, hide stats in topbar */
   .btn-menu { display: inline-flex; align-items: center; }
@@ -265,32 +318,55 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
   #sidebar {
     position: fixed;
     left: 0; top: var(--topbar-h);
+    height: calc(100vh - var(--topbar-h));
     height: calc(100dvh - var(--topbar-h));
     z-index: 20;
     transform: translateX(-100%);
     transition: transform .25s ease;
     box-shadow: 4px 0 24px rgba(0,0,0,.5);
+    padding-bottom: var(--sa-b);
   }
   #sidebar.open { transform: translateX(0); }
 
-  /* Main fills the full width */
-  #main { padding: 16px; }
+  /* Larger tap targets in the lesson list */
+  .post-item { padding: 11px 14px 11px 20px; min-height: 44px; }
+  .category-header { padding: 13px 14px 13px 12px; min-height: 46px; }
 
+  /* 16px keeps iOS Safari from zooming the whole page in on focus */
+  .sidebar-search input { font-size: 16px; padding: 9px 10px; }
+
+  #main { padding: 20px 20px calc(20px + var(--sa-b)); }
+}
+
+/* ── Phone breakpoint ──────────────────────────────────────────────────── */
+@media (max-width: 680px) {
   /* Home screen: single column on very small screens */
   .course-grid { grid-template-columns: 1fr; }
-
-  /* Video: Drive player has title bar + controls that push beyond pure 16:9.
-     min-height ensures the player chrome is never clipped by overflow:hidden. */
-  .video-wrap { min-height: 300px; }
-
-  /* Reduce embed height */
-  .viewer-wrap .embed-frame { height: 320px; }
-
-  /* Home screen heading */
+  #home-screen { gap: 28px; }
   #home-screen h1 { font-size: 1.5rem; }
+  #home-screen .subtitle { margin-top: -18px; }
+  .course-card { padding: 20px 18px; }
 
-  /* Description box padding */
-  .description-box { padding: 14px 16px; }
+  #topbar { padding: 0 calc(12px + var(--sa-r)) 0 calc(12px + var(--sa-l)); gap: 10px; }
+  #topbar .course-title { font-size: .95rem; }
+  /* The back button keeps only its arrow so the course title gets the room */
+  .btn-back-label { display: none; }
+  .btn-back { padding: 6px 11px; }
+
+  #main { padding: 14px 14px calc(20px + var(--sa-b)); }
+
+  .post-header h2 { font-size: 1.15rem; }
+  .description-box { padding: 14px 16px; font-size: .9rem; line-height: 1.7; }
+  .docs-grid { grid-template-columns: minmax(0, 1fr); margin-bottom: 24px; }
+  .video-wrap { margin-bottom: 18px; }
+  .viewer-wrap .embed-frame { height: min(420px, 60dvh); }
+}
+
+/* ── Short / landscape phones ──────────────────────────────────────────── */
+@media (max-height: 480px) and (orientation: landscape) {
+  :root { --topbar-h: 44px; }
+  #home-screen { justify-content: flex-start; padding-top: 20px; gap: 20px; }
+  .viewer-wrap .embed-frame { height: 70dvh; }
 }
 </style>
 </head>
@@ -308,8 +384,9 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 <!-- ── Course browser ──────────────────────────────────────────────────── -->
 <div id="app" class="screen hidden">
   <div id="topbar">
-    <button class="btn-back" onclick="goHome()">← All Courses</button>
-    <button class="btn-menu" id="btn-menu" onclick="toggleSidebar()" aria-label="Toggle lesson list">☰</button>
+    <button class="btn-back" onclick="goHome()" aria-label="All courses">←<span class="btn-back-label"> All Courses</span></button>
+    <button class="btn-menu" id="btn-menu" onclick="toggleSidebar()"
+            aria-label="Toggle lesson list" aria-expanded="false" aria-controls="sidebar">☰</button>
     <span class="course-title" id="course-title">Course</span>
     <span class="stats" id="course-stats"></span>
   </div>
@@ -349,6 +426,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 let allCourses   = [];
 let activeCourse = null;
 let activePostId = null;
+let currentDocs  = [];   // documents of the post currently on screen
 
 // ── Routing helpers ────────────────────────────────────────────────────────
 function pushUrl(courseId, postId) {
@@ -563,8 +641,20 @@ function _renderPost(postId) {
 
   closeSidebar(); // auto-close drawer on mobile after picking a lesson
   renderPost(post, cat);
-  document.querySelector(`.post-item[data-post-id="${postId}"]`)
-          ?.scrollIntoView({ block: 'nearest' });
+  revealActivePostInSidebar();
+}
+
+// Scroll the sidebar's own scroll box only. scrollIntoView() walks up to every
+// ancestor scroller (and the window), which on mobile yanked the page around
+// while the drawer was translated off-screen.
+function revealActivePostInSidebar() {
+  const sidebar = document.getElementById('sidebar');
+  const el = sidebar.querySelector(`.post-item[data-post-id="${activePostId}"]`);
+  if (!el) return;
+  const top = el.offsetTop, bottom = top + el.offsetHeight;
+  if (top < sidebar.scrollTop) sidebar.scrollTop = top - 8;
+  else if (bottom > sidebar.scrollTop + sidebar.clientHeight)
+    sidebar.scrollTop = bottom - sidebar.clientHeight + 8;
 }
 
 // User action: select a lesson and push a URL entry
@@ -593,8 +683,9 @@ function renderPost(post, cat) {
     const url = driveEmbed(post.video_drive_id);
     va.innerHTML = `
       <div class="video-wrap">
-        <iframe src="${url}" allow="autoplay" allowfullscreen
-                loading="lazy"></iframe>
+        <iframe src="${url}" title="${esc(post.name)}"
+                allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+                allowfullscreen loading="lazy"></iframe>
       </div>`;
   } else {
     va.innerHTML = `<div class="no-video">No video linked for this post.</div>`;
@@ -612,8 +703,12 @@ function renderPost(post, cat) {
 
   // Documents
   const docsArea = document.getElementById('docs-area');
+  // Cards reference documents by index and are wired up with a delegated
+  // listener below — serialising the doc into an onclick="" attribute broke on
+  // names containing quotes or ampersands.
+  currentDocs = post.documents;
   if (post.documents.length) {
-    const cards = post.documents.map(doc => {
+    const cards = post.documents.map((doc, di) => {
       const available = !!doc.drive_id;
       const icon  = mimeIcon(doc.mime);
       const label = mimeLabel(doc.mime, doc.name);
@@ -628,7 +723,7 @@ function renderPost(post, cat) {
           </div>`;
       }
       return `
-        <div class="doc-card" onclick="openDoc(${JSON.stringify(doc).replace(/"/g,'&quot;')})">
+        <div class="doc-card" role="button" tabindex="0" data-doc-index="${di}">
           <span class="doc-icon">${icon}</span>
           <div class="doc-info">
             <div class="doc-name" title="${esc(doc.name)}">${esc(doc.name)}</div>
@@ -647,7 +742,18 @@ function renderPost(post, cat) {
 }
 
 // ── Document opener ────────────────────────────────────────────────────────
+document.getElementById('docs-area').addEventListener('click', e => {
+  const card = e.target.closest('.doc-card[data-doc-index]');
+  if (card) openDoc(currentDocs[+card.dataset.docIndex]);
+});
+document.getElementById('docs-area').addEventListener('keydown', e => {
+  if (e.key !== 'Enter' && e.key !== ' ') return;
+  const card = e.target.closest('.doc-card[data-doc-index]');
+  if (card) { e.preventDefault(); openDoc(currentDocs[+card.dataset.docIndex]); }
+});
+
 function openDoc(doc) {
+  if (!doc) return;
   const viewerArea = document.getElementById('viewer-area');
   const mime = doc.mime || '';
 
@@ -737,17 +843,25 @@ function escRe(s) {
 }
 
 // ── Mobile sidebar ────────────────────────────────────────────────────────
-function toggleSidebar() {
-  const sidebar = document.getElementById('sidebar');
-  const overlay = document.getElementById('sidebar-overlay');
-  const isOpen  = sidebar.classList.toggle('open');
-  overlay.classList.toggle('visible', isOpen);
+function setSidebar(isOpen) {
+  document.getElementById('sidebar').classList.toggle('open', isOpen);
+  document.getElementById('sidebar-overlay').classList.toggle('visible', isOpen);
+  document.getElementById('btn-menu').setAttribute('aria-expanded', String(isOpen));
+  if (isOpen) revealActivePostInSidebar();
 }
 
-function closeSidebar() {
-  document.getElementById('sidebar').classList.remove('open');
-  document.getElementById('sidebar-overlay').classList.remove('visible');
+function toggleSidebar() {
+  setSidebar(!document.getElementById('sidebar').classList.contains('open'));
 }
+
+function closeSidebar() { setSidebar(false); }
+
+// Escape closes the drawer first, then the inline document viewer.
+document.addEventListener('keydown', e => {
+  if (e.key !== 'Escape') return;
+  if (document.getElementById('sidebar').classList.contains('open')) closeSidebar();
+  else if (document.getElementById('viewer-area').innerHTML) closeViewer();
+});
 
 // ── Start ──────────────────────────────────────────────────────────────────
 boot();
