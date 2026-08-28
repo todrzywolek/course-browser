@@ -182,10 +182,17 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 /* Video (Google Drive iframe) */
 .video-wrap {
   position: relative; width: 100%; aspect-ratio: 16 / 9; overflow: hidden;
-  /* Cap the height so a 16:9 player never grows past the visible viewport
-     (matters on short/landscape phones, where it would otherwise push the
-     controls off-screen). Width shrinks with it, keeping the ratio intact. */
-  max-width: calc(78dvh * 16 / 9);
+  /* Drive's player stacks its controls (scrub bar + play/volume/fullscreen)
+     BELOW the picture and simply drops them when the iframe is too short:
+     measured hidden at 192px, clipped at 240px, complete from ~280px. A 16:9
+     box is only 192px tall on a 375px phone, so pin a floor — the player then
+     renders the video at full width with the control strip underneath, which
+     is why this barely wastes any space. Inert once the box is >533px wide. */
+  min-height: 300px;
+  /* Cap the height so a 16:9 player never grows past the visible viewport on
+     short/landscape phones. Floored at 533px (= 300px tall at 16:9) so the cap
+     can never fight the min-height above and letterbox the picture. */
+  max-width: max(533px, calc(78dvh * 16 / 9));
   border-radius: var(--radius); background: #000;
   margin: 0 auto 24px; border: 1px solid var(--border);
 }
