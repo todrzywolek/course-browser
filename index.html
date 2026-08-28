@@ -180,26 +180,29 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 .post-header .post-meta { font-size: .8rem; color: var(--text3); margin-top: 4px; }
 
 /* Video (Google Drive iframe) */
+/* Desktop user agents get Drive's compact player, whose controls sit inside a
+   plain 16:9 box. Phones get a different, touch-optimised player — see the
+   override in the drawer breakpoint below. */
 .video-wrap {
   position: relative; width: 100%; aspect-ratio: 16 / 9; overflow: hidden;
-  /* Drive's player stacks its controls (scrub bar + play/volume/fullscreen)
-     BELOW the picture and simply drops them when the iframe is too short:
-     measured hidden at 192px, clipped at 240px, complete from ~280px. A 16:9
-     box is only 192px tall on a 375px phone, so pin a floor — the player then
-     renders the video at full width with the control strip underneath, which
-     is why this barely wastes any space. Inert once the box is >533px wide. */
-  min-height: 300px;
-  /* Cap the height so a 16:9 player never grows past the visible viewport on
-     short/landscape phones. Floored at 533px (= 300px tall at 16:9) so the cap
-     can never fight the min-height above and letterbox the picture. */
+  /* Keep the player inside the visible viewport on short/landscape screens.
+     Floored at 533px so the cap can never squeeze the box below the height
+     Drive's controls need. */
   max-width: max(533px, calc(78dvh * 16 / 9));
   border-radius: var(--radius); background: #000;
-  margin: 0 auto 24px; border: 1px solid var(--border);
+  margin: 0 auto; border: 1px solid var(--border);
 }
 .video-wrap iframe {
-  position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+  position: absolute; inset: 0; width: 100%; height: 100%;
   border: none; border-radius: var(--radius);
 }
+/* Always-available escape hatch: Drive's in-frame controls are outside our
+   control and have broken before, so never let the player be the only way in. */
+.video-fallback {
+  display: block; margin: 8px auto 24px; max-width: max(533px, calc(78dvh * 16 / 9));
+  font-size: .78rem; color: var(--text3); text-decoration: none;
+}
+.video-fallback:hover { color: var(--accent); }
 .no-video {
   background: var(--bg3); border: 1px solid var(--border);
   border-radius: var(--radius); padding: 24px; color: var(--text3);
@@ -343,6 +346,20 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
   .sidebar-search input { font-size: 16px; padding: 9px 10px; }
 
   #main { padding: 20px 20px calc(20px + var(--sa-b)); }
+
+  /* Google serves phones a touch-optimised player with large tap targets laid
+     out AROUND the picture, not overlaid on it. It needs roughly the 16:9
+     picture plus ~170px of chrome; give it less and the layout collapses —
+     measured on an Android UA at 378px wide: controls scattered and the
+     play/pause button cut off at 300px and 360px, correct from 380px.
+     padding-bottom is a percentage of the element's own width, so this
+     expresses "16:9 plus a fixed control strip" at any width. */
+  .video-wrap {
+    aspect-ratio: auto;
+    height: 0;
+    min-height: 0;
+    padding-bottom: calc(56.25% + 170px);
+  }
 }
 
 /* ── Phone breakpoint ──────────────────────────────────────────────────── */
@@ -693,7 +710,9 @@ function renderPost(post, cat) {
         <iframe src="${url}" title="${esc(post.name)}"
                 allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
                 allowfullscreen loading="lazy"></iframe>
-      </div>`;
+      </div>
+      <a class="video-fallback" href="${driveView(post.video_drive_id)}"
+         target="_blank" rel="noopener">↗  Trouble with the player? Open this video in Google Drive</a>`;
   } else {
     va.innerHTML = `<div class="no-video">No video linked for this post.</div>`;
   }
@@ -803,6 +822,10 @@ function extractDriveId(idOrUrl) {
 
 function driveEmbed(idOrUrl) {
   return `https://drive.google.com/file/d/${extractDriveId(idOrUrl)}/preview`;
+}
+
+function driveView(idOrUrl) {
+  return `https://drive.google.com/file/d/${extractDriveId(idOrUrl)}/view`;
 }
 
 function driveDownload(idOrUrl) {
