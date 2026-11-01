@@ -14653,5 +14653,400 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c676a50e-c82c-5a50-8e2e-60844a662c51",
+    "title": "devbites: Programowanie Obiektowe (Fundamenty)",
+    "categories": [
+      {
+        "id": "fbe8490b-afbc-40f2-a0d8-c73d17d65045",
+        "name": "Zapraszamy!",
+        "posts": [
+          {
+            "id": "02f7b4ab-bfe4-4430-8f0d-95288a96535e",
+            "name": "Lekcja 1: Wstęp do modularyzacji",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"4a7dbca7b57ddbfc-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"4a7dbca7b57ddbfc-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Kod do tego kursu znajdziesz na <strong>GitHubie</strong>!</p></div></div></div><div class=\"bn-block-outer\" data-id=\"4a7dbca7b57ddbfc-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"4a7dbca7b57ddbfc-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Link:</p></div></div></div><div class=\"bn-block-outer\" data-id=\"4a7dbca7b57ddbfc-2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"4a7dbca7b57ddbfc-2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><a href=\"https://github.com/devbitespl/oop1\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://github.com/devbitespl/oop1</a><br/><br/><br class=\"ProseMirror-trailingBreak\"/></p></div></div></div><div class=\"bn-block-outer\" data-id=\"4a7dbca7b57ddbfc-3\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"4a7dbca7b57ddbfc-3\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><strong>Pamiętaj</strong>, że w każdej lekcji w sekcji \"downloads\" masz do dyspozycji:</p></div></div></div><div class=\"bn-block-outer\" data-id=\"4a7dbca7b57ddbfc-4\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"4a7dbca7b57ddbfc-4\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">materiały dodatkowe<br/><br class=\"ProseMirror-trailingBreak\"/></p></div></div></div><div class=\"bn-block-outer\" data-id=\"4a7dbca7b57ddbfc-5\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"4a7dbca7b57ddbfc-5\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">slajdy</p></div></div></div><div class=\"bn-block-outer\" data-id=\"4a7dbca7b57ddbfc-6\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"4a7dbca7b57ddbfc-6\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">transkrypcje</p></div></div></div><div class=\"bn-block-outer\" data-id=\"4a7dbca7b57ddbfc-7\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"4a7dbca7b57ddbfc-7\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">wersję audio</p></div></div></div><div class=\"bn-block-outer\" data-id=\"4a7dbca7b57ddbfc-8\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"4a7dbca7b57ddbfc-8\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">A w samym video możesz - dla ułatwienia - <strong>włączyć napisy</strong> (przycisk CC).</p></div></div></div></div>",
+            "video_drive_id": "1TG6_8x474i9Crh4ggzyWzMx2SaF17cNn",
+            "documents": [
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L1_slajdy.pdf",
+                "drive_id": "1myKD3bbPlRhYUJtAkCvRq4LN8izyEQI8",
+                "mime": "application/pdf",
+                "_source_id": "b7814edb-4d8b-46ea-a1ed-17b06dee0d40"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L1.mp3",
+                "drive_id": "15ymHWdHHqa2fDJwhqwiShrPdhZG5gwKD",
+                "mime": "audio/mpeg",
+                "_source_id": "000f0a6c-232b-4c3f-9596-52a904e532d4"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L1_transkrypcja.pdf",
+                "drive_id": "14QT-aiEpKX7nDdhJSNA8WNIm8I6Z2d0H",
+                "mime": "application/pdf",
+                "_source_id": "68310b83-f92d-4784-b313-122fba6e5ba1"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_Wszystkie_slajdy.zip",
+                "drive_id": "1axNbPaq4M8BfqoCj7nQbZIrqe0ytFbOR",
+                "mime": "application/zip",
+                "_source_id": "23d9b1d7-854a-4a65-aa0c-ddfee6bc6410"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_Wszystkie_transkrypcje.zip",
+                "drive_id": "1-mKGeP2pheqHqlai-nC15k9GF64e1Nhm",
+                "mime": "application/zip",
+                "_source_id": "ebb7d2ed-083d-4d7d-9fa5-63d21282a13f"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_Wszystkie_mp3.zip",
+                "drive_id": "1eMiewuox8RB34JexTnF87fe25U5K8P_M",
+                "mime": "application/zip",
+                "_source_id": "469829c0-23af-452c-93f2-9d4d84044de5"
+              }
+            ]
+          },
+          {
+            "id": "73d0dc3e-5753-4730-9166-40202a39d86b",
+            "name": "Lekcja 2: Dokonaj podziału - zadanie wstępne",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"ca7d69fdd3fb8ab6-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"ca7d69fdd3fb8ab6-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><a href=\"https://github.com/devbitespl/oop1\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://github.com/devbitespl/oop1</a><br/>git checkout zadanie-dekompozycja</p></div></div></div></div>",
+            "video_drive_id": "1-VQ_3LZx4Y7IYiUkP0_Lm9izrC3S6_dL",
+            "documents": [
+              {
+                "name": "ALGORYTM_L2.pdf",
+                "drive_id": "1EM1yRBfy_ABNN6U3MAu-Jp7TVpuZVomK",
+                "mime": "application/pdf",
+                "_source_id": "c55cb363-6a25-434d-ae3c-85eb173c882d"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L2_slajdy.pdf",
+                "drive_id": "1F7nEhxLdqBZKuzfMhmZhe6dcB9KH6vEl",
+                "mime": "application/pdf",
+                "_source_id": "2d67fb03-b3ef-46ef-9838-ef20cd316716"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L2_transkrypcja.pdf",
+                "drive_id": "1BjNKOBW8VY4zJxcUBR9-nN2o70niZuEr",
+                "mime": "application/pdf",
+                "_source_id": "cd8f8ad2-b9a1-4d77-9b50-e55c4b8d75bc"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L2.mp3",
+                "drive_id": "1Gv56gYetEw7DAA3qxPTDu4jCkazl7Xoy",
+                "mime": "audio/mpeg",
+                "_source_id": "695da88f-f238-40eb-83b0-9281081c627b"
+              }
+            ]
+          },
+          {
+            "id": "a4dc4f31-f844-443d-9dfe-44898ccc2d47",
+            "name": "Lekcja 3: Rozwiązanie przez podział algorytmiczny",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"b5a07f6c419af6cd-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"b5a07f6c419af6cd-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><a href=\"https://github.com/devbitespl/oop1\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://github.com/devbitespl/oop1</a></p></div></div></div></div>",
+            "video_drive_id": "1dTWMybHjkAGkmwR5MoGuCbX0RKPSAcXd",
+            "documents": [
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L3_slajdy.pdf",
+                "drive_id": "1beoG1ZjpgyXcJ2NrhAgYVnMWk0kPbuSO",
+                "mime": "application/pdf",
+                "_source_id": "2fd37d85-1e95-479f-accd-a7056d1a0166"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L3_transkrypcja.pdf",
+                "drive_id": "1LsCAyeQzZkxHtxN3Yfw37WLqjCG8UDmj",
+                "mime": "application/pdf",
+                "_source_id": "e3963951-3670-4fbc-bf00-c37518d68773"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L3.mp3",
+                "drive_id": "11NWyuQQQEZW3Y41VZztWLqd8H30sG3Iv",
+                "mime": "audio/mpeg",
+                "_source_id": "650c7e93-8527-42c3-bd25-50370c35825c"
+              }
+            ]
+          },
+          {
+            "id": "a27435ec-d6c7-471b-ad14-1b902669b48f",
+            "name": "Lekcja 4: Rozwiązanie bardziej obiektowe",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"e7622eaaf244c54f-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"e7622eaaf244c54f-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><a href=\"https://github.com/devbitespl/oop1\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://github.com/devbitespl/oop1</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"e7622eaaf244c54f-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"e7622eaaf244c54f-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">git checkout bardziej-obiektowo</p></div></div></div></div>",
+            "video_drive_id": "1VOg3vljtO2A5Iyh3A6FdtpKPoojNKBvb",
+            "documents": [
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L4_slajdy.pdf",
+                "drive_id": "1LhiOJpCWz4lsqqhJxhcEK2skZL6W8rEL",
+                "mime": "application/pdf",
+                "_source_id": "4c6c7f59-9769-417a-b09c-030acd053e02"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L4_transkrypcja.pdf",
+                "drive_id": "1HGl4KCME_bJL2xqIjI9b_3twfToz2z56",
+                "mime": "application/pdf",
+                "_source_id": "97a87c5f-3798-4914-8487-2972defa2906"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L4.mp3",
+                "drive_id": "1fCl3YY8M3arWSgtBZJaTdBDNdpnURaex",
+                "mime": "audio/mpeg",
+                "_source_id": "0e93721b-d85e-407d-8d93-8fb4851af753"
+              }
+            ]
+          },
+          {
+            "id": "b26bd377-b42e-4ce6-bea7-b3e0b9c8e0d9",
+            "name": "Lekcja 5: Odwiązywanie obiektów, tak żeby były niezależne",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"7848d039d815e9d7-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"7848d039d815e9d7-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><a href=\"https://github.com/devbitespl/oop1\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://github.com/devbitespl/oop1</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"7848d039d815e9d7-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"7848d039d815e9d7-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">git checkout odwiązanie</p></div></div></div></div>",
+            "video_drive_id": "1NWvUc1e9ZxNl2IiNBYjDQjrAUnHGjDDV",
+            "documents": [
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L5_slajdy.pdf",
+                "drive_id": "1f5l9I7nsiSsRxdP78nAZ6FqmFmAUn3kP",
+                "mime": "application/pdf",
+                "_source_id": "425080d6-de9b-43a7-9cee-f677a436aca8"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L5_transkrypcja.pdf",
+                "drive_id": "1iqybSrg_taagmvvqSQ2YuQMxRMiESiFG",
+                "mime": "application/pdf",
+                "_source_id": "4fb73e7e-0e68-4531-a413-e72ddaebfc25"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L5.mp3",
+                "drive_id": "1EvHwKE-SR6-HhiIlOpsmy10Bp9_weZcm",
+                "mime": "audio/mpeg",
+                "_source_id": "ad58129d-9068-4472-b59b-35995ee1b33e"
+              }
+            ]
+          },
+          {
+            "id": "dbd7e494-e169-44ab-b12d-b66ffabea571",
+            "name": "Lekcja 6: Rodzaje obiektów - klasyfikacja, która usprawnia projektowanie",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"b5a07f6c419af6cd-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"b5a07f6c419af6cd-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><a href=\"https://github.com/devbitespl/oop1\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://github.com/devbitespl/oop1</a></p></div></div></div></div>",
+            "video_drive_id": "1AYE9QnhDGZ4j346u_1VP60Og0QmNWFh2",
+            "documents": [
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L6_slajdy.pdf",
+                "drive_id": "1jRliyjY8DgRIC-XrGVdz9BphYgeR9j80",
+                "mime": "application/pdf",
+                "_source_id": "f98e7321-0d00-495c-a11a-411a6d60100c"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L6_transkrypcja.pdf",
+                "drive_id": "19XgWDIUYxCRtRdUd2Qa1w1ujjtBXMuCz",
+                "mime": "application/pdf",
+                "_source_id": "343412b4-e217-4912-971d-dc6329525cdb"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L6.mp3",
+                "drive_id": "1LdWQ4HWMnoQ7Y4l1xpJ6QhWOInXbbyGU",
+                "mime": "audio/mpeg",
+                "_source_id": "fa711e3e-ed17-4cb4-9775-db99d10f6e06"
+              }
+            ]
+          },
+          {
+            "id": "2ea090dd-e0e0-4191-875f-451a6e8a6e8b",
+            "name": "Lekcja 7: Enkapsulacja - różne jej smaki",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"b5a07f6c419af6cd-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"b5a07f6c419af6cd-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><a href=\"https://github.com/devbitespl/oop1\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://github.com/devbitespl/oop1</a></p></div></div></div></div>",
+            "video_drive_id": "1tGhDHNFK9b_QnpQga8wwnvdXKCnYmdOy",
+            "documents": [
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L7_slajdy.pdf",
+                "drive_id": "1SSfqfu7wE6j8fbG7F15kKN5YVcqyaHbb",
+                "mime": "application/pdf",
+                "_source_id": "63a8ae23-93ba-479a-a5cb-ebbeb314ec93"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L7_transkrypcja.pdf",
+                "drive_id": "16z81Hfze3iMi2TEqAHuUXfAKR7rxwuZx",
+                "mime": "application/pdf",
+                "_source_id": "d9c61f3c-620e-4614-b92e-e8c155135003"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L7.mp3",
+                "drive_id": "1T6VTewaorjDa_89FPJNXrmmCl55d9bXM",
+                "mime": "audio/mpeg",
+                "_source_id": "8cce9046-21e2-454d-b192-145361e2df7b"
+              }
+            ]
+          },
+          {
+            "id": "5f1a8b33-f844-4e9d-9173-6c194c006379",
+            "name": "Lekcja 8: Polimorfizm, czyli filar programowania obiektowego",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"b5a07f6c419af6cd-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"b5a07f6c419af6cd-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><a href=\"https://github.com/devbitespl/oop1\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://github.com/devbitespl/oop1</a></p></div></div></div></div>",
+            "video_drive_id": "132e7wM4kScGUdAoafiRtF9yUp3aM1Nex",
+            "documents": [
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L8_slajdy.pdf",
+                "drive_id": "1XbalaC6Nztk63QxMDBiqZ6h752VadgkY",
+                "mime": "application/pdf",
+                "_source_id": "0f7945a5-2a95-4428-8955-bd418ecac22e"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L8_transkrypcja.pdf",
+                "drive_id": "1RwEbl0gwPpaSbBq61QJMXRJ7TOTOSKMY",
+                "mime": "application/pdf",
+                "_source_id": "206da524-3b10-4086-a776-55a033ba2d4c"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L8.mp3",
+                "drive_id": "1HSVFFyCuNAzUJf6BplrBReADgodG9pUL",
+                "mime": "audio/mpeg",
+                "_source_id": "e7574d55-c82e-46fb-8e99-2f531d5ef51d"
+              }
+            ]
+          },
+          {
+            "id": "f67c23a2-ef09-4336-9f58-942506d5e7fe",
+            "name": "Lekcja 9: Polimorfizm - implementacja i zadanie",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"b674782a77d784f6-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"b674782a77d784f6-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><a href=\"https://github.com/devbitespl/oop1\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://github.com/devbitespl/oop1</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"b674782a77d784f6-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"b674782a77d784f6-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">git checkout zadanie-polimorfizm</p></div></div></div></div>",
+            "video_drive_id": "1n5lCWtVba-GA2KtgZ_H9y7xGzc92j28Z",
+            "documents": [
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L9_slajdy.pdf",
+                "drive_id": "1oubiBYndmb6OqWkNBnlg_XDTqyXBM-m4",
+                "mime": "application/pdf",
+                "_source_id": "f6d130a1-36d1-43a9-84fe-a46c8fc5317b"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L9_transkrypcja.pdf",
+                "drive_id": "1rkD-b1s6iJNLMqmfQsocT2MWSKGqX_vx",
+                "mime": "application/pdf",
+                "_source_id": "594c9261-99eb-4006-914b-be8edeb4de79"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L9.mp3",
+                "drive_id": "1snfoZJPiPKWLFwQKDgj5Q2iqR6ksL61X",
+                "mime": "audio/mpeg",
+                "_source_id": "deb0964b-075a-4f36-b04c-948f594e8f63"
+              }
+            ]
+          },
+          {
+            "id": "6547889e-ac5a-4b0a-84eb-9dbc5a6e3e2a",
+            "name": "Lekcja 10: Polimorfizm - rozwiązanie zadania",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"2dbd7adb7a9eddd7-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"2dbd7adb7a9eddd7-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><a href=\"https://github.com/devbitespl/oop1\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://github.com/devbitespl/oop1</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"2dbd7adb7a9eddd7-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"2dbd7adb7a9eddd7-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">git checkout rozwiązanie-polimorfizm </p></div></div></div><div class=\"bn-block-outer\" data-id=\"2dbd7adb7a9eddd7-2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"2dbd7adb7a9eddd7-2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"> </p></div></div></div></div>",
+            "video_drive_id": "1n-zLEvCMb6jb_qK3ZgEn8PWnR3thrOXY",
+            "documents": [
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L10_slajdy.pdf",
+                "drive_id": "14IOttxuBVdJdgs2mqvvuQgRQoagIyB2h",
+                "mime": "application/pdf",
+                "_source_id": "361ed019-3c2d-4e7d-bf6f-3303933480ca"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L10_transkrypcja.pdf",
+                "drive_id": "1d5LS7ViaBRcNAtyby0EkwbyNqwKP9crO",
+                "mime": "application/pdf",
+                "_source_id": "b5ff67e5-b837-4e57-86a7-a1d7d2097c7a"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L10.mp3",
+                "drive_id": "1A45kyfkydFv3YLF2K21CsZvZ6zhjxkvy",
+                "mime": "audio/mpeg",
+                "_source_id": "d92ce7e5-59fc-465f-8a2a-20b90ba7ee86"
+              }
+            ]
+          },
+          {
+            "id": "dd26bb58-2db5-4b86-953a-0fe41360dc51",
+            "name": "Lekcja 11: Przeciekająca abstrakcja - częsty problem projektanta",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"54f470e33d37ef59-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"54f470e33d37ef59-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><a href=\"https://github.com/devbitespl/oop1\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://github.com/devbitespl/oop1 </a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"54f470e33d37ef59-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"54f470e33d37ef59-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">git checkout discounts </p></div></div></div><div class=\"bn-block-outer\" data-id=\"54f470e33d37ef59-2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"54f470e33d37ef59-2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"> </p></div></div></div></div>",
+            "video_drive_id": "1Wv9l3a8n0QAiQOgVdwjWvXbYXWmvX7NK",
+            "documents": [
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L11_slajdy.pdf",
+                "drive_id": "1nXrPpFxnmo7hf8giJYoRqHwvvUJUmZ0A",
+                "mime": "application/pdf",
+                "_source_id": "0267c825-42c1-42f6-909a-449817f44ee1"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L11_transkrypcja.pdf",
+                "drive_id": "1SiSvXn4kOrdoGCKmSqWZApLI1gJz_SuQ",
+                "mime": "application/pdf",
+                "_source_id": "4ae8c9df-18d6-4060-9775-17ef6b106aa0"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L11.mp3",
+                "drive_id": "1jUPnJtKpvPHQdPs0tIwP0gghl1EG1jAb",
+                "mime": "audio/mpeg",
+                "_source_id": "729de2fe-e4eb-412b-b939-d2e99f13ad72"
+              }
+            ]
+          },
+          {
+            "id": "56b6834d-5dd0-4b47-81d3-0a48fb38d318",
+            "name": "Lekcja 12: Kto jest właścicielem danych?",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"322351ac7223bae4-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"322351ac7223bae4-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><a href=\"https://github.com/devbitespl/oop1\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://github.com/devbitespl/oop1</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"322351ac7223bae4-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"322351ac7223bae4-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">git checkout finalny-podzial </p></div></div></div><div class=\"bn-block-outer\" data-id=\"322351ac7223bae4-2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"322351ac7223bae4-2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"> </p></div></div></div></div>",
+            "video_drive_id": "194A7LfrZkyDE5TloXB6SPivYWmMpbuWI",
+            "documents": [
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L12_slajdy.pdf",
+                "drive_id": "1EAZWkyBkJdK0OOOzTqEpQZ968CH_PtYh",
+                "mime": "application/pdf",
+                "_source_id": "f2ba840f-7b9b-4d6b-bc05-e0fe7cb5164f"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L12_transkrypcja.pdf",
+                "drive_id": "1hufleBls8uT8Xqg1FjE8zwW7YDJWWF1t",
+                "mime": "application/pdf",
+                "_source_id": "c5ef2a07-007c-4646-b22d-afd91b2feaff"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L12.mp3",
+                "drive_id": "1fEeDo9MLkVxQfpgnJMhgmK_64cegx5uL",
+                "mime": "audio/mpeg",
+                "_source_id": "287c39b1-5bee-450c-ace0-11ed82d2ce57"
+              }
+            ]
+          },
+          {
+            "id": "2e879e9b-cee5-4f77-8cc9-23504349f777",
+            "name": "Lekcja 13: Wstęp do modularyzacji - czyli przejście na poziom systemu",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"3ddc9f5f36622ac9-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"3ddc9f5f36622ac9-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><a href=\"https://github.com/devbitespl/oop1\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">https://github.com/devbitespl/oop1</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"3ddc9f5f36622ac9-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"3ddc9f5f36622ac9-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">git checkout mapper<br/> </p></div></div></div><div class=\"bn-block-outer\" data-id=\"3ddc9f5f36622ac9-2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"3ddc9f5f36622ac9-2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><strong>Uwaga:</strong><br/>KONIECZNIE pobierz plik <strong>SPIS_HEYRYSTYK.pdf</strong> dołączony do tej lekcji!</p></div></div></div><div class=\"bn-block-outer\" data-id=\"3ddc9f5f36622ac9-3\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"3ddc9f5f36622ac9-3\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><strong>I jeszcze jedno:</strong></p></div></div></div><div class=\"bn-block-outer\" data-id=\"3ddc9f5f36622ac9-4\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"3ddc9f5f36622ac9-4\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Twoja opinia jest dla nas niezmiernie ważna!</p></div></div></div><div class=\"bn-block-outer\" data-id=\"3ddc9f5f36622ac9-5\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"3ddc9f5f36622ac9-5\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Wystarczy kilka słów od Ciebie, aby nam BARDZO pomóc.</p></div></div></div><div class=\"bn-block-outer\" data-id=\"3ddc9f5f36622ac9-6\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"3ddc9f5f36622ac9-6\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><strong>Dla Ciebie to dosłownie minutka, a to dla nas: cała masa motywacji do dalszej pracy i rozwoju</strong>. </p></div></div></div><div class=\"bn-block-outer\" data-id=\"3ddc9f5f36622ac9-7\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"3ddc9f5f36622ac9-7\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"heading\" data-level=\"2\"><h2 class=\"bn-inline-content\">== <a href=\"https://devbites.pl/kursy/programowanie-obiektowe-fundamenty/feedback\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">TUTAJ znajdziesz króciutką ankietę</a><br/><a href=\"https://devbites.pl/kursy/programowanie-obiektowe-fundamenty/feedback\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">do pozostawienia swojej opinii ✅ »</a> ==</h2></div></div></div><div class=\"bn-block-outer\" data-id=\"3ddc9f5f36622ac9-8\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"3ddc9f5f36622ac9-8\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Dzięki! </p></div></div></div><div class=\"bn-block-outer\" data-id=\"3ddc9f5f36622ac9-9\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"3ddc9f5f36622ac9-9\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">  </p></div></div></div><div class=\"bn-block-outer\" data-id=\"3ddc9f5f36622ac9-10\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"3ddc9f5f36622ac9-10\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"> </p></div></div></div></div>",
+            "video_drive_id": "1pKRgfAL6Ot-6haVd619PD5JUeRQQfWV0",
+            "documents": [
+              {
+                "name": "SPIS_HEURYSTYK.pdf",
+                "drive_id": "1McBPt4BMS-e4wCXn2sooC8eZgxYtfwLP",
+                "mime": "application/pdf",
+                "_source_id": "0be9ad46-fce2-452a-a33c-64788409d6f7"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L13_slajdy.pdf",
+                "drive_id": "1bPy9E9YmS8t4i21O9JBP8s6x0j4da7o5",
+                "mime": "application/pdf",
+                "_source_id": "7e035d4f-fa19-4327-b977-d18fe4acf6c9"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L13_transkrypcja.pdf",
+                "drive_id": "1Mg8TDRAoPWACQp5901MiEludvoth_PZT",
+                "mime": "application/pdf",
+                "_source_id": "5473d950-d9c0-4b0a-9119-3c51b820be9b"
+              },
+              {
+                "name": "DEVBITES_PROGRAMOWANIE_OBIEKTOWE_FUNDAMENTY_L13.mp3",
+                "drive_id": "1SqVQHJuAts1n6JxKuRCFJKHtuZGrz0lS",
+                "mime": "audio/mpeg",
+                "_source_id": "1c2cf9b1-c507-4c1a-bcde-40b161373e7f"
+              }
+            ]
+          },
+          {
+            "id": "cc0b7068-b37d-4d12-8b46-2888819cf9a2",
+            "name": "Na zakończenie... Wielka Prośba!",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"01fee5705bfd4ca3-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"01fee5705bfd4ca3-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Bardzo dziękujemy za Twój udział w kursie! Mamy nadzieję, że spełniliśmy Twoje oczekiwania i że Ci się podobało! :)</p></div></div></div><div class=\"bn-block-outer\" data-id=\"01fee5705bfd4ca3-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"01fee5705bfd4ca3-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">A na koniec mamy...</p></div></div></div><div class=\"bn-block-outer\" data-id=\"01fee5705bfd4ca3-2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"01fee5705bfd4ca3-2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"heading\" data-level=\"2\"><h2 class=\"bn-inline-content\">Wielką prośbę o minutę Twojego czasu 🙏</h2></div></div></div><div class=\"bn-block-outer\" data-id=\"01fee5705bfd4ca3-3\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"01fee5705bfd4ca3-3\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Twoje zadowolenie jest dla nas absolutnie kluczowe, a Twoje zdanie: super ważne! 😊</p></div></div></div><div class=\"bn-block-outer\" data-id=\"01fee5705bfd4ca3-4\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"01fee5705bfd4ca3-4\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Dajemy z siebie wszystko, żeby nasze produkty były topowe.</p></div></div></div><div class=\"bn-block-outer\" data-id=\"01fee5705bfd4ca3-5\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"01fee5705bfd4ca3-5\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">A wiesz co? Twoja opinia, Twoje dalsze rekomendacje, to dla nas złoto! 🤩 Dzięki Twojemu poleceniu więcej osób może dowiedzieć się o naszych produktach i cieszyć się ich jakością. Wystarczy kilka słów od Ciebie, aby nam BARDZO pomóc. <strong>Dla Ciebie to dosłownie minutka, a to dla nas: cała masa motywacji do dalszej pracy i rozwoju</strong>.</p></div></div></div><div class=\"bn-block-outer\" data-id=\"01fee5705bfd4ca3-6\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"01fee5705bfd4ca3-6\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"> </p></div></div></div><div class=\"bn-block-outer\" data-id=\"01fee5705bfd4ca3-7\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"01fee5705bfd4ca3-7\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"heading\" data-level=\"2\"><h2 class=\"bn-inline-content\">== <a href=\"https://devbites.pl/kursy/programowanie-obiektowe-fundamenty/feedback\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">TUTAJ znajdziesz króciutką ankietę do pozostawienia swojej opinii ✅ »</a> ==</h2></div></div></div><div class=\"bn-block-outer\" data-id=\"01fee5705bfd4ca3-8\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"01fee5705bfd4ca3-8\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"> </p></div></div></div><div class=\"bn-block-outer\" data-id=\"01fee5705bfd4ca3-9\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"01fee5705bfd4ca3-9\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Z góry mega dzięki!</p></div></div></div><div class=\"bn-block-outer\" data-id=\"01fee5705bfd4ca3-10\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"01fee5705bfd4ca3-10\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><em>Cieplutko pozdrawia,</em><br/><em>Ekipa devbites 🌟👋</em><br/><em><a href=\"https://devbites.pl\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">devbites.pl</a></em></p></div></div></div></div>",
+            "video_drive_id": null,
+            "documents": []
+          },
+          {
+            "id": "9db6b775-0214-4384-b8fb-8dff0cc65039",
+            "name": "Certyfikat ukończenia kursu",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"7bbb9ae3a3c422c3-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"7bbb9ae3a3c422c3-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Po zakończeniu wszystkich lekcji, wyślij wiadomość na adres kontakt@devstyle.pl, a my prześlemy Ci certyfikat ukończenia kursu.</p></div></div></div><div class=\"bn-block-outer\" data-id=\"7bbb9ae3a3c422c3-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"7bbb9ae3a3c422c3-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Certyfikat w formatach PDF oraz PNG otrzymasz w ciągu max. kilku dni roboczych :)</p></div></div></div></div>",
+            "video_drive_id": null,
+            "documents": []
+          }
+        ]
+      }
+    ],
+    "_publisher_source": "folder:f00695cb-c40b-5e90-9764-68ff46dd495c"
   }
 ]
