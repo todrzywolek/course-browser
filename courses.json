@@ -15051,7 +15051,7 @@
   },
   {
     "id": "120f54e8-d8ac-5e3a-a287-bfde7aab04a7",
-    "title": "ANF: Architektura Na Froncie",
+    "title": "LF: Legacy Fighter",
     "categories": [
       {
         "id": "eb2739e7-050d-56ef-86c3-f26e5b8adea9",
@@ -20856,48 +20856,6 @@
             "description": "",
             "video_drive_id": "1BksmqZNq0OIsYA_hoRFr043othfxMfRh",
             "documents": []
-          },
-          {
-            "id": "3f30023a-47c6-55ab-899a-38a44a229c2f",
-            "name": "LIVE: Developer Jutra - wstęp dla ANF",
-            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147627266\">BONUSy</a></h5>",
-            "video_drive_id": "15ChesZKXyHz6iHdP4a3Oalt8ypRQI2l6",
-            "documents": []
-          },
-          {
-            "id": "d978355b-adb2-57f5-9092-fe54f507f78f",
-            "name": "E-book \"Design testów frontendowych\"",
-            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147627266\">BONUSy</a></h5>",
-            "video_drive_id": null,
-            "documents": [
-              {
-                "name": "ANF_DesignTestowFrontendowych.pdf",
-                "drive_id": "160kc_A86yFCVzXShHvzdwUjj2Q-C4O8Z",
-                "mime": "application/pdf",
-                "_source_id": "77fafd6c-a06a-5cf1-87cd-ae78a8032f11"
-              }
-            ]
-          },
-          {
-            "id": "2cb4cc39-d2e8-5622-8063-a4909e068f87",
-            "name": "LIVE: Maszyny Stanowe na Froncie",
-            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147627266\">BONUSy</a></h5>",
-            "video_drive_id": "1965Nv5sE3sZdZQJrC8IMimDg-hmDh7J8",
-            "documents": []
-          },
-          {
-            "id": "848f95bc-15bb-5dae-ae94-9fe57a3941aa",
-            "name": "LIVE: Type-Safety oraz modelowanie aplikacji Reactowej w oparciu o TypeScripta",
-            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147627266\">BONUSy</a></h5>",
-            "video_drive_id": "19_LCClPdL6vPYEV9z1PKmfNIcf6grpsg",
-            "documents": []
-          },
-          {
-            "id": "e25890bf-eff9-5ff2-8565-71042dff5fc7",
-            "name": "LIVE: Frontend generowany po stronie serwera: krok wstecz, (r)ewolucja, czy overkill?",
-            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147627266\">BONUSy</a></h5>",
-            "video_drive_id": "1iL53kptem5WVr1GzkySt4QLWWlukGQkE",
-            "documents": []
           }
         ]
       },
@@ -20948,7 +20906,14 @@
             "documents": []
           }
         ]
-      },
+      }
+    ],
+    "_publisher_source": "https://edu.devstyle.pl:e17a2b58-636d-5f6b-81d1-38ffe8594dc4"
+  },
+  {
+    "id": "45df72eb-8327-5764-bc3c-794a3c63e69f",
+    "title": "ANF: Architektura Na Froncie",
+    "categories": [
       {
         "id": "07fbc299-f7b6-56d1-b4ff-9cfbd27ac375",
         "name": "INTRO",
@@ -22876,6 +22841,54 @@
         ]
       },
       {
+        "id": "f2426739-4922-5456-b3c3-5dbfeb0a5050",
+        "name": "BONUSy",
+        "posts": [
+          {
+            "id": "3f30023a-47c6-55ab-899a-38a44a229c2f",
+            "name": "LIVE: Developer Jutra - wstęp dla ANF",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147627266\">BONUSy</a></h5>",
+            "video_drive_id": "15ChesZKXyHz6iHdP4a3Oalt8ypRQI2l6",
+            "documents": []
+          },
+          {
+            "id": "d978355b-adb2-57f5-9092-fe54f507f78f",
+            "name": "E-book \"Design testów frontendowych\"",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147627266\">BONUSy</a></h5>",
+            "video_drive_id": null,
+            "documents": [
+              {
+                "name": "ANF_DesignTestowFrontendowych.pdf",
+                "drive_id": "160kc_A86yFCVzXShHvzdwUjj2Q-C4O8Z",
+                "mime": "application/pdf",
+                "_source_id": "77fafd6c-a06a-5cf1-87cd-ae78a8032f11"
+              }
+            ]
+          },
+          {
+            "id": "2cb4cc39-d2e8-5622-8063-a4909e068f87",
+            "name": "LIVE: Maszyny Stanowe na Froncie",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147627266\">BONUSy</a></h5>",
+            "video_drive_id": "1965Nv5sE3sZdZQJrC8IMimDg-hmDh7J8",
+            "documents": []
+          },
+          {
+            "id": "848f95bc-15bb-5dae-ae94-9fe57a3941aa",
+            "name": "LIVE: Type-Safety oraz modelowanie aplikacji Reactowej w oparciu o TypeScripta",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147627266\">BONUSy</a></h5>",
+            "video_drive_id": "19_LCClPdL6vPYEV9z1PKmfNIcf6grpsg",
+            "documents": []
+          },
+          {
+            "id": "e25890bf-eff9-5ff2-8565-71042dff5fc7",
+            "name": "LIVE: Frontend generowany po stronie serwera: krok wstecz, (r)ewolucja, czy overkill?",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147627266\">BONUSy</a></h5>",
+            "video_drive_id": "1iL53kptem5WVr1GzkySt4QLWWlukGQkE",
+            "documents": []
+          }
+        ]
+      },
+      {
         "id": "3392f2d3-9098-54d4-9614-0c99b2452bf2",
         "name": "Mailing ANF",
         "posts": [
@@ -22966,6 +22979,6 @@
         ]
       }
     ],
-    "_publisher_source": "folder:037b10d9-bdb4-5f1e-bb3b-a0f4eaa9dc2d"
+    "_publisher_source": "https://edu.devstyle.pl:cc66a977-6618-5446-8e42-ed6dae953bf9"
   }
 ]
