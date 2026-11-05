@@ -20954,7 +20954,8 @@
                 "mime": "application/x-zip-compressed",
                 "_source_id": "bdabf903-781f-5443-ba28-a5ea5a6e5262"
               }
-            ]
+            ],
+            "_publisher_id": "da2b39ec-f902-566c-a0a5-1a5bb7be5b7a"
           },
           {
             "id": "8f6dc9dc-bde6-5b7e-a21a-8566df685a4e",
@@ -20974,7 +20975,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "5679986a-6c15-5cb8-a66d-7489e65f230b"
               }
-            ]
+            ],
+            "_publisher_id": "8f6dc9dc-bde6-5b7e-a21a-8566df685a4e"
           },
           {
             "id": "453613c4-3b15-5563-96cb-e1528b16ae05",
@@ -20994,7 +20996,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "2bb69266-efa3-575f-8f04-b59c2a244360"
               }
-            ]
+            ],
+            "_publisher_id": "453613c4-3b15-5563-96cb-e1528b16ae05"
           },
           {
             "id": "586b7d1f-3cec-5256-bc71-4a6d80bd2e7c",
@@ -21014,14 +21017,16 @@
                 "mime": "audio/mpeg",
                 "_source_id": "96fb06c9-053e-5280-9512-fcf217de60cd"
               }
-            ]
+            ],
+            "_publisher_id": "586b7d1f-3cec-5256-bc71-4a6d80bd2e7c"
           },
           {
             "id": "6a070e91-9bcd-51de-bfe1-ef99291be5d1",
             "name": "Lekcja 00.05 REPO",
             "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2148122312\">INTRO</a></h5>\n<p><a href=\"https://architekturanafroncie.pl/repo\">https://architekturanafroncie.pl/repo</a> </p>\n<p> </p>",
             "video_drive_id": null,
-            "documents": []
+            "documents": [],
+            "_publisher_id": "6a070e91-9bcd-51de-bfe1-ef99291be5d1"
           }
         ]
       },
@@ -21031,66 +21036,210 @@
         "posts": [
           {
             "id": "77c8e628-953f-5336-939e-66f41b17f4f8",
-            "name": "Ten post jest zablokowany!",
-            "description": "",
-            "video_drive_id": null,
-            "documents": []
+            "name": "Lekcja 01.01. Podstawy Type-safety [18:03]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2148155942\">Moduł 1 - Type Safety (cześć 1) [03:34:28]</a></h5>\n<p>Repozytorium Architektury na Froncie</p>\n<ul>\n<li style=\"font-weight: 400;\"><b>REPO</b><span style=\"font-weight: 400;\">. kod kolejnych modułów będzie publikowany w repozytorium na GitLabie, pod adresem </span><span style=\"font-weight: 400;\">https://anf:AMyNf1Yyg8sUMdaHeyW7@gitlab.com/architektura-na-froncie/anf-public-2022.git</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">aby pobrać repo, uruchom poniższą komendę z linii poleceń (trzeba mieć zainstalowanego klienta git): </span><span style=\"font-weight: 400;\">git clone https://anf:AMyNf1Yyg8sUMdaHeyW7@gitlab.com/architektura-na-froncie/anf-public-2022.git</span><span style=\"font-weight: 400;\"><br/></span><span style=\"font-weight: 400;\">lub z poziomu IDE, jak wolisz 🙃</span></li>\n<li style=\"font-weight: 400;\"><b>BRANCHE</b><span style=\"font-weight: 400;\">. Kodzik będzie na gałęzi </span><span style=\"font-weight: 400;\">main</span><span style=\"font-weight: 400;\"> </span></li>\n<li style=\"font-weight: 400;\"><b>ZALEŻNOŚCI</b><span style=\"font-weight: 400;\">. Skoro masz już sklonowane repozytorium, trzeba zainstalować zależności (czyli wszystkie biblioteki i narzędzia, wymagane do uruchomienia kodu). Uruchom w terminalu polecenie </span><span style=\"font-weight: 400;\">npm install</span> <b>w katalogu głównym repozytorium.</b><span style=\"font-weight: 400;\"> (Ewentualnie możesz ręcznie wywołać </span><span style=\"font-weight: 400;\">npm install</span><span style=\"font-weight: 400;\"> wewnątrz 2 katalogów: </span><span style=\"font-weight: 400;\">api/</span><span style=\"font-weight: 400;\"> i </span><span style=\"font-weight: 400;\">webapp/)</span></li>\n<li style=\"font-weight: 400;\"><b>NOWE MODUŁY</b><span style=\"font-weight: 400;\">. W momencie publikacji każdego nowego modułu szkolenia, dostępne są nie tylko lekcje video, slajdy itp - ale również nowe commity w repo na gałęzi </span><span style=\"font-weight: 400;\">main</span><span style=\"font-weight: 400;\">. Najpierw standardowo </span><span style=\"font-weight: 400;\">git pull</span><span style=\"font-weight: 400;\"> - ale potem trzeba zainstalować nowe zależności (</span><span style=\"font-weight: 400;\">npm install</span><span style=\"font-weight: 400;\">). </span><b>Kolejne moduły dodawać będą nowe zależności</b><span style=\"font-weight: 400;\">.</span></li>\n<li style=\"font-weight: 400;\"><b>LOKALNE MODYFIKACJE</b><span style=\"font-weight: 400;\">. Zachęcamy do lokalnego “znęcania się” nad kodem, ale </span><b>zalecamy umieszczać swoje zmiany na osobnych gałęziach</b><span style=\"font-weight: 400;\"> - aby zminimalizować ryzyko konfliktów pomiędzy swoimi zmianami, a kodem kolejnych modułów. Sporadycznie - ale jednak - kod nowego modułu będzie modyfikował pliki już istniejące.</span></li>\n<li style=\"font-weight: 400;\"><b>NODE/NPM</b><span style=\"font-weight: 400;\">. Wspieramy node v16+ oraz npm v8+.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">unikaj spacji w nazwach folderów (np. tam, gdzie klonujesz repo) 🤓</span></li>\n</ul>\n<p><strong>Przydatne linki:</strong></p>\n<ul class=\"p-rich_text_list p-rich_text_list__bullet\" data-indent=\"0\" data-stringify-type=\"unordered-list\">\n<li data-stringify-indent=\"0\"><a class=\"c-link\" data-sk=\"tooltip_parent\" data-stringify-link=\"https://github.com/DefinitelyTyped/DefinitelyTyped\" href=\"https://github.com/DefinitelyTyped/DefinitelyTyped\" rel=\"noopener noreferrer\" target=\"_blank\">DefinitelyTyped</a></li>\n<li data-stringify-indent=\"0\"><a class=\"c-link\" data-sk=\"tooltip_parent\" data-stringify-link=\"https://github.com/flow-typed/flow-typed\" href=\"https://github.com/flow-typed/flow-typed\" rel=\"noopener noreferrer\" target=\"_blank\">flow-typed</a></li>\n<li data-stringify-indent=\"0\"><a class=\"c-link\" data-sk=\"tooltip_parent\" data-stringify-link=\"http://2020.stateofjs.com\" href=\"http://2020.stateofjs.com/\" rel=\"noopener noreferrer\" target=\"_blank\">2020.stateofjs.com</a></li>\n<li data-stringify-indent=\"0\"><a class=\"c-link\" data-sk=\"tooltip_parent\" data-stringify-link=\"http://2019.stateofjs.com\" href=\"http://2019.stateofjs.com/\" rel=\"noopener noreferrer\" target=\"_blank\">2019.stateofjs.com</a></li>\n<li data-stringify-indent=\"0\"><a class=\"c-link\" data-sk=\"tooltip_parent\" data-stringify-link=\"https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes\" href=\"https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes\" rel=\"noopener noreferrer\" target=\"_blank\">https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes<br/><br/></a></li>\n<li><hr/><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów ANF wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">ANF możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :)  Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n<a class=\"c-link\" data-sk=\"tooltip_parent\" data-stringify-link=\"https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes\" href=\"https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes\" rel=\"noopener noreferrer\" target=\"_blank\"><br/></a></li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1H80tLXUHqApHDSPRHS_bAz-hu5_r-bhi",
+            "documents": [
+              {
+                "name": "ANF_M01L1.mp3",
+                "drive_id": "1v8atR3QJJIcVV2N7gDNMy_4SdU1p7L55",
+                "mime": "audio/mpeg",
+                "_source_id": "f2757c7a-3729-54ff-9fb6-59312b03e969"
+              },
+              {
+                "name": "ANF_M01_L01_Transkrypcja.pdf",
+                "drive_id": "1dfreceURHNPGh9mGLLw4Q8LC4afzYnqS",
+                "mime": "application/pdf",
+                "_source_id": "6c82ea2b-0564-5959-a88d-1d9171ec51f0"
+              },
+              {
+                "name": "ANF_M01_Wszystkie_slajdy.pdf",
+                "drive_id": "1fMrfehuhu5Eiu4swKH9-yGbB5uYsiO_C",
+                "mime": "application/pdf",
+                "_source_id": "477dff4c-800b-5b47-9280-ea0b3074f10e"
+              },
+              {
+                "name": "ANF_M01_Wszystkie_mp3.zip",
+                "drive_id": "1p2QB3KQRZz-nP8lhe39yDJ8kCut6XR01",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "d9154da7-e214-5628-b89d-83f349d7b088"
+              },
+              {
+                "name": "ANF_M01_Wszystkie_transkrypcje.zip",
+                "drive_id": "1R75_0bHwz7FSbz8UcMfQJok5jkTkBQ_L",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "1fb66f49-0742-5622-a227-21801de22ea5"
+              }
+            ],
+            "_publisher_id": "77c8e628-953f-5336-939e-66f41b17f4f8"
           },
           {
             "id": "465468a5-b48e-59da-af0d-f332da224e03",
-            "name": "Ten post jest zablokowany!",
-            "description": "",
-            "video_drive_id": null,
-            "documents": []
+            "name": "Lekcja 01.02. System typów TypeScripta [27:47]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2148155942\">Moduł 1 - Type Safety (cześć 1) [03:34:28]</a></h5>\n<p><strong>Przydatne linki:</strong></p>\n<ul class=\"p-rich_text_list p-rich_text_list__bullet\" data-indent=\"0\" data-stringify-type=\"unordered-list\">\n<li data-stringify-indent=\"0\"><a class=\"c-link\" data-sk=\"tooltip_parent\" data-stringify-link=\"https://en.wikipedia.org/wiki/Strong_and_weak_typing\" href=\"https://en.wikipedia.org/wiki/Strong_and_weak_typing\" rel=\"noopener noreferrer\" target=\"_blank\">https://en.wikipedia.org/wiki/Strong_and_weak_typing</a></li>\n<li data-stringify-indent=\"0\"><a class=\"c-link\" data-sk=\"tooltip_parent\" data-stringify-link=\"https://en.wikipedia.org/wiki/Tony_Hoare\" href=\"https://en.wikipedia.org/wiki/Tony_Hoare\" rel=\"noopener noreferrer\" target=\"_blank\">One billion dollar mistake</a></li>\n<li data-stringify-indent=\"0\"><a class=\"c-link\" data-sk=\"tooltip_parent\" data-stringify-link=\"https://en.wikipedia.org/wiki/Gradual_typing\" href=\"https://en.wikipedia.org/wiki/Gradual_typing\" rel=\"noopener noreferrer\" target=\"_blank\">https://en.wikipedia.org/wiki/Gradual_typing</a></li>\n<li data-stringify-indent=\"0\"><a class=\"c-link\" data-sk=\"tooltip_parent\" data-stringify-link=\"https://effectivetypescript.com/2021/02/03/pet-peeves/\" href=\"https://effectivetypescript.com/2021/02/03/pet-peeves/\" rel=\"noopener noreferrer\" target=\"_blank\">https://effectivetypescript.com/2021/02/03/pet-peeves/<br/><br/></a></li>\n<li><hr/><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów ANF wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">ANF możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :)  Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n<a class=\"c-link\" data-sk=\"tooltip_parent\" data-stringify-link=\"https://effectivetypescript.com/2021/02/03/pet-peeves/\" href=\"https://effectivetypescript.com/2021/02/03/pet-peeves/\" rel=\"noopener noreferrer\" target=\"_blank\"><br/></a></li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1X8OK2dfYfGdTxEqIVOiqHfwPnsR8nnw5",
+            "documents": [
+              {
+                "name": "ANF_M01_L02_Transkrypcja.pdf",
+                "drive_id": "1pSP5X6PFN6YnNUrW6KaJ5KResvX_Jurb",
+                "mime": "application/pdf",
+                "_source_id": "d0388589-702c-5a9d-9245-ff0ff67381ef"
+              },
+              {
+                "name": "ANF_M01L2.mp3",
+                "drive_id": "1gHPkJp_oXnAM1wSMyoudF-D5WKtfN69t",
+                "mime": "audio/mpeg",
+                "_source_id": "d4ad2ea7-39c4-563d-8273-53f271f19e4c"
+              }
+            ],
+            "_publisher_id": "465468a5-b48e-59da-af0d-f332da224e03"
           },
           {
             "id": "791835f4-2810-5781-bbbe-062813d1aca6",
-            "name": "Ten post jest zablokowany!",
-            "description": "",
-            "video_drive_id": null,
-            "documents": []
+            "name": "Lekcja 01.03. Wnioskowanie typów [12:33]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2148155942\">Moduł 1 - Type Safety (cześć 1) [03:34:28]</a></h5>\n<ul class=\"p-rich_text_list p-rich_text_list__bullet\" data-indent=\"0\" data-stringify-type=\"unordered-list\">\n<li><hr/><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów ANF wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">ANF możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :)  Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1pVRSERNLAcKT93s0tqODq4XKKp19cO1i",
+            "documents": [
+              {
+                "name": "ANF_M01_L03_Transkrypcja.pdf",
+                "drive_id": "1mxWvWpgiQ14OMpCJlV3anVvfidnk-C79",
+                "mime": "application/pdf",
+                "_source_id": "a56dd3e8-e33b-5820-8160-c6a17c0d4a6b"
+              },
+              {
+                "name": "ANF_M01L3.mp3",
+                "drive_id": "1_QsucMe06GwUOqx1y8Zercbown4_CW2_",
+                "mime": "audio/mpeg",
+                "_source_id": "b0700af0-4944-527e-8ecd-afaaface0618"
+              }
+            ],
+            "_publisher_id": "791835f4-2810-5781-bbbe-062813d1aca6"
           },
           {
             "id": "cd292c08-ffd2-5c20-95e0-24b145cedfa8",
-            "name": "Ten post jest zablokowany!",
-            "description": "",
-            "video_drive_id": null,
-            "documents": []
+            "name": "Lekcja 01.04. Typy to zbiory [46:03]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2148155942\">Moduł 1 - Type Safety (cześć 1) [03:34:28]</a></h5>\n<ul class=\"p-rich_text_list p-rich_text_list__bullet\" data-indent=\"0\" data-stringify-type=\"unordered-list\">\n<li><hr/><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów ANF wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">ANF możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :)  Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "13VPCXdFTbE-zY69cgjbAECKaLioMrYqd",
+            "documents": [
+              {
+                "name": "ANF_M01_L04_Transkrypcja.pdf",
+                "drive_id": "1nukbelRRqNzLrTg2opp9aLtEB3KGZ1Nl",
+                "mime": "application/pdf",
+                "_source_id": "91658caa-fdfa-5a6c-b193-fdee1060cbe7"
+              },
+              {
+                "name": "ANF_M01L4.mp3",
+                "drive_id": "19JNYMEOinrGdKUYn4gDA4LfAC0hbncjK",
+                "mime": "audio/mpeg",
+                "_source_id": "e55f059b-fd50-5453-be7f-4f826de2aec0"
+              }
+            ],
+            "_publisher_id": "cd292c08-ffd2-5c20-95e0-24b145cedfa8"
           },
           {
             "id": "cd752a41-9418-5826-befe-6f765fb0cab2",
-            "name": "Ten post jest zablokowany!",
-            "description": "",
-            "video_drive_id": null,
-            "documents": []
+            "name": "Lekcja 01.05. Control Flow Analysis [15:35]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2148155942\">Moduł 1 - Type Safety (cześć 1) [03:34:28]</a></h5>\n<ul class=\"p-rich_text_list p-rich_text_list__bullet\" data-indent=\"0\" data-stringify-type=\"unordered-list\">\n<li><hr/><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów ANF wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">ANF możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :)  Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1GN-nG97DsqqgQzpZIkO0aGypCqaDLvJQ",
+            "documents": [
+              {
+                "name": "ANF_M01_L05_Transkrypcja.pdf",
+                "drive_id": "1qQCnexUjKuD1hdgcE2uQ6umcNWmwc90r",
+                "mime": "application/pdf",
+                "_source_id": "89f67019-61da-501d-84c8-9e407e7d1c28"
+              },
+              {
+                "name": "ANF_M01L5.mp3",
+                "drive_id": "1siAZHNF97fiBT_1U3VDkBw5rsdCpPjhv",
+                "mime": "audio/mpeg",
+                "_source_id": "312d4fd7-0353-54fd-acda-bf600fa4bb7a"
+              }
+            ],
+            "_publisher_id": "cd752a41-9418-5826-befe-6f765fb0cab2"
           },
           {
             "id": "731cd45c-3e89-57b1-afb7-aa57b71d8404",
-            "name": "Ten post jest zablokowany!",
-            "description": "",
-            "video_drive_id": null,
-            "documents": []
+            "name": "Lekcja 01.06. Generyki i typy złożone [20:34]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2148155942\">Moduł 1 - Type Safety (cześć 1) [03:34:28]</a></h5>\n<ul class=\"p-rich_text_list p-rich_text_list__bullet\" data-indent=\"0\" data-stringify-type=\"unordered-list\">\n<li><hr/><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów ANF wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">ANF możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :)  Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1Y9VHxkvkT9-FW5yunrezgmBQ0-sgDAoN",
+            "documents": [
+              {
+                "name": "ANF_M01_L06_Transkrypcja.pdf",
+                "drive_id": "1ZxYrLCvunD-WTeeeG20DUx0-L0YsaOtm",
+                "mime": "application/pdf",
+                "_source_id": "d4b75628-04cb-5399-8afb-6470b77c4845"
+              },
+              {
+                "name": "ANF_M01L6.mp3",
+                "drive_id": "1zXxJoF7cHxI4EUDRXDJI6F_E2YOusWY2",
+                "mime": "audio/mpeg",
+                "_source_id": "4210a1c9-fbd2-54cb-885a-82d6bafc0e76"
+              }
+            ],
+            "_publisher_id": "731cd45c-3e89-57b1-afb7-aa57b71d8404"
           },
           {
             "id": "6c540762-10f6-5cb5-8b71-77d734930da6",
-            "name": "Ten post jest zablokowany!",
-            "description": "",
-            "video_drive_id": null,
-            "documents": []
+            "name": "Lekcja 01.07. Type - unsafe [36:07]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2148163065\">Moduł 1 - Type Safety (część 2)</a></h5>\n<p><strong>Przydatne linki:</strong></p>\n<ul class=\"p-rich_text_list p-rich_text_list__bullet\" data-indent=\"0\" data-stringify-type=\"unordered-list\">\n<li data-stringify-indent=\"0\"><a class=\"c-link\" data-sk=\"tooltip_parent\" data-stringify-link=\"https://github.com/Microsoft/TypeScript/issues/24275#issuecomment-390701982\" href=\"https://github.com/Microsoft/TypeScript/issues/24275#issuecomment-390701982\" rel=\"noopener noreferrer\" target=\"_blank\">function overload return type is the last one</a></li>\n<li data-stringify-indent=\"0\"><a class=\"c-link\" data-sk=\"tooltip_parent\" data-stringify-link=\"https://github.com/microsoft/TypeScript/issues/27711\" href=\"https://github.com/microsoft/TypeScript/issues/27711\" rel=\"noopener noreferrer\" target=\"_blank\">Promise&lt;Promise&lt;T&gt;&gt; cannot exist in JS #27711</a></li>\n<li data-stringify-indent=\"0\"><a class=\"c-link\" data-sk=\"tooltip_parent\" data-stringify-link=\"https://github.com/Microsoft/TypeScript/wiki/TypeScript-Design-Goals#non-goals\" href=\"https://github.com/Microsoft/TypeScript/wiki/TypeScript-Design-Goals#non-goals\" rel=\"noopener noreferrer\" target=\"_blank\">https://github.com/Microsoft/TypeScript/wiki/TypeScript-Design-Goals#non-goals</a></li>\n<li data-stringify-indent=\"0\"><a class=\"c-link\" data-sk=\"tooltip_parent\" data-stringify-link=\"https://github.com/microsoft/TypeScript/issues/9825#issuecomment-306272034\" href=\"https://github.com/microsoft/TypeScript/issues/9825#issuecomment-306272034\" rel=\"noopener noreferrer\" target=\"_blank\">“building a sound type system on top of JavaScript is a fool’s errand”<br/><br/></a></li>\n<li><hr/><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów ANF wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">ANF możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :)  Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1mi8A_DyTbPqwu5fKRc9dw-Om8pHrh5fW",
+            "documents": [
+              {
+                "name": "ANF_M01_L07_Transkrypcja.pdf",
+                "drive_id": "1QwTzTHZm4CWB9L34sRHh_kU-Cx2UQowV",
+                "mime": "application/pdf",
+                "_source_id": "a85d2bcd-5b32-5048-9192-0cccfee12a63"
+              },
+              {
+                "name": "ANF_M01L7.mp3",
+                "drive_id": "1fLnwmIwgrh2wTIXSf_ECAX7IySd6WZvE",
+                "mime": "audio/mpeg",
+                "_source_id": "04ee1f96-c3ea-5319-b83c-d484420a21c2"
+              }
+            ],
+            "_publisher_id": "6c540762-10f6-5cb5-8b71-77d734930da6"
           },
           {
             "id": "45c029d3-e995-5edf-81c5-1525352e9d88",
-            "name": "Ten post jest zablokowany!",
-            "description": "",
-            "video_drive_id": null,
-            "documents": []
+            "name": "Lekcja 01.08. Wzorce i antywzorce [31:58]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2148163065\">Moduł 1 - Type Safety (część 2)</a></h5>\n<ul class=\"p-rich_text_list p-rich_text_list__bullet\" data-indent=\"0\" data-stringify-type=\"unordered-list\">\n<li><hr/><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów ANF wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">ANF możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :)  Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1hMVFBTI0IDIQIDh9Z9KZxrcSC9_nisMT",
+            "documents": [
+              {
+                "name": "ANF_M01_L08_Transkrypcja.pdf",
+                "drive_id": "1PXjVF2Bsq_Y2xTzGB6NRFqb6Akt2K4_O",
+                "mime": "application/pdf",
+                "_source_id": "97a56c25-1fbe-53a5-a789-70cfea640d45"
+              },
+              {
+                "name": "ANF_M01L8.mp3",
+                "drive_id": "1c3a9I8Yls_RkCfakXP657f0cC6h3ZIHR",
+                "mime": "audio/mpeg",
+                "_source_id": "5de7ad56-aa59-5893-830a-839c1f7c4cd4"
+              }
+            ],
+            "_publisher_id": "45c029d3-e995-5edf-81c5-1525352e9d88"
           },
           {
             "id": "ecf3ee90-6145-580a-b9f8-a112251a5931",
-            "name": "Ten post jest zablokowany!",
-            "description": "",
-            "video_drive_id": null,
-            "documents": []
+            "name": "Lekcja 01.09. Praca domowa [5:46]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2148163065\">Moduł 1 - Type Safety (część 2)</a></h5>\n<ul class=\"p-rich_text_list p-rich_text_list__bullet\" data-indent=\"0\" data-stringify-type=\"unordered-list\">\n<li><hr/><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów ANF wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">ANF możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :)  Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1nQ4RqHsOjpQtBKdj52vUfNNxmwIZZtJF",
+            "documents": [
+              {
+                "name": "ANF_M01_L09_Transkrypcja.pdf",
+                "drive_id": "1ie6UXPi329VkrLo2zRkykL4-CyTacT5A",
+                "mime": "application/pdf",
+                "_source_id": "560269c7-9e97-54e8-bebd-bf5f7c2eb6b6"
+              },
+              {
+                "name": "ANF_M01L9_Praca_domowa.mp3",
+                "drive_id": "1VUJA92qSuPFiJA5g5kBRuu_9a3zKvFAC",
+                "mime": "audio/mpeg",
+                "_source_id": "d7974fea-c209-50dc-801a-e6f972c5559e"
+              }
+            ],
+            "_publisher_id": "ecf3ee90-6145-580a-b9f8-a112251a5931"
           }
         ]
       },
@@ -21140,7 +21289,8 @@
                 "mime": "application/pdf",
                 "_source_id": "e8a8339d-5de2-5d54-890c-63366f714476"
               }
-            ]
+            ],
+            "_publisher_id": "72eceb54-7773-5f03-b643-eb3e8f5c3680"
           },
           {
             "id": "1c7cba66-2b1f-58b1-a812-7414141af0a4",
@@ -21160,7 +21310,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "9aec1412-5f56-535f-b0ee-7cf4e464dce3"
               }
-            ]
+            ],
+            "_publisher_id": "1c7cba66-2b1f-58b1-a812-7414141af0a4"
           },
           {
             "id": "59f90698-9024-516e-8e38-59d175ed66c1",
@@ -21180,7 +21331,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "2da3cb69-f2f5-5521-b557-094c9de9199a"
               }
-            ]
+            ],
+            "_publisher_id": "59f90698-9024-516e-8e38-59d175ed66c1"
           },
           {
             "id": "3b83af12-eed5-5162-bdbb-21b8079a32d5",
@@ -21200,7 +21352,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "367da767-0d31-53ca-bf08-7faffb07c5eb"
               }
-            ]
+            ],
+            "_publisher_id": "3b83af12-eed5-5162-bdbb-21b8079a32d5"
           },
           {
             "id": "63918392-e918-5b4e-9630-91758096d076",
@@ -21220,7 +21373,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "2d1ec528-391f-5a64-98a9-39845a7b2c64"
               }
-            ]
+            ],
+            "_publisher_id": "63918392-e918-5b4e-9630-91758096d076"
           },
           {
             "id": "4d370883-4e66-5225-87e7-fefef038dec9",
@@ -21240,7 +21394,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "3ceb8015-fc01-54de-ae65-f35e55103431"
               }
-            ]
+            ],
+            "_publisher_id": "4d370883-4e66-5225-87e7-fefef038dec9"
           },
           {
             "id": "789ea28d-f124-50fb-beb9-9985b7ab84d7",
@@ -21260,7 +21415,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "1354b11d-ef4f-5996-b78b-5c1ceabca468"
               }
-            ]
+            ],
+            "_publisher_id": "789ea28d-f124-50fb-beb9-9985b7ab84d7"
           },
           {
             "id": "cdbc2d18-9a89-5d88-b61c-204bba8c0a95",
@@ -21280,7 +21436,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "c0b3ca03-32ad-5a98-9f14-1efb01e12849"
               }
-            ]
+            ],
+            "_publisher_id": "cdbc2d18-9a89-5d88-b61c-204bba8c0a95"
           },
           {
             "id": "7f87568a-369f-5640-8adb-a0af8b5a0fcb",
@@ -21300,7 +21457,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "13447fa1-902f-5a7d-ba16-a3d3a2e0a2b0"
               }
-            ]
+            ],
+            "_publisher_id": "7f87568a-369f-5640-8adb-a0af8b5a0fcb"
           },
           {
             "id": "64d440bd-f515-516c-9db1-b13b7500226d",
@@ -21320,7 +21478,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "9572a3f8-fb6e-5d3a-9d79-752e1ac74b55"
               }
-            ]
+            ],
+            "_publisher_id": "64d440bd-f515-516c-9db1-b13b7500226d"
           }
         ]
       },
@@ -21364,7 +21523,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "6e3e2c6b-22d1-5a7e-b094-874777024c4f"
               }
-            ]
+            ],
+            "_publisher_id": "b9ea815c-f160-5de5-a4dc-463fea47c9cb"
           },
           {
             "id": "f35de652-bcd5-5d2c-948b-0515efb429d8",
@@ -21384,7 +21544,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "ac4eda13-ffbd-5d7f-91e2-8850531768cf"
               }
-            ]
+            ],
+            "_publisher_id": "f35de652-bcd5-5d2c-948b-0515efb429d8"
           },
           {
             "id": "c5ffebd4-30fb-568a-ade6-6cc76352fce3",
@@ -21404,7 +21565,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "4218e64e-24e7-5f95-90df-c2aab3b64d34"
               }
-            ]
+            ],
+            "_publisher_id": "c5ffebd4-30fb-568a-ade6-6cc76352fce3"
           },
           {
             "id": "84e5ccd7-5792-55dd-8e8c-44f66cb2169a",
@@ -21424,7 +21586,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "1e7a4ee5-d113-5efd-bb62-d2b16c40f1bc"
               }
-            ]
+            ],
+            "_publisher_id": "84e5ccd7-5792-55dd-8e8c-44f66cb2169a"
           },
           {
             "id": "516a308b-9841-560e-a751-26facbcea807",
@@ -21444,7 +21607,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "3cbecbea-dcb6-5cf5-bf8d-0f0041c8afb5"
               }
-            ]
+            ],
+            "_publisher_id": "516a308b-9841-560e-a751-26facbcea807"
           },
           {
             "id": "a2ba13e2-2a3f-564a-a690-dbf6fc0d5f22",
@@ -21464,7 +21628,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "aa2f402c-926d-5beb-8f57-cd20b395d70a"
               }
-            ]
+            ],
+            "_publisher_id": "a2ba13e2-2a3f-564a-a690-dbf6fc0d5f22"
           },
           {
             "id": "f0b6f1cf-45db-5b4d-b1b5-bedac10c5be7",
@@ -21484,7 +21649,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "ace730b9-5dbe-5aee-8f35-7193221ce6e3"
               }
-            ]
+            ],
+            "_publisher_id": "f0b6f1cf-45db-5b4d-b1b5-bedac10c5be7"
           }
         ]
       },
@@ -21528,7 +21694,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "53a4746a-081b-5524-9f0e-dfcc41ff7f7d"
               }
-            ]
+            ],
+            "_publisher_id": "6710e571-dd4e-516c-bc82-157e1894dc1d"
           },
           {
             "id": "ff371be7-d4b6-51d0-a773-265b1c651446",
@@ -21548,7 +21715,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "530b4245-875b-5b5f-a9c5-ad2719a0a758"
               }
-            ]
+            ],
+            "_publisher_id": "ff371be7-d4b6-51d0-a773-265b1c651446"
           },
           {
             "id": "566729d3-5979-5811-93af-51904f50ab9b",
@@ -21568,7 +21736,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "723d5b46-15dc-576f-8a60-5de12219f04d"
               }
-            ]
+            ],
+            "_publisher_id": "566729d3-5979-5811-93af-51904f50ab9b"
           },
           {
             "id": "36d3d5e8-b58b-5bfe-887f-f700c019bdd3",
@@ -21588,7 +21757,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "0d0015a6-42ea-5a3b-bf5a-c62a0600dd14"
               }
-            ]
+            ],
+            "_publisher_id": "36d3d5e8-b58b-5bfe-887f-f700c019bdd3"
           },
           {
             "id": "33200f0f-5fe2-5020-8169-9539e8c08378",
@@ -21608,7 +21778,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "f72f9215-413d-53fb-886b-1f66e6408525"
               }
-            ]
+            ],
+            "_publisher_id": "33200f0f-5fe2-5020-8169-9539e8c08378"
           },
           {
             "id": "21f71714-94eb-500f-a839-8b8403096eb7",
@@ -21628,7 +21799,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "cb5ff7be-fe7c-542a-b79f-0fbd643c04d9"
               }
-            ]
+            ],
+            "_publisher_id": "21f71714-94eb-500f-a839-8b8403096eb7"
           },
           {
             "id": "0f56404f-c4cd-58f4-8738-860cac7c3d95",
@@ -21648,7 +21820,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "926cb40c-8183-5f47-9e88-7b27d07d7388"
               }
-            ]
+            ],
+            "_publisher_id": "0f56404f-c4cd-58f4-8738-860cac7c3d95"
           }
         ]
       },
@@ -21692,7 +21865,8 @@
                 "mime": "application/pdf",
                 "_source_id": "0fe60070-944c-5e7a-b5de-2869936fc748"
               }
-            ]
+            ],
+            "_publisher_id": "c8f0cb1d-3f71-5cc6-bb31-a42d3712f637"
           },
           {
             "id": "af53a5fa-4f40-5568-a600-68dac59ebcb9",
@@ -21712,7 +21886,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "a0c846cc-3920-53ed-a775-44ac4c92f8ae"
               }
-            ]
+            ],
+            "_publisher_id": "af53a5fa-4f40-5568-a600-68dac59ebcb9"
           },
           {
             "id": "d5da01e3-bfd2-5c5d-80a1-a9484047ed84",
@@ -21732,7 +21907,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "ab2a6ad1-09f8-58c2-8643-3f063fc0cec7"
               }
-            ]
+            ],
+            "_publisher_id": "d5da01e3-bfd2-5c5d-80a1-a9484047ed84"
           },
           {
             "id": "ecb35bd7-7c6d-5ba7-be55-38eaea48d69b",
@@ -21752,7 +21928,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "efe4c1cf-b339-5f6c-8d59-0fcf3e7d3052"
               }
-            ]
+            ],
+            "_publisher_id": "ecb35bd7-7c6d-5ba7-be55-38eaea48d69b"
           },
           {
             "id": "dff6ee6c-f747-5a6c-be97-0d3c5976091c",
@@ -21772,7 +21949,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "1e89a793-7110-5be2-9d28-4226fca8e971"
               }
-            ]
+            ],
+            "_publisher_id": "dff6ee6c-f747-5a6c-be97-0d3c5976091c"
           },
           {
             "id": "26c66150-9c90-5638-b5e1-de5bf06464f5",
@@ -21792,7 +21970,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "5c8f1095-a664-5fa9-92c5-015e5cf7727f"
               }
-            ]
+            ],
+            "_publisher_id": "26c66150-9c90-5638-b5e1-de5bf06464f5"
           },
           {
             "id": "6fd9d7d4-c43f-5ff8-9a0c-d1fc1206061c",
@@ -21812,7 +21991,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "e7b3831c-cc9a-5ffa-a5d2-361f5bdd6999"
               }
-            ]
+            ],
+            "_publisher_id": "6fd9d7d4-c43f-5ff8-9a0c-d1fc1206061c"
           },
           {
             "id": "c94913f2-4b8e-56a1-9e31-6a184500f779",
@@ -21832,7 +22012,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "68eda44c-2de1-5932-a2cb-10184cf5791f"
               }
-            ]
+            ],
+            "_publisher_id": "c94913f2-4b8e-56a1-9e31-6a184500f779"
           }
         ]
       },
@@ -21876,7 +22057,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "5910d8e6-2f31-5c21-84ad-ad8c7d23b7b2"
               }
-            ]
+            ],
+            "_publisher_id": "b5862947-6ecd-5f08-aa25-5715e3d924d0"
           },
           {
             "id": "4dfbfbdb-651f-5fd9-a9a2-56fc3e197fc8",
@@ -21896,7 +22078,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "ac0519e4-119c-5004-bb57-2b9d82c65cac"
               }
-            ]
+            ],
+            "_publisher_id": "4dfbfbdb-651f-5fd9-a9a2-56fc3e197fc8"
           },
           {
             "id": "dc803777-ab7d-5070-8d4a-5725e059d5ba",
@@ -21916,7 +22099,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "c7798bfb-0ee6-5adc-a428-554c7164bbdf"
               }
-            ]
+            ],
+            "_publisher_id": "dc803777-ab7d-5070-8d4a-5725e059d5ba"
           },
           {
             "id": "85e35f32-7109-58bb-b6e4-191ef87f01d0",
@@ -21936,7 +22120,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "934668bd-b8e9-5c7d-933f-0f54a7bdf533"
               }
-            ]
+            ],
+            "_publisher_id": "85e35f32-7109-58bb-b6e4-191ef87f01d0"
           },
           {
             "id": "f878fda0-3a58-5eaf-89ce-ab32f081cae9",
@@ -21956,7 +22141,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "25bcb8e2-d1be-53ce-9a26-d71ebf1d3186"
               }
-            ]
+            ],
+            "_publisher_id": "f878fda0-3a58-5eaf-89ce-ab32f081cae9"
           },
           {
             "id": "3e4c754e-fbb5-5975-a12b-eee8011efc9e",
@@ -21976,7 +22162,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "521e981e-1bd4-596b-b171-af6715003048"
               }
-            ]
+            ],
+            "_publisher_id": "3e4c754e-fbb5-5975-a12b-eee8011efc9e"
           }
         ]
       },
@@ -22020,7 +22207,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "5347ecd4-1244-5af9-942b-231b48b156f2"
               }
-            ]
+            ],
+            "_publisher_id": "aee0cc60-0156-5669-9e7a-af2bebeaea59"
           },
           {
             "id": "970f5da0-1881-571b-be90-1d30b6bb7f1e",
@@ -22040,7 +22228,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "bb7312ad-c01c-53eb-afb4-cdeff233ef7a"
               }
-            ]
+            ],
+            "_publisher_id": "970f5da0-1881-571b-be90-1d30b6bb7f1e"
           },
           {
             "id": "ad943257-4a44-5343-a1dc-3b2d70806fc4",
@@ -22060,7 +22249,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "e1e94fd5-e440-5fef-95f5-e00c5bd4dd9e"
               }
-            ]
+            ],
+            "_publisher_id": "ad943257-4a44-5343-a1dc-3b2d70806fc4"
           },
           {
             "id": "e0a76526-29df-5040-a3c0-50ccd00ee26b",
@@ -22080,7 +22270,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "7bede77a-71d2-526f-a7d4-5067eae3f143"
               }
-            ]
+            ],
+            "_publisher_id": "e0a76526-29df-5040-a3c0-50ccd00ee26b"
           },
           {
             "id": "7fb189c0-fb45-52e8-a585-28877733e95e",
@@ -22100,7 +22291,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "ee84bbfa-e8d5-5fa4-84ad-9b80533dbe79"
               }
-            ]
+            ],
+            "_publisher_id": "7fb189c0-fb45-52e8-a585-28877733e95e"
           },
           {
             "id": "f4f88491-8784-564f-81c2-cd02144fdfd2",
@@ -22120,7 +22312,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "343517ea-16a4-5440-a3db-ad178f21e552"
               }
-            ]
+            ],
+            "_publisher_id": "f4f88491-8784-564f-81c2-cd02144fdfd2"
           },
           {
             "id": "e9d0693c-7915-5f72-b024-0e9f5d3bd42c",
@@ -22140,7 +22333,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "93117427-51d6-5616-a2b8-19626656df5d"
               }
-            ]
+            ],
+            "_publisher_id": "e9d0693c-7915-5f72-b024-0e9f5d3bd42c"
           }
         ]
       },
@@ -22184,7 +22378,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "6c440ef2-bd2e-5724-b56c-8726d20eecae"
               }
-            ]
+            ],
+            "_publisher_id": "ba4cff13-2c70-5093-adae-eb0d7a2ad648"
           },
           {
             "id": "e88767eb-918b-54d4-a267-1af3f94d9d19",
@@ -22204,7 +22399,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "59d755fe-0523-553a-839f-ef095017b215"
               }
-            ]
+            ],
+            "_publisher_id": "e88767eb-918b-54d4-a267-1af3f94d9d19"
           },
           {
             "id": "7e08a2b0-e4dd-5aa1-ae7f-ae17ac8c9a02",
@@ -22224,7 +22420,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "db213a61-f990-5fe4-bb90-fed99d7a8f89"
               }
-            ]
+            ],
+            "_publisher_id": "7e08a2b0-e4dd-5aa1-ae7f-ae17ac8c9a02"
           },
           {
             "id": "9e5710b2-84ef-5f5a-9fab-f8fb2d50dd43",
@@ -22244,7 +22441,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "400a2054-c02b-5683-b9d1-08456a60ce99"
               }
-            ]
+            ],
+            "_publisher_id": "9e5710b2-84ef-5f5a-9fab-f8fb2d50dd43"
           },
           {
             "id": "6d4e41c6-3172-59fc-be42-d9616cbca2ea",
@@ -22264,7 +22462,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "999888b5-832f-52e3-92df-d6ed30e05fbc"
               }
-            ]
+            ],
+            "_publisher_id": "6d4e41c6-3172-59fc-be42-d9616cbca2ea"
           },
           {
             "id": "7c3dd623-8b58-53b4-9a5c-f8e930f73e4a",
@@ -22284,7 +22483,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "2589adaa-0102-5b83-a356-8dc05348e82e"
               }
-            ]
+            ],
+            "_publisher_id": "7c3dd623-8b58-53b4-9a5c-f8e930f73e4a"
           },
           {
             "id": "794f8868-1559-5070-a1b8-2f59e377e918",
@@ -22304,7 +22504,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "8203c28b-d6ad-5919-ad02-76e34375b802"
               }
-            ]
+            ],
+            "_publisher_id": "794f8868-1559-5070-a1b8-2f59e377e918"
           }
         ]
       },
@@ -22348,7 +22549,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "c811f691-b839-5102-aa58-70d5eaddf78a"
               }
-            ]
+            ],
+            "_publisher_id": "1a7d4ed4-dd4b-523b-a021-f1a76b07f894"
           },
           {
             "id": "707b9e64-a3dd-5482-b3aa-88b6a7870fda",
@@ -22368,7 +22570,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "f17eb5a3-f12e-53d9-9366-ff95e821947d"
               }
-            ]
+            ],
+            "_publisher_id": "707b9e64-a3dd-5482-b3aa-88b6a7870fda"
           },
           {
             "id": "8456e2a6-b6c4-5ed9-9fa6-a67d5a306167",
@@ -22388,7 +22591,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "04429171-249b-5b3a-86a1-3fa5e6ac9ffd"
               }
-            ]
+            ],
+            "_publisher_id": "8456e2a6-b6c4-5ed9-9fa6-a67d5a306167"
           },
           {
             "id": "d4aa5c7e-e025-50e8-912b-9fa3ef442fe7",
@@ -22408,7 +22612,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "c4950489-991b-53e2-b6bb-c34639d6d6b5"
               }
-            ]
+            ],
+            "_publisher_id": "d4aa5c7e-e025-50e8-912b-9fa3ef442fe7"
           },
           {
             "id": "755e87c8-df83-5616-b009-2ac6d97d3826",
@@ -22428,7 +22633,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "d5ed2c6b-6557-5bf0-bfd4-6b351e17a1c9"
               }
-            ]
+            ],
+            "_publisher_id": "755e87c8-df83-5616-b009-2ac6d97d3826"
           },
           {
             "id": "dbc82866-f703-5025-80de-4b00b04a74c0",
@@ -22448,7 +22654,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "87939984-fa63-5888-b01c-176f77665646"
               }
-            ]
+            ],
+            "_publisher_id": "dbc82866-f703-5025-80de-4b00b04a74c0"
           },
           {
             "id": "f1566496-0134-5ff5-9c68-c6b70ea59d8d",
@@ -22468,7 +22675,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "d351d225-a280-5159-9146-69446aade2f0"
               }
-            ]
+            ],
+            "_publisher_id": "f1566496-0134-5ff5-9c68-c6b70ea59d8d"
           }
         ]
       },
@@ -22512,7 +22720,8 @@
                 "mime": "application/x-zip-compressed",
                 "_source_id": "bb121ee3-8c9d-5c97-b4e3-aaf41c8f946a"
               }
-            ]
+            ],
+            "_publisher_id": "2f0dcf65-f3d8-515e-920a-7ba28af06bd4"
           },
           {
             "id": "586dd5a5-400f-540b-bf13-d21d04fa4155",
@@ -22532,7 +22741,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "afd9ec5c-453b-5b36-b152-1798c50f1554"
               }
-            ]
+            ],
+            "_publisher_id": "586dd5a5-400f-540b-bf13-d21d04fa4155"
           },
           {
             "id": "44a48f60-9192-54b6-974b-0f352e6fa9e1",
@@ -22552,7 +22762,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "bc214990-2f67-5c49-81ae-412bc621d2f6"
               }
-            ]
+            ],
+            "_publisher_id": "44a48f60-9192-54b6-974b-0f352e6fa9e1"
           },
           {
             "id": "e3f8b743-733a-5dab-8c64-7b9d5db86bcf",
@@ -22572,7 +22783,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "0a0a89b4-0ab4-572d-a1d8-4a1e748d8b81"
               }
-            ]
+            ],
+            "_publisher_id": "e3f8b743-733a-5dab-8c64-7b9d5db86bcf"
           },
           {
             "id": "58a0f211-b49a-5150-b829-99b0cc357aa2",
@@ -22592,7 +22804,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "ce93ba49-075f-5fbc-86ea-239f3967827e"
               }
-            ]
+            ],
+            "_publisher_id": "58a0f211-b49a-5150-b829-99b0cc357aa2"
           },
           {
             "id": "e763742c-7f88-5b78-8f6c-eda98ffba3fb",
@@ -22612,7 +22825,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "3ea316b5-1a01-5506-b1b6-f8b26990ad42"
               }
-            ]
+            ],
+            "_publisher_id": "e763742c-7f88-5b78-8f6c-eda98ffba3fb"
           }
         ]
       },
@@ -22656,7 +22870,8 @@
                 "mime": "application/x-zip-compressed",
                 "_source_id": "a03d0121-5fce-50a0-b301-08de9b96a0de"
               }
-            ]
+            ],
+            "_publisher_id": "d37356d0-faef-5cb9-a315-aebe6445e7de"
           },
           {
             "id": "dde08032-2c09-5a33-a748-6c6a9adf7eca",
@@ -22676,7 +22891,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "cfcc7887-056a-5f9c-bb86-0fdbbcf58ff7"
               }
-            ]
+            ],
+            "_publisher_id": "dde08032-2c09-5a33-a748-6c6a9adf7eca"
           },
           {
             "id": "fd75ec67-3418-5c56-9554-b7bf31e3e570",
@@ -22696,7 +22912,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "8968e210-850e-5c7a-8fb7-5e9839e4ee12"
               }
-            ]
+            ],
+            "_publisher_id": "fd75ec67-3418-5c56-9554-b7bf31e3e570"
           },
           {
             "id": "4c52983e-ec07-585c-a5db-aab76d74af2e",
@@ -22716,7 +22933,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "2f7c5db4-c711-551e-817a-440a282ea768"
               }
-            ]
+            ],
+            "_publisher_id": "4c52983e-ec07-585c-a5db-aab76d74af2e"
           },
           {
             "id": "63632ecd-e1ef-5def-b6b9-9c24f5e54c9d",
@@ -22736,7 +22954,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "620465ce-3741-534b-b109-448e11b0f465"
               }
-            ]
+            ],
+            "_publisher_id": "63632ecd-e1ef-5def-b6b9-9c24f5e54c9d"
           },
           {
             "id": "1ba9a9d4-37b8-59a6-ae4e-2039d173cc1a",
@@ -22756,7 +22975,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "b92d9753-2197-56e2-b8d3-a298f0331bc4"
               }
-            ]
+            ],
+            "_publisher_id": "1ba9a9d4-37b8-59a6-ae4e-2039d173cc1a"
           },
           {
             "id": "a794112e-7e2f-5fe7-8db4-9c66af39201c",
@@ -22776,7 +22996,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "92cf5af1-ae6f-5288-911d-35db7b07b7eb"
               }
-            ]
+            ],
+            "_publisher_id": "a794112e-7e2f-5fe7-8db4-9c66af39201c"
           },
           {
             "id": "1cfd85ac-bd0b-56a9-84a4-53f1af048614",
@@ -22796,7 +23017,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "c82ea84f-7a91-5654-8382-fa60704599e2"
               }
-            ]
+            ],
+            "_publisher_id": "1cfd85ac-bd0b-56a9-84a4-53f1af048614"
           },
           {
             "id": "1c15b79b-30fb-5fa5-933b-725f195d8069",
@@ -22816,7 +23038,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "f6307933-3c11-538d-906d-a216f4339564"
               }
-            ]
+            ],
+            "_publisher_id": "1c15b79b-30fb-5fa5-933b-725f195d8069"
           },
           {
             "id": "23dbf66e-57f8-5b3e-87d3-e289c6ae28ae",
@@ -22836,7 +23059,8 @@
                 "mime": "audio/mpeg",
                 "_source_id": "f54f905e-f549-5391-9ea5-36bd04ffb2b8"
               }
-            ]
+            ],
+            "_publisher_id": "23dbf66e-57f8-5b3e-87d3-e289c6ae28ae"
           }
         ]
       },
@@ -22849,7 +23073,8 @@
             "name": "LIVE: Developer Jutra - wstęp dla ANF",
             "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147627266\">BONUSy</a></h5>",
             "video_drive_id": "15ChesZKXyHz6iHdP4a3Oalt8ypRQI2l6",
-            "documents": []
+            "documents": [],
+            "_publisher_id": "3f30023a-47c6-55ab-899a-38a44a229c2f"
           },
           {
             "id": "d978355b-adb2-57f5-9092-fe54f507f78f",
@@ -22863,28 +23088,32 @@
                 "mime": "application/pdf",
                 "_source_id": "77fafd6c-a06a-5cf1-87cd-ae78a8032f11"
               }
-            ]
+            ],
+            "_publisher_id": "d978355b-adb2-57f5-9092-fe54f507f78f"
           },
           {
             "id": "2cb4cc39-d2e8-5622-8063-a4909e068f87",
             "name": "LIVE: Maszyny Stanowe na Froncie",
             "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147627266\">BONUSy</a></h5>",
             "video_drive_id": "1965Nv5sE3sZdZQJrC8IMimDg-hmDh7J8",
-            "documents": []
+            "documents": [],
+            "_publisher_id": "2cb4cc39-d2e8-5622-8063-a4909e068f87"
           },
           {
             "id": "848f95bc-15bb-5dae-ae94-9fe57a3941aa",
             "name": "LIVE: Type-Safety oraz modelowanie aplikacji Reactowej w oparciu o TypeScripta",
             "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147627266\">BONUSy</a></h5>",
             "video_drive_id": "19_LCClPdL6vPYEV9z1PKmfNIcf6grpsg",
-            "documents": []
+            "documents": [],
+            "_publisher_id": "848f95bc-15bb-5dae-ae94-9fe57a3941aa"
           },
           {
             "id": "e25890bf-eff9-5ff2-8565-71042dff5fc7",
             "name": "LIVE: Frontend generowany po stronie serwera: krok wstecz, (r)ewolucja, czy overkill?",
             "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147627266\">BONUSy</a></h5>",
             "video_drive_id": "1iL53kptem5WVr1GzkySt4QLWWlukGQkE",
-            "documents": []
+            "documents": [],
+            "_publisher_id": "e25890bf-eff9-5ff2-8565-71042dff5fc7"
           }
         ]
       },
@@ -22904,7 +23133,8 @@
                 "mime": "application/pdf",
                 "_source_id": "67fc22bc-b610-5dee-8e7f-2aaa69b71083"
               }
-            ]
+            ],
+            "_publisher_id": "30520f7f-0a66-5b77-abbb-643d5eaeea2c"
           },
           {
             "id": "8495bff6-c8f2-5fe9-b3ad-350adc13e950",
@@ -22918,35 +23148,40 @@
                 "mime": "application/pdf",
                 "_source_id": "19d725eb-a2ba-5a63-beae-779f44eb0d30"
               }
-            ]
+            ],
+            "_publisher_id": "8495bff6-c8f2-5fe9-b3ad-350adc13e950"
           },
           {
             "id": "ea40fef7-efb4-5d5f-ab02-43af75847aa8",
             "name": "Znaczenia odwrócenia sterowania w JavaScripcie",
             "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147937465\">Mailing ANF</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/lLfty_ZB6IE\" title=\"YouTube video player\" width=\"560\"></iframe></p>",
             "video_drive_id": null,
-            "documents": []
+            "documents": [],
+            "_publisher_id": "ea40fef7-efb4-5d5f-ab02-43af75847aa8"
           },
           {
             "id": "27c4eda9-4bf3-57e9-9724-ff08886353ba",
             "name": "Przewodnik po wnioskowaniu typów w TypeScripcie",
             "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147937465\">Mailing ANF</a></h5>\n<p>Zobacz artykuł tu: <a href=\"http://ducin.it/typescript-type-inference-guide\">http://ducin.it/typescript-type-inference-guide</a> </p>",
             "video_drive_id": null,
-            "documents": []
+            "documents": [],
+            "_publisher_id": "27c4eda9-4bf3-57e9-9724-ff08886353ba"
           },
           {
             "id": "2020e24e-81ee-5d25-9b4d-c97f6e9ac138",
             "name": "5 asynchronicznych architektur w JavaScripcie",
             "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147937465\">Mailing ANF</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/C4ZuJQ_5Ik0\" title=\"YouTube video player\" width=\"560\"></iframe></p>",
             "video_drive_id": null,
-            "documents": []
+            "documents": [],
+            "_publisher_id": "2020e24e-81ee-5d25-9b4d-c97f6e9ac138"
           },
           {
             "id": "6f169cca-b8f5-595e-b5b9-4b6af8a4c9d1",
             "name": "RxJS, czyli wszystko jest strumieniem",
             "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/anf-architektura-na-froncie/categories/2147937465\">Mailing ANF</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/IB5yxGGVEGk\" title=\"YouTube video player\" width=\"560\"></iframe></p>",
             "video_drive_id": null,
-            "documents": []
+            "documents": [],
+            "_publisher_id": "6f169cca-b8f5-595e-b5b9-4b6af8a4c9d1"
           },
           {
             "id": "8c67c4aa-72aa-590a-bef0-ff23f990862a",
@@ -22960,7 +23195,8 @@
                 "mime": "application/pdf",
                 "_source_id": "0c6d3da1-2897-5a2e-ad62-cdf02e6e4cfe"
               }
-            ]
+            ],
+            "_publisher_id": "8c67c4aa-72aa-590a-bef0-ff23f990862a"
           },
           {
             "id": "93a50bf5-3d47-54bc-bd4e-748523d78c3b",
@@ -22974,7 +23210,8 @@
                 "mime": "application/pdf",
                 "_source_id": "1b99b7a3-d8e6-5c8a-85a9-9fdb781a611c"
               }
-            ]
+            ],
+            "_publisher_id": "93a50bf5-3d47-54bc-bd4e-748523d78c3b"
           }
         ]
       }
