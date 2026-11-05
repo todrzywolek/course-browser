@@ -23217,5 +23217,1827 @@
       }
     ],
     "_publisher_source": "https://edu.devstyle.pl:cc66a977-6618-5446-8e42-ed6dae953bf9"
+  },
+  {
+    "id": "4c092344-b4ba-5356-85fd-5ad418501097",
+    "title": "SmartTesting",
+    "categories": [
+      {
+        "id": "eacdd82d-dab6-5c92-8fbd-3fdbeba697bf",
+        "name": "INTRO / Organizacyjnie (obejrzyj koniecznie!)",
+        "posts": [
+          {
+            "id": "5d25032f-928d-5904-afed-3f7a6d08e71e",
+            "name": "Powitanie",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3893795\">INTRO / Organizacyjnie (obejrzyj koniecznie!)</a></h5>",
+            "video_drive_id": "1cgEE7-rtqhU_71DTnHDqKgqbBob-mvwr",
+            "documents": []
+          },
+          {
+            "id": "109b7bab-53e2-5c62-85bb-7566a25e55a2",
+            "name": "Jak korzystać ze SmartTesting",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3893795\">INTRO / Organizacyjnie (obejrzyj koniecznie!)</a></h5>",
+            "video_drive_id": "1yduIPTFZzDIKRpffATqYwyqEXTqYWazP",
+            "documents": []
+          },
+          {
+            "id": "8908a071-900d-5946-a581-81a840886be6",
+            "name": "Kod SmartTesting",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3893795\">INTRO / Organizacyjnie (obejrzyj koniecznie!)</a></h5>\n<p>Nasz<span> </span><a href=\"https://discord.com/invite/ePWRGubgQt\"><strong>Discord</strong><span> </span>SmartTesting: TUTAJ</a>.</p>\n<p><strong>Skąd pobrać kod: </strong></p>\n<p><span style=\"font-weight: 400;\">Kod SmartTesting jest dostępny publicznie.</span></p>\n<p><span style=\"font-weight: 400;\">Poniżej znajdziesz 5 repo, każde odpowiednie dla danego języka:</span></p>\n<ul>\n<li><span style=\"font-weight: 400;\">Java: <a href=\"https://github.com/SmartTestingPL/smarttesting-java-public\">https://github.com/SmartTestingPL/smarttesting-java-public</a></span></li>\n<li><span style=\"font-weight: 400;\">Javascript: <a href=\"https://github.com/SmartTestingPL/smarttesting-js-public\">https://github.com/SmartTestingPL/smarttesting-js-public</a></span></li>\n<li><span style=\"font-weight: 400;\">PHP: <a href=\"https://github.com/SmartTestingPL/smarttesting-php-public\">https://github.com/SmartTestingPL/smarttesting-php-public</a></span></li>\n<li><span style=\"font-weight: 400;\">.NET: <a href=\"https://github.com/SmartTestingPL/smarttesting-dotnet-public\">https://github.com/SmartTestingPL/smarttesting-dotnet-public</a></span></li>\n<li><span style=\"font-weight: 400;\">Python: <a href=\"https://github.com/SmartTestingPL/smartesting-python-public\">https://github.com/SmartTestingPL/smartesting-python-public</a></span></li>\n</ul>\n<p> </p>\n<p> </p>\n<p><span style=\"font-weight: 400;\">W każdym z repozytoriów masz instrukcję jak pracować z danym projektem (README.adoc / README.md).</span></p>\n<p><strong>Powodzenia! A w przypadku jakichkolwiek uwag zapraszamy na Discord.</strong></p>\n<p><strong>Źródła z lekcji: </strong></p>\n<ul>\n<li><strong><em><span style=\"font-weight: 400;\">Growing Object-Oriented Software, Guided by Tests</span></em><span style=\"font-weight: 400;\"><span> </span>by Steve Freeman</span></strong></li>\n<li><a class=\"anchor-1X4H4q anchorUnderlineOnHover-wiZFZ_\" href=\"https://www.it-cisq.org/the-cost-of-poor-quality-software-in-the-us-a-2018-report/\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://www.it-cisq.org/the-cost-of-poor-quality-software-in-the-us-a-2018-report/\"><span>https://www.it-cisq.org/the-cost-of-poor-quality-software-in-the-us-a-2018-report/</span></a></li>\n<li><span><a href=\"https://www.it-cisq.org/cisq-files/pdf/CPSQ-2020-report.pdf\">https://www.it-cisq.org/cisq-files/pdf/CPSQ-2020-report.pdf</a><a class=\"anchor-1X4H4q anchorUnderlineOnHover-wiZFZ_\" href=\"https://www.it-cisq.org/cisq-files/pdf/CPSQ-2020-report.pdf\" rel=\"noopener noreferrer\" role=\"button\" tabindex=\"0\" target=\"_blank\" title=\"https://www.it-cisq.org/cisq-files/pdf/CPSQ-2020-report.pdf\"> </a></span><span> </span></li>\n</ul>\n<p> *<span>W razie trudności pisz na </span><a href=\"mailto:kontakt@devstyel.pl\">kontakt@devstyle.pl</a><span> : ) </span></p>",
+            "video_drive_id": "1z6ULYiVQCOUkZ7H6BPqrXzc1T3FWTXlF",
+            "documents": []
+          },
+          {
+            "id": "e8c31104-fe96-51e1-90df-3a7f40df77bc",
+            "name": "Społeczność SmartTesting",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3893795\">INTRO / Organizacyjnie (obejrzyj koniecznie!)</a></h5>\n<p>Dołącz do naszej społeczności na <strong>Discord</strong>!</p>\n<p><a href=\"https://discord.com/invite/ePWRGubgQt\">Tutaj LINK do Discord ».<br/><br/><br/></a></p>\n<p>W razie trudności pisz na <a href=\"mailto:kontakt@devstyel.pl\">kontakt@devstyle.pl</a> : ) </p>",
+            "video_drive_id": "1Ik2bbsLk6AXkYHfL193L-1yie3KgEtpO",
+            "documents": []
+          },
+          {
+            "id": "ec733ee4-74b3-533a-b44c-061d3fe4ea39",
+            "name": "AGENDA SmartTesting",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3893795\">INTRO / Organizacyjnie (obejrzyj koniecznie!)</a></h5>\n<p>Tutaj znajdziesz <a href=\"https://smarttesting.pl/agenda/\">kompletną agendę SmartTesting: KLIK.</a></p>",
+            "video_drive_id": null,
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "3bd14157-fbba-5ba5-84b2-29dd62af317a",
+        "name": "Moduł I - Podstawy",
+        "posts": [
+          {
+            "id": "82102cce-2f6a-5f24-8ce2-e65f6e090006",
+            "name": "Lekcja 1.1.1. Czemu Testy Są Niezbędne [07:36]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3883303\">1.1. Podstawy Testowania [34:20]</a></h5>\n<p>Nasz<span> </span><a href=\"https://discord.com/invite/ePWRGubgQt\"><strong>Discord</strong><span> </span>SmartTesting: TUTAJ</a>.</p>\n<p><strong>Skąd pobrać kod: </strong></p>\n<p><span style=\"font-weight: 400;\">Kod SmartTesting jest dostępny publicznie.</span></p>\n<p><span style=\"font-weight: 400;\">Poniżej znajdziesz 5 repo, każde odpowiednie dla danego języka:</span></p>\n<ul>\n<li><span style=\"font-weight: 400;\">Java: <a href=\"https://github.com/SmartTestingPL/smarttesting-java-public\">https://github.com/SmartTestingPL/smarttesting-java-public</a></span></li>\n<li><span style=\"font-weight: 400;\">Javascript: <a href=\"https://github.com/SmartTestingPL/smarttesting-js-public\">https://github.com/SmartTestingPL/smarttesting-js-public</a></span></li>\n<li><span style=\"font-weight: 400;\">PHP: <a href=\"https://github.com/SmartTestingPL/smarttesting-php-public\">https://github.com/SmartTestingPL/smarttesting-php-public</a></span></li>\n<li><span style=\"font-weight: 400;\">.NET: <a href=\"https://github.com/SmartTestingPL/smarttesting-dotnet-public\">https://github.com/SmartTestingPL/smarttesting-dotnet-public</a></span></li>\n<li><span style=\"font-weight: 400;\">Python: <a href=\"https://github.com/SmartTestingPL/smartesting-python-public\">https://github.com/SmartTestingPL/smartesting-python-public</a></span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">W każdym z repozytoriów znajduje się instrukcja jak pracować z danym projektem (README.adoc / README.md).</span></p>\n<p><strong>Powodzenia! A w przypadku jakichkolwiek uwag zapraszamy na Discorda.</strong></p>\n<p> </p>\n<p><strong>Źródła z lekcji: </strong></p>\n<ul>\n<li><strong><em><span style=\"font-weight: 400;\">Growing Object-Oriented Software, Guided by Tests</span></em><span style=\"font-weight: 400;\"> by Steve Freeman</span></strong></li>\n</ul>\n<p> </p>\n<hr/>\n<ul>\n<li><span>Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span>W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów ST wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span>ST możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :)  Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li>\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1QCMHMih9nfq3dQfbHPndLHZQSYIywt7B",
+            "documents": [
+              {
+                "name": "ST_T1_Wszystkie_transkrypcje.zip",
+                "drive_id": "1-XOBiRJnV1gTG_ej6e3SeUrDEKoKeSSh",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "4ecf224f-1ff1-57c1-88f2-faca2f1da9c9"
+              },
+              {
+                "name": "ST_T1_Wszystkie_slajdy.pdf",
+                "drive_id": "1jBtr7JCYSyj1951KAadyrAclnEgKinxu",
+                "mime": "application/pdf",
+                "_source_id": "fd647615-61dd-5deb-96d7-98d0572645fd"
+              },
+              {
+                "name": "ST_1-1-1.mp3",
+                "drive_id": "11Hgtho-bpvun0Jwcv-Bi7H2T7tHlttQ9",
+                "mime": "audio/mpeg",
+                "_source_id": "54251708-e9f8-5570-a6ae-571ca7a3511e"
+              },
+              {
+                "name": "ST_01-01-01_Transkrypcja.pdf",
+                "drive_id": "1ySCXTfPDNrDyxdTEAXFBbf958LYATJCI",
+                "mime": "application/pdf",
+                "_source_id": "0d56cd7e-daa0-5820-a6af-40507642e7f1"
+              },
+              {
+                "name": "ST_T1_Bibliografia.pdf",
+                "drive_id": "1BTxL5EBmm-pzu2sWAtcExsgavwPH4MlS",
+                "mime": "application/pdf",
+                "_source_id": "64d0fe3d-536a-51ea-82f5-526d29979d82"
+              },
+              {
+                "name": "ST_T1_Wszystkie_mp3.zip",
+                "drive_id": "1cIhZYvUum8FJP5ZWw0U2Pc9Hkx2frGvS",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "1280f1ae-2b8a-5d74-b478-4089b6483865"
+              }
+            ]
+          },
+          {
+            "id": "e8a0e6af-3e5b-57a6-a2d5-6b4778b02bdb",
+            "name": "Lekcja 1.1.2. Ekonomia Testowania / Dlaczego Ma To Biznesowy Sens [06:40]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3883303\">1.1. Podstawy Testowania [34:20]</a></h5>\n<p><strong>Źródła z lekcji: </strong></p>\n<ul>\n<li><a href=\"https://www.researchgate.net/publication/255965523_Integrating_Software_Assurance_into_the_Software_Development_Life_Cycle_SDLC\"><span style=\"font-weight: 400;\">https://www.researchgate.net/publication/255965523_Integrating_Software_Assurance_into_the_Software_Development_Life_Cycle_SDLC</span></a></li>\n<li><a href=\"https://www.reuters.com/article/us-samsung-elec-smartphones-costs-idUSKCN12B0FX\"><span style=\"font-weight: 400;\">https://www.reuters.com/article/us-samsung-elec-smartphones-costs-idUSKCN12B0FX</span></a></li>\n<li><a href=\"https://www.motortrend.com/news/toyota-recall-crisis/\"><span style=\"font-weight: 400;\">https://www.motortrend.com/news/toyota-recall-crisis/</span></a></li>\n<li><a href=\"https://money.cnn.com/2012/08/09/technology/knight-expensive-computer-bug/\"><span style=\"font-weight: 400;\">https://money.cnn.com/2012/08/09/technology/knight-expensive-computer-bug/</span></a></li>\n<li><span style=\"font-weight: 400;\"><a href=\"https://about.gitlab.com/blog/2017/02/10/postmortem-of-database-outage-of-january-31/\">https://about.gitlab.com/blog/2017/02/10/postmortem-of-database-outage-of-january-31/</a><a href=\"https://about.gitlab.com/blog/2017/02/10/postmortem-of-database-outage-of-january-31/\"> </a></span></li>\n</ul>\n<hr/>\n<ul>\n<li><span>Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span>W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów ST wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span>ST możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :)  Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li>\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1EWK76NuafnHHADEQJhTHj8Ba82SdKTHq",
+            "documents": [
+              {
+                "name": "St_01-01-02_Transkrypcja.pdf",
+                "drive_id": "1WsunVD8-tmV-nANRAGiM5_QmzIix6Sji",
+                "mime": "application/pdf",
+                "_source_id": "262f91bf-a22b-5f2d-aae0-52ccd633d961"
+              },
+              {
+                "name": "ST_1-1-2.mp3",
+                "drive_id": "1-_-52SQov6f5cBMGQN4l4Yfm5ieO1TId",
+                "mime": "audio/mpeg",
+                "_source_id": "24ef57e0-1e9f-58e8-b14c-fecc4262f265"
+              }
+            ]
+          },
+          {
+            "id": "3e158308-537d-5c37-8181-0c36a32833b9",
+            "name": "Lekcja 1.1.3. Co To Jest Testowalność [09:36]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3883303\">1.1. Podstawy Testowania [34:20]</a></h5>",
+            "video_drive_id": "1NDRmxbLCx0m7nRCNjoug9XINChszqFaN",
+            "documents": [
+              {
+                "name": "ST_01-01-03_Transkrypcja.pdf",
+                "drive_id": "1QhlK6SFlg-_dO0aotfKDbZDlBtopkApH",
+                "mime": "application/pdf",
+                "_source_id": "09b565b1-d14d-5350-b0ec-1cb118f47ba0"
+              },
+              {
+                "name": "ST_1-1-3.mp3",
+                "drive_id": "1VfOmwpLdO4xDgSIW5aZuZFXX3zOenJYA",
+                "mime": "audio/mpeg",
+                "_source_id": "0bc3ebf5-62cb-5bf5-8241-4f3eee58904d"
+              }
+            ]
+          },
+          {
+            "id": "c14150e4-966d-51ef-a441-ef3e5b8cacdf",
+            "name": "Lekcja 1.1.4. Unikanie fałszywych wyników negatywnych  [2:53]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3883303\">1.1. Podstawy Testowania [34:20]</a></h5>\n<p><strong>UWAGA</strong></p>\n<p>W związku z pytaniami dotyczącymi używanego przez nas pojęcia \"<em data-stringify-type=\"italic\">false positive</em>\" lub \"<em data-stringify-type=\"italic\">fałszywe wyniki pozytywne</em>\", składamy pewne wyjaśnienie. Spotkaną przez nas praktyką jest opisanie testu, z \"<em data-stringify-type=\"italic\">fałszywym wynikiem pozytywnym</em>\" jako takiego testu, <strong data-stringify-type=\"bold\">który przechodzi, a nie powinien</strong>.</p>\n<p>Natomiast wg. różnych artykułów i książek poświęconych testom, taki test powinien być jednak nazwany \"<em data-stringify-type=\"italic\">false negative</em>\" czyli \"<em data-stringify-type=\"italic\">fałszy wynik negatywny</em>\".</p>\n<p>Podsumowując: dla potrzeb spójności szkolenia uznajmy zatem, że w momencie, w którym mówimy o \"<em data-stringify-type=\"italic\">fałszywych wynikach pozytywnych</em>\" (\"<em data-stringify-type=\"italic\">false positive</em>\") <strong data-stringify-type=\"bold\">mówimy o teście, który przechodzi, a powinien nie przejść</strong>.</p>\n<p> </p>\n<p><strong>Źródła z lekcji: </strong></p>\n<ul>\n<li><a href=\"https://github.com/spring-cloud-samples/spring-cloud-contract-samples/blob/dbdbdf490fb5799f57779563a92caa04789666d1/producer_with_spock/pom.xml#L217-L242\"><span style=\"font-weight: 400;\">https://github.com/spring-cloud-samples/spring-cloud-contract-samples/blob/dbdbdf490fb5799f57779563a92caa04789666d1/producer_with_spock/pom.xml#L217-L242</span></a></li>\n</ul>",
+            "video_drive_id": "1k9pTbKCsUXx6BNw_jcAcNv2REhbiKIHN",
+            "documents": [
+              {
+                "name": "ST_01-01-04_Transkrypcja.pdf",
+                "drive_id": "1RLpKeOkgD0plGMjXKhw-HzTACSTr2PPi",
+                "mime": "application/pdf",
+                "_source_id": "01eeaca4-f619-579c-b193-ed1d1a38b71b"
+              },
+              {
+                "name": "ST_1-1-4.mp3",
+                "drive_id": "1Rg-5pYyv53d8kEJt8lPw_lLRqoq3DWuk",
+                "mime": "audio/mpeg",
+                "_source_id": "a5eaa923-4ae4-514a-903a-4dabde3c1e9e"
+              }
+            ]
+          },
+          {
+            "id": "af1f4965-950b-58d8-beb1-5f7855ab3d9e",
+            "name": "Lekcja 1.1.5. Najważniejsze Rodzaje testów [7:35]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3883303\">1.1. Podstawy Testowania [34:20]</a></h5>\n<p><strong>Źródła z lekcji:</strong></p>\n<ul>\n<li>\n<p><em><span style=\"font-weight: 400;\">Software Engineering at Google</span></em><span style=\"font-weight: 400;\"> by Hyrum Wright; Titus Winters; Tom Manshreck</span></p>\n</li>\n<li><span style=\"font-weight: 400;\"><a href=\"https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html\">https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html</a></span></li>\n</ul>",
+            "video_drive_id": "1f7fIo0wXQe8emm0dY9y4M5byvDCnYPCb",
+            "documents": [
+              {
+                "name": "ST_01-01-05_Transkrypcja.pdf",
+                "drive_id": "1tzWR4jsER372bfb2Ruj2zvZAU3SGyYuW",
+                "mime": "application/pdf",
+                "_source_id": "8914075d-c910-53f5-b883-2bc876a7209a"
+              },
+              {
+                "name": "ST_1-1-5.mp3",
+                "drive_id": "1IdDHPQ58WYICbzHK3Lx2LCXVb0wIHv3t",
+                "mime": "audio/mpeg",
+                "_source_id": "bb981dda-d6a9-59a9-8c6d-c4a03009ea2e"
+              }
+            ]
+          },
+          {
+            "id": "e174f71b-ff48-5a8d-905a-f160331e792a",
+            "name": "Lekcja 1.2.1. Struktura testu [4:06]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3883361\">1.2. Testy Jednostkowe - Podstawy [21:27]</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li><span style=\"font-weight: 400;\">Zob: </span><em><span style=\"font-weight: 400;\">Unit Testing Principles, Practices, and Patterns</span></em><span style=\"font-weight: 400;\"> by Vladimir Khorikov</span></li>\n</ul>",
+            "video_drive_id": "1xHmxu06FQIBcdNd55CQv2Zhy2jaXFToc",
+            "documents": [
+              {
+                "name": "ST_01-02-01_Transkrypcja.pdf",
+                "drive_id": "1rRZGiPHHctD7U5Y1er7ux6ZuQ18zPJa5",
+                "mime": "application/pdf",
+                "_source_id": "aa680d39-d1ec-5e03-bb62-e6a8dafe26c9"
+              },
+              {
+                "name": "ST_1-2-1.mp3",
+                "drive_id": "1ZfiURK7d3yzbTTWpeYUJbPyq6qDbs0fM",
+                "mime": "audio/mpeg",
+                "_source_id": "23fe6d9a-d5ef-5853-aad7-6e208336b7f1"
+              }
+            ]
+          },
+          {
+            "id": "076c0dd5-721f-59ad-9193-02ff0c873a18",
+            "name": "Lekcja 1.2.2. Konwencje Nazewnicze [3:34]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3883361\">1.2. Testy Jednostkowe - Podstawy [21:27]</a></h5>",
+            "video_drive_id": "1IdnXaSOzdIpTzj8QchFOMM9FoH3MFK2t",
+            "documents": [
+              {
+                "name": "ST_01-02-02_Transkrypcja.pdf",
+                "drive_id": "1bPBlevpZcqJT2WxnjKmOgAgvXtu-VstO",
+                "mime": "application/pdf",
+                "_source_id": "c86ca950-8840-54bf-9c26-6d2409ecde3a"
+              },
+              {
+                "name": "ST_1-2-2.mp3",
+                "drive_id": "1MQ0qy9mSHWNBkq-4lwGyOGZ2yEBvmdW-",
+                "mime": "audio/mpeg",
+                "_source_id": "570e2dd7-722c-51ce-b1e7-7b91d4c4d4f1"
+              }
+            ]
+          },
+          {
+            "id": "2db04af3-23a7-5625-820a-fe19e703f7f6",
+            "name": "Lekcja 1.2.3. Jak Używać Konstruktorów [2:53]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3883361\">1.2. Testy Jednostkowe - Podstawy [21:27]</a></h5>",
+            "video_drive_id": "1sAbAKmJMyW3kd0rRoMyUe26UGxj0xFmt",
+            "documents": [
+              {
+                "name": "ST_01-02-03_Transkrypcja.pdf",
+                "drive_id": "17DYvmZcKaeGnS0ORRHeLpJ6y56kJ-Wqa",
+                "mime": "application/pdf",
+                "_source_id": "55510871-ec62-583a-bb17-365ac0815b8c"
+              },
+              {
+                "name": "ST_1-2-3.mp3",
+                "drive_id": "1qABzgEkbighE6oGkbZ6xwB5sf2E9aCSe",
+                "mime": "audio/mpeg",
+                "_source_id": "8282448b-46d1-5132-855f-25e54f8b9f3e"
+              }
+            ]
+          },
+          {
+            "id": "a368b360-e344-5d49-ba02-1df21fa83a23",
+            "name": "Lekcja 1.2.4. Jak Nie Testować Statycznych Metod [3:28]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3883361\">1.2. Testy Jednostkowe - Podstawy [21:27]</a></h5>",
+            "video_drive_id": "1HDQtnbUsNGbYTX0MjxXQC-hh9fLsNit7",
+            "documents": [
+              {
+                "name": "ST_01-02-04_Transkrypcja.pdf",
+                "drive_id": "1Ytc6sjkWPXl7maX0H9Sg2MaxGU_duLx0",
+                "mime": "application/pdf",
+                "_source_id": "202b015c-3d67-5073-b41a-42260186a034"
+              },
+              {
+                "name": "ST_1-2-4.mp3",
+                "drive_id": "1ICqPqQYcKz8Slgj_Z8EYyA_xjn0BZdfs",
+                "mime": "audio/mpeg",
+                "_source_id": "037de7b5-50bd-59fd-ac66-d1f541d7ffa3"
+              }
+            ]
+          },
+          {
+            "id": "865c226c-f82f-594e-99ee-2d12af12d8b4",
+            "name": "Lekcja 1.2.5. Asercje [07:26]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3883361\">1.2. Testy Jednostkowe - Podstawy [21:27]</a></h5>\n<p><span style=\"font-weight: 400;\">Źródła z lekcji:</span></p>\n<ul>\n<li><a href=\"https://joel-costigliola.github.io/assertj/\"><span style=\"font-weight: 400;\">https://joel-costigliola.github.io/assertj/</span></a></li>\n</ul>",
+            "video_drive_id": "1Z3itZlgiqXo4vY1CYGce7HTsDnqHDBRn",
+            "documents": [
+              {
+                "name": "ST_01-02-05_Transkrypcja.pdf",
+                "drive_id": "13wkNUQQQhfyd8khflPLZETzbO7uyQ3G3",
+                "mime": "application/pdf",
+                "_source_id": "525dadfd-d184-5b76-a651-0e1c42a8e2dd"
+              },
+              {
+                "name": "ST_1-2-5.mp3",
+                "drive_id": "1H-UEEAN-xY5y-YspV1cwybUdkyrMP_fL",
+                "mime": "audio/mpeg",
+                "_source_id": "66c135e2-6e49-53ec-9014-e8d773c1fb9c"
+              }
+            ]
+          },
+          {
+            "id": "871f59c6-bdf2-51b8-8117-44a0c1d86700",
+            "name": "Moduł 1 - Praca domowa [1:00]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3906250\">Praca domowa</a></h5>",
+            "video_drive_id": "1aHsA219DZzK5ZVAUP4E-znFl8jN5iR6b",
+            "documents": [
+              {
+                "name": "ST_T1_Praca_domowa.pdf",
+                "drive_id": "1HgYopGjbabULvYh9qCheq4ZasXRvDejy",
+                "mime": "application/pdf",
+                "_source_id": "e8c13688-c104-5d66-bcb2-750769b6a440"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "e450c3e9-948d-5c51-8a74-5c5daa23585f",
+        "name": "Moduł II - Testy Jednostkowe - Ciąg Dalszy",
+        "posts": [
+          {
+            "id": "35a03b90-dc0b-5eb1-b520-98eda52aa587",
+            "name": "Lekcja 2.1.1. Struktura klasy testowej [10:42]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362984\">Moduł II - Testy Jednostkowe - Ciąg Dalszy [00:53:43]</a></h5>\n<p><strong>Źródła z lekcji:</strong></p>\n<ul>\n<li><strong><em><span style=\"font-weight: 400;\">Growing Object-Oriented Software, Guided by Tests</span></em><span style=\"font-weight: 400;\"> by Nat Pryce; Steve Freeman Published by Addison-Wesley Professional, 2009</span></strong></li>\n</ul>",
+            "video_drive_id": "1WwFl2QBbieMxYFPIxxzt9dVUJm52NUmE",
+            "documents": [
+              {
+                "name": "ST_T2_Wszystkie_Transkrypcje.zip",
+                "drive_id": "1RfFGTl63QwnZZy7Mrb6W_Wi3PUtYMiqc",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "9e80b688-bec4-5c90-9ffc-1c004fadbeb4"
+              },
+              {
+                "name": "ST_T2_Wszystkie_slajdy.pdf",
+                "drive_id": "1Vbs1UcG_nSE0YdfCuE6tsDTZgw3q1mD3",
+                "mime": "application/pdf",
+                "_source_id": "24ad261b-fe72-523c-88a6-ca11b73c1288"
+              },
+              {
+                "name": "ST_T2_Wszystkie_mp3.zip",
+                "drive_id": "1rcAR9020OpVWDmafJ3_Q4ixw1m3YXbcg",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "a15d223f-d2fa-5d67-86f2-e5cba1731d36"
+              },
+              {
+                "name": "ST_T2_Bibliografia.pdf",
+                "drive_id": "1pgoN4Dwd6hZElbJyOmSpSVUUC4K71DOC",
+                "mime": "application/pdf",
+                "_source_id": "d713072d-e697-5275-86e0-2895b9839a57"
+              },
+              {
+                "name": "ST_02-01.mp3",
+                "drive_id": "16CTK5tQPBa4l5gN46ZnNZLl-WPPlsovW",
+                "mime": "audio/mpeg",
+                "_source_id": "ceda57fb-96b4-58e1-a434-f0c906a4186d"
+              },
+              {
+                "name": "ST-02-01_Transkrypcja.pdf",
+                "drive_id": "1aC3jaWJwbCuH28DO-9WcGoXoXvXK3zGw",
+                "mime": "application/pdf",
+                "_source_id": "02e9b6fe-362b-5864-9479-31d8e9a8c455"
+              }
+            ]
+          },
+          {
+            "id": "0e93a4ea-4b0d-5d32-9a4b-90da412c8041",
+            "name": "Lekcja 2.1.2. Co i kiedy testować [10:01]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362984\">Moduł II - Testy Jednostkowe - Ciąg Dalszy [00:53:43]</a></h5>\n<p><strong>Źródła z lekcji:</strong></p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">Unit Testing Principles, Practices, and Patterns</span></em><span style=\"font-weight: 400;\"> by Vladimir Khorikov Published by Manning Publications, 2020</span></li>\n</ul>",
+            "video_drive_id": "1jZW4ZPUnjIPGuarHMxCCbWbLmBs5j30B",
+            "documents": [
+              {
+                "name": "ST_02_02.mp3",
+                "drive_id": "18O2ItywBhEhWYn8gTgNhDFyOLlKZA8FI",
+                "mime": "audio/mpeg",
+                "_source_id": "7bbc48e2-aeeb-59d2-a27a-96dfca7e2e41"
+              },
+              {
+                "name": "ST-02-02_Transkrypcja.pdf",
+                "drive_id": "11i6eu6zW8IztEqNtCXSsjGh01eJhGH2j",
+                "mime": "application/pdf",
+                "_source_id": "e26a7b51-3bae-582e-a188-ae7875adb098"
+              }
+            ]
+          },
+          {
+            "id": "d5dab46d-abe5-52b0-8ba2-5e9d583d4686",
+            "name": "Lekcja 2.1.3. Mockowanie I Stubowanie [07:13]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362984\">Moduł II - Testy Jednostkowe - Ciąg Dalszy [00:53:43]</a></h5>\n<p><strong>Źródła z lekcji:</strong></p>\n<ul>\n<li><strong><a href=\"http://spockframework.org/spock/docs/1.3/interaction_based_testing.html\"><span style=\"font-weight: 400;\">http://spockframework.org/spock/docs/1.3/interaction_based_testing.html</span></a></strong></li>\n</ul>",
+            "video_drive_id": "1w8cUzh3aDzLlh6hwtnxc7HmqMgb2R0K1",
+            "documents": [
+              {
+                "name": "ST_02-03.mp3",
+                "drive_id": "1sGbcqh0jLp0kJNvEUlW24Susl6-zK8YB",
+                "mime": "audio/mpeg",
+                "_source_id": "32686c09-0dd7-5f3e-9a4e-d4f7ee1be603"
+              },
+              {
+                "name": "ST-02-03_Transkrypcja.pdf",
+                "drive_id": "1Kj34dyGIFoh41iSvMpIZOPuN8ZZ4JmbT",
+                "mime": "application/pdf",
+                "_source_id": "f0b4888a-083c-5003-9cdc-5fceddf92da5"
+              }
+            ]
+          },
+          {
+            "id": "b6cf5a70-114e-59df-800e-c1253b37e605",
+            "name": "Lekcja 2.1.4. Szkoły testów jednostkowych [07:41]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362984\">Moduł II - Testy Jednostkowe - Ciąg Dalszy [00:53:43]</a></h5>\n<p><strong><em>Źródła z lekcji:</em></strong></p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">Test-Driven Development: By Example</span></em><span style=\"font-weight: 400;\"> by Kent Beck, Addison-Wesley Professional, 2002</span></li>\n<li><span style=\"font-weight: 400;\"><em>Unit Testing Principles, Practices, and Patterns</em> by Vladimir Khorikov Published by Manning Publications, 2020</span></li>\n<li><a href=\"https://github.com/mockito/mockito/wiki/How-to-write-good-tests\"><span style=\"font-weight: 400;\">https://github.com/mockito/mockito/wiki/How-to-write-good-tests</span></a></li>\n<li><span style=\"font-weight: 400;\">Jakub Pilimon, <em>Testing - Love, Hate, Love</em>, <a href=\"https://www.youtube.com/watch?v=cv-rKFiF6ys&amp;feature=youtu.be\">https://www.youtube.com/watch?v=cv-rKFiF6ys&amp;feature=youtu.be</a></span></li>\n<li><span style=\"font-weight: 400;\"><em>Growing Object-Oriented Software, Guided by Tests</em> by Nat Pryce; Steve Freeman Published by Addison-Wesley Professional, 2009</span></li>\n</ul>",
+            "video_drive_id": "17KR1R8OSCVP8ArmUKoqfWX_lO5Vc2vjE",
+            "documents": [
+              {
+                "name": "ST_0204.mp3",
+                "drive_id": "14R81-uWhZjc6maGl9OrCijHgyWTOHPVf",
+                "mime": "audio/mpeg",
+                "_source_id": "652833b3-e45a-512c-bf32-e7af7bd3449d"
+              },
+              {
+                "name": "ST-02-04_Transkrypcja.pdf",
+                "drive_id": "1rkiearQaBseZvzkvkn5Tswc6MSEIrnxp",
+                "mime": "application/pdf",
+                "_source_id": "e30b1a41-787e-5bf1-a358-1b9656cdead4"
+              }
+            ]
+          },
+          {
+            "id": "d3779ca8-6432-5fba-a9f0-20be55e228ca",
+            "name": "Lekcja 2.1.5. Mockowanie i Stubowanie - Dobre Praktyki [10:16]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362984\">Moduł II - Testy Jednostkowe - Ciąg Dalszy [00:53:43]</a></h5>\n<p><strong>Źródła z lekcji:</strong></p>\n<ul>\n<li><strong><span style=\"font-weight: 400;\">Freeman, Steve, Tim Mackinnon, Nat Pryce, and Joe Walnes. “Mock Roles, Not Objects.” W: Companion to the 19th ACM SIGPLAN Conference on Object-Oriented Programming Systems, Languages, and Applications, OOPLSA, Vancouver, BC, October 2004, New York: ACM, ISBN 1581138334, </span><a href=\"http://jmock.org/oopsla2004.pdf\"><span style=\"font-weight: 400;\">http://jmock.org/oopsla2004.pdf</span></a></strong></li>\n</ul>\n<p> </p>",
+            "video_drive_id": "1a643IjfNruLjGhX8kC2XAbk9HvZ1_aE4",
+            "documents": [
+              {
+                "name": "ST_02-05.mp3",
+                "drive_id": "1dqHH_D9umgd7flREOLboOtpgRr4pAxzY",
+                "mime": "audio/mpeg",
+                "_source_id": "ba2e8fcc-0409-5f80-aa2b-a7e13cc84622"
+              },
+              {
+                "name": "ST-02-05_Transkrypcja.pdf",
+                "drive_id": "13ClmeEA-XlkXwHTUOBoVS9eNUIYS-i93",
+                "mime": "application/pdf",
+                "_source_id": "4d0a19d4-c467-5afd-b1dd-01c5c1441c25"
+              }
+            ]
+          },
+          {
+            "id": "dabd6ce5-9df8-5e83-9ff3-3de69eb85e6a",
+            "name": "Lekcja 2.1.6. Testowanie Data Driven [6:50]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362984\">Moduł II - Testy Jednostkowe - Ciąg Dalszy [00:53:43]</a></h5>\n<p><strong>Źródła z lekcji:</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><a href=\"http://spockframework.org/spock/docs/1.3/data_driven_testing.html\"><span style=\"font-weight: 400;\">http://spockframework.org/spock/docs/1.3/data_driven_testing.html</span></a></li>\n</ul>",
+            "video_drive_id": "1yfV-nRhfpHGzzBk6qMnFoHIubQOKzHw9",
+            "documents": [
+              {
+                "name": "ST_02-06.mp3",
+                "drive_id": "1pJeJed31UdGIwgHZ__HVXe3TwvCXHfZO",
+                "mime": "audio/mpeg",
+                "_source_id": "1fe5bc89-41c8-5094-9a9e-0a91079c6d75"
+              },
+              {
+                "name": "ST-02-06_Transkrypcja.pdf",
+                "drive_id": "1l4MFprA6jp2BVmpddvZn3-Dj7wBJ1D-h",
+                "mime": "application/pdf",
+                "_source_id": "62627aec-075f-5065-b124-334b2fa815f6"
+              }
+            ]
+          },
+          {
+            "id": "94c9c741-13cf-5771-8c92-8a29783168a2",
+            "name": "Moduł 2 - Praca Domowa [1:00]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3939539\">Praca domowa</a></h5>",
+            "video_drive_id": "1wkyzLa1Pb6OZ2ndUPTpFft9vfIk5jAiz",
+            "documents": [
+              {
+                "name": "ST-2-Praca_domowa_transkrypcja.pdf",
+                "drive_id": "1mobcwz_p_YtgaMiRL232PdPy2v3JU3zw",
+                "mime": "application/pdf",
+                "_source_id": "711cc07f-40fe-5bbf-af68-2d4eb2df6eab"
+              },
+              {
+                "name": "ST_T2_Praca_domowa.mp3",
+                "drive_id": "1qaLZUY5gH1U2jQif6xt-oa_3FECbojRS",
+                "mime": "audio/mpeg",
+                "_source_id": "29b80315-acce-5dbd-94ff-30bcd911a267"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "b89e3444-621c-5fa5-9309-fc43f4eb0752",
+        "name": "Lekcja bonusowa: Live Coding",
+        "posts": [
+          {
+            "id": "41f6fd85-90e0-5a01-8f6b-76c032b6c52f",
+            "name": "Live Coding testów jednostkowych [49:05]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/2149813649\">Lekcja bonusowa: Live Coding [49:05]</a></h5>",
+            "video_drive_id": "1IMlxi11NS2Wj5LDMPFMK-z0AEDgwmnmk",
+            "documents": [
+              {
+                "name": "ST-Lekcja_bonusowa_transkrypcja.pdf",
+                "drive_id": "1vvVBqSxVoHvFL2QAZAzJjLmB-QFqgqWC",
+                "mime": "application/pdf",
+                "_source_id": "b8d19b17-45c3-5a35-963e-17b30e902c1c"
+              },
+              {
+                "name": "ST_Lekcja_Bonusowa_Live_Coding_Slajdy.pdf",
+                "drive_id": "1jKcjNBR-3jtCtDIn8MvlRxCdrR62Z-0D",
+                "mime": "application/pdf",
+                "_source_id": "e991afe3-f5dc-5020-a976-9db97e225ea1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "90940ade-3f30-5a84-8cca-36377f8875b2",
+        "name": "Moduł III - Testy Integracyjne",
+        "posts": [
+          {
+            "id": "94131716-b054-57b8-9764-bd3701b5c99a",
+            "name": "Lekcja 3.1.1. Wprowadzenie [7:49]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362985\">Moduł III - Testy Integracyjne [02:10:10]</a></h5>\n<p><strong>Źródła z lekcji: </strong></p>\n<ul>\n<li><span style=\"font-weight: 400;\">Tom Manshreck, Hyrum Wright,</span><em><span style=\"font-weight: 400;\"> Titus Winters, Software Engineering at Google</span></em></li>\n<li><em><span style=\"font-weight: 400;\">Vladimir Khorikov, Unit Testing Principles, Practices, and Patterns</span></em></li>\n<li><em><span style=\"font-weight: 400;\">Clean Code ​ by Robert C. Martin Published by Prentice Hall, 2008 </span></em></li>\n</ul>",
+            "video_drive_id": "1GEmT9eADDl_KLWT8CsqLuMacDnNn9RYg",
+            "documents": [
+              {
+                "name": "ST_T3_Wszystkie_transkrypcje.zip",
+                "drive_id": "1Ox5DRXyOoTRHVdn7jznwYsOUnWHtrvmA",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "77810db3-1e88-5597-8242-6a69195176af"
+              },
+              {
+                "name": "ST_T3_Wszytskie_slajdy.pdf",
+                "drive_id": "1qkuOWMo1a4-VR3Ypgh5Qfb_hhlgm0NI2",
+                "mime": "application/pdf",
+                "_source_id": "5f235172-8c05-528d-83b7-12fb92576af5"
+              },
+              {
+                "name": "ST_T3_Wszystkie_mp3.zip",
+                "drive_id": "1i1FZyynhimcduIMB8PCtCh70QHNPtvM8",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "ca47f261-4856-58ac-9363-18e24470171f"
+              },
+              {
+                "name": "ST_T3_Bibliografia.pdf",
+                "drive_id": "1v0V7psAhaoY2XNF-X1Qv6etAF9OoQst0",
+                "mime": "application/pdf",
+                "_source_id": "fada741b-b5ba-55d1-b095-eadb3b75ca3f"
+              },
+              {
+                "name": "ST_03-01.mp3",
+                "drive_id": "1wQy1_K_0O-wc5Du917FhIxqwxfXiJ8fu",
+                "mime": "audio/mpeg",
+                "_source_id": "2c6e7ce6-540b-5ff5-9c9f-868ec76f2af1"
+              },
+              {
+                "name": "ST-03-01_Transkrypcja.pdf",
+                "drive_id": "10HdTEmlhf-UP_fOn2_84TdcuvUhoNT5i",
+                "mime": "application/pdf",
+                "_source_id": "b3294675-059d-570a-a5eb-da2a2c378f9c"
+              }
+            ]
+          },
+          {
+            "id": "a295a221-efd1-58a7-be16-1af98835f105",
+            "name": "Lekcja 3.1.2. Frameworki Do Inversion Of Control [19:02]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362985\">Moduł III - Testy Integracyjne [02:10:10]</a></h5>\n<p><strong>Źródła z lekcji:</strong></p>\n<ul>\n<li><span style=\"font-weight: 400;\">Robert C. Martin,</span><em><span style=\"font-weight: 400;\"> Clean Code: A Handbook of Agile Software Craftsmanship</span></em></li>\n</ul>",
+            "video_drive_id": "1STuJ1AyhbYXSoTaQaEKa5Eh-4LYAQDuu",
+            "documents": [
+              {
+                "name": "ST_03-02.mp3",
+                "drive_id": "1oVohVYxKCb6aIxuUP3JQsbrxYgOgpT47",
+                "mime": "audio/mpeg",
+                "_source_id": "927d9424-5dd5-5ac7-b456-6d7db422c9e2"
+              },
+              {
+                "name": "ST-03-02_Transkrypcja.pdf",
+                "drive_id": "1YmqRgsgk1XLqP7orc_Wxgzu_GIA8MxM3",
+                "mime": "application/pdf",
+                "_source_id": "4dc7249e-0f36-5bbd-a33e-098f8419fba2"
+              }
+            ]
+          },
+          {
+            "id": "fcf4fe45-9f27-5353-9217-8fe5d2dd54c3",
+            "name": "Lekcja 3.1.3. Kontroller / Http [23:51]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362985\">Moduł III - Testy Integracyjne [02:10:10]</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li><a href=\"https://pl.wikipedia.org/wiki/Model-View-Controller#/media/Plik:Mvc-diagram.png\"><span style=\"font-weight: 400;\">https://pl.wikipedia.org/wiki/Model-View-Controller#/media/Plik:Mvc-diagram.png</span></a></li>\n</ul>\n<p> </p>",
+            "video_drive_id": "1Wnp78qFs8IGnCWddrLjgaVTFAQb52iHq",
+            "documents": [
+              {
+                "name": "ST_03-03.mp3",
+                "drive_id": "1aCbdjLPb1dKNLlCp4fqNhTy6njkUQMMy",
+                "mime": "audio/mpeg",
+                "_source_id": "37887922-8ed7-5dfe-8fc1-0fcad8501df9"
+              },
+              {
+                "name": "ST-03-03_Transkrypcja.pdf",
+                "drive_id": "1R-FqMxCBwLlZSnSToVBDJmas8OPZ2Ost",
+                "mime": "application/pdf",
+                "_source_id": "831dadea-6af5-5a62-b825-2674ec74fad3"
+              }
+            ]
+          },
+          {
+            "id": "d648595d-076c-5232-ab84-7182681684e2",
+            "name": "Lekcja 3.1.4. Testowanie Klientów Http [15:14]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362985\">Moduł III - Testy Integracyjne [02:10:10]</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li><a href=\"https://sandbox.braintreegateway.com\"><span style=\"font-weight: 400;\">https://sandbox.braintreegateway.com</span></a></li>\n</ul>",
+            "video_drive_id": "1yQtXPp2DyD9KRj9Yu8K78LaHyp6iksdw",
+            "documents": [
+              {
+                "name": "ST_03-04.mp3",
+                "drive_id": "1YMbb8QldD3A5uvvyldWV2tt7JVUeHY5E",
+                "mime": "audio/mpeg",
+                "_source_id": "0816f6ff-90c7-5676-a634-7a19f30e8e73"
+              },
+              {
+                "name": "ST-03-04_Transkrypcja.pdf",
+                "drive_id": "14d4aPfqC3hEsH35Ii-M09Rs402jahFeU",
+                "mime": "application/pdf",
+                "_source_id": "11a8117c-1d4a-5da5-b695-a8def9de109f"
+              }
+            ]
+          },
+          {
+            "id": "b3970a98-5cac-5d6b-b9e4-f672c6030c77",
+            "name": "Lekcja 3.1.5. Baza Danych [41:24]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362985\">Moduł III - Testy Integracyjne [02:10:10]</a></h5>\n<p><strong>Źródła z lekcji:</strong></p>\n<ul>\n<li><span style=\"font-weight: 400;\">Max Guernsey </span><em><span style=\"font-weight: 400;\">Test-Driven Database Development: Unlocking Agility</span></em></li>\n<li><em><span style=\"font-weight: 400;\"><a href=\"https://flywaydb.org/documentation/migrations.html#versioned-migrations\">https://flywaydb.org/documentation/migrations.html#versioned-migrations</a></span></em></li>\n<li><em><span style=\"font-weight: 400;\"><a href=\"https://blog.jooq.org/tag/integration-testing/\">https://blog.jooq.org/tag/integration-testing/</a></span></em></li>\n<li><span style=\"font-weight: 400;\"><a href=\"https://github.com/theory/pgtap/\">https://github.com/theory/pgtap/</a></span></li>\n<li><a href=\"https://tsqlt.org/\"><span style=\"font-weight: 400;\">https://tsqlt.org/</span></a></li>\n</ul>",
+            "video_drive_id": "1STj6jCh34iQuijO8dvYRS8iEx2_QKD9z",
+            "documents": [
+              {
+                "name": "ST_03-05.mp3",
+                "drive_id": "17jHOp_SD24dW3hoLcsFesHhTj4QfMMqU",
+                "mime": "audio/mpeg",
+                "_source_id": "cb24c067-2515-5040-836a-5dde2378081d"
+              },
+              {
+                "name": "ST-03-05_Transkrypcja.pdf",
+                "drive_id": "1vsR7XYzbZNrX0WB5QXZ0iMGCmq96lbsj",
+                "mime": "application/pdf",
+                "_source_id": "33fc5b46-14ad-5ea1-b561-b09a2d1f0fff"
+              }
+            ]
+          },
+          {
+            "id": "6be402e2-eed2-55ea-b8d0-1c560f66011b",
+            "name": "Lekcja 3.1.6. Testowanie Brokerów Wiadomości [16:31]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362985\">Moduł III - Testy Integracyjne [02:10:10]</a></h5>\n<p><strong>Źródła z lekcji: </strong></p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">The Tao of Microservices, Richard Rodger, 2017</span></em></li>\n</ul>",
+            "video_drive_id": "1-pjfYUtJrzJTM2iW31k8qREoBogkDfJY",
+            "documents": [
+              {
+                "name": "ST-03-06_Transkrypcja.pdf",
+                "drive_id": "18Id9vdwGmqzmOMo1-4GJ3XFM8QCXP2u3",
+                "mime": "application/pdf",
+                "_source_id": "5ba6ebf0-d57e-5076-b996-3d6f853969f6"
+              },
+              {
+                "name": "ST_03-06.mp3",
+                "drive_id": "1XIbW6l5gM-n1cm-BbGv8XmPTtIIzZd_N",
+                "mime": "audio/mpeg",
+                "_source_id": "1f4dbba8-5390-585b-a22d-32448693620d"
+              }
+            ]
+          },
+          {
+            "id": "e0a8807f-7ad2-53e7-8308-24f651f6daf3",
+            "name": "Lekcja 3.1.7. Testy Na Środowisku Deweloperskim [4:46]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362985\">Moduł III - Testy Integracyjne [02:10:10]</a></h5>",
+            "video_drive_id": "13y7i_HbBrktp-S0Avxa27voycrkNiOjM",
+            "documents": [
+              {
+                "name": "ST_03-07.mp3",
+                "drive_id": "1Xd6eo6ruqZPprYuAT30SW1BzY2nvrRRe",
+                "mime": "audio/mpeg",
+                "_source_id": "0066dbc0-e7cc-512f-a023-99e8601073fb"
+              },
+              {
+                "name": "ST-03-07_Transkrypcja.pdf",
+                "drive_id": "1H0FPcWrqwiZZKxm0f1TKg-Xt_T6ADimC",
+                "mime": "application/pdf",
+                "_source_id": "f7de6277-9f0e-5b15-a527-d9a675928c49"
+              }
+            ]
+          },
+          {
+            "id": "a625a1b2-de40-5abf-b7bd-3a4eafa4b6b0",
+            "name": "Moduł 3 - Praca Domowa [1:33]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3991321\">Praca domowa</a></h5>",
+            "video_drive_id": "1WZcPVgDr7L8spRa-lodi0eH0xpfnm7hq",
+            "documents": [
+              {
+                "name": "ST-3-Praca_domowa_transkrypcja.pdf",
+                "drive_id": "1-lqZOOwe25wk9w6M7FaXnOSNKfiw2j2G",
+                "mime": "application/pdf",
+                "_source_id": "da63eb00-a82d-538a-a9d2-8e68e6f0b0f8"
+              },
+              {
+                "name": "ST_T3_Praca_domowa.mp3",
+                "drive_id": "1huvTUx6QMaS2qI9aRCF1d8zpp7zon7hR",
+                "mime": "audio/mpeg",
+                "_source_id": "d8740b60-de6b-5b0d-b844-4793ff78b479"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "af200baf-5757-5ed6-b859-f2ddd947b985",
+        "name": "Moduł IV - End To End",
+        "posts": [
+          {
+            "id": "9c1ab0cf-6a5c-5012-a422-952e9be83e00",
+            "name": "Lekcja 4.1.1. Wprowadzenie [25:33]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362986\">Moduł IV - End To End [00:49:13]</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li><a href=\"https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html?m=1\"><span style=\"font-weight: 400;\">https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html?m=1</span></a></li>\n<li><em><span style=\"font-weight: 400;\">Cloud Native Development Patterns and Best Practices</span></em><span style=\"font-weight: 400;\"> by John Gilbert Published by Packt Publishing, 2018</span></li>\n<li><span style=\"font-weight: 400;\"><em>Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation, Video Enhanced Edition</em> by Jez Humble; David Farley</span></li>\n<li><span style=\"font-weight: 400;\"><em>BDD in Action: Behavior-Driven Development for the whole software lifecycle</em> by John Ferguson Smart Published by Manning Publications, 2014</span></li>\n<li style=\"font-weight: 400;\"><a href=\"https://cucumber.io/docs/guides/10-minute-tutorial/#write-a-scenario\"><span style=\"font-weight: 400;\">https://cucumber.io/docs/guides/10-minute-tutorial/#write-a-scenario</span></a></li>\n<li style=\"font-weight: 400;\"><a href=\"https://www.jamesshore.com/Blog/The-Problems-With-Acceptance-Testing.html\"><span style=\"font-weight: 400;\">https://www.jamesshore.com/Blog/The-Problems-With-Acceptance-Testing.html</span></a></li>\n</ul>",
+            "video_drive_id": "1NyD6Pi3gmUReqbuxPm_fNIRfYB2qOC6R",
+            "documents": [
+              {
+                "name": "ST_T4_Wszystkie_transkrypcje.zip",
+                "drive_id": "1DJcki5HSVleeWvJ1cgOH6Ynd9Wn8D8oc",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "db6158cd-9af1-584c-b6c1-c2d30d491b9b"
+              },
+              {
+                "name": "ST_T4_Wszystkie_slajdy.pdf",
+                "drive_id": "1Z4sW8B5aLZDt1d5cEC5q8zHp9JVQY4dW",
+                "mime": "application/pdf",
+                "_source_id": "d0ccd5df-976c-536c-a70c-c0cf2792e99a"
+              },
+              {
+                "name": "ST_T4_Wszystkie_mp3.zip",
+                "drive_id": "1TO9IwgF1n_-KvjIzVFVHhY7fCvtxGJKX",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "3ee862e9-8d4e-57c3-a959-147332e3df90"
+              },
+              {
+                "name": "ST_T4_Bibliografia.pdf",
+                "drive_id": "13QAs90N70jebbWHGvOYXggWsc2-ktTHA",
+                "mime": "application/pdf",
+                "_source_id": "2e765648-27ef-55ff-b5ba-ec64d231caad"
+              },
+              {
+                "name": "ST_04_01.mp3",
+                "drive_id": "1yrx8XKKoa7HyU5D-yERQZ-bTaGUeQ2_H",
+                "mime": "audio/mpeg",
+                "_source_id": "ec5bf9c7-9184-5d55-9f1d-8323230542cb"
+              },
+              {
+                "name": "ST_04_01_Transkrypcja.pdf",
+                "drive_id": "1Q7QKt86XnZEXWXgxBlbZgmLoMGMk8VTX",
+                "mime": "application/pdf",
+                "_source_id": "fe218b7a-fa00-5346-9c98-ef8d5504e389"
+              }
+            ]
+          },
+          {
+            "id": "5c7898cb-e589-558f-8576-874f8eab59a7",
+            "name": "Lekcja 4.1.2. Testy End to End z Poziomu API [10:20]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362986\">Moduł IV - End To End [00:49:13]</a></h5>",
+            "video_drive_id": "1_1VvneoVXEs7SlpACRUTrREyW90xjFGO",
+            "documents": [
+              {
+                "name": "ST_04_02.mp3",
+                "drive_id": "1mom9ulhbRW_G1_BaSxVYdmHIlexcVgIf",
+                "mime": "audio/mpeg",
+                "_source_id": "69948b29-32f7-5d67-a525-36b96b25c7c5"
+              },
+              {
+                "name": "ST_04_02_Transkrypcja.pdf",
+                "drive_id": "18ZaaRW4mqJt4HWPjsa5W2VLsiaOQxYEJ",
+                "mime": "application/pdf",
+                "_source_id": "5c61063f-8aac-5de8-a91d-f2d4a8071481"
+              }
+            ]
+          },
+          {
+            "id": "b70a625b-b9f9-580b-9158-dad2d5af97c8",
+            "name": "Lekcja 4.1.3. Testy End to End z poziomu GUI [11:46]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362986\">Moduł IV - End To End [00:49:13]</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li style=\"font-weight: 400;\"><em><span style=\"font-weight: 400;\">Learn Selenium</span></em><span style=\"font-weight: 400;\"> by Carl Cocchiaro; Unmesh Gundecha Published by Packt Publishing, 2019</span></li>\n<li style=\"font-weight: 400;\"><a href=\"https://medium.com/chaya-thilakumara/selenium-grid-chrome-browser-c2cb986e0f70\"><span style=\"font-weight: 400;\">https://medium.com/chaya-thilakumara/selenium-grid-chrome-browser-c2cb986e0f70</span></a></li>\n</ul>",
+            "video_drive_id": "1d6DZuBV-7YNtzQTm7bykYRolIZdcCM_l",
+            "documents": [
+              {
+                "name": "ST_04_03.mp3",
+                "drive_id": "1aLpb9j_yACiwZv91KU0ZagFF4V53Pwwi",
+                "mime": "audio/mpeg",
+                "_source_id": "a29062b9-aaa8-5696-bbb5-7f15ee1978cd"
+              },
+              {
+                "name": "ST_04_03_Transkrypcja.pdf",
+                "drive_id": "1f2iNhB_PUym4xZgZKrvW8KlRgJDkh95r",
+                "mime": "application/pdf",
+                "_source_id": "673f5e51-7da8-53f8-88d4-bfc355ef47cf"
+              }
+            ]
+          },
+          {
+            "id": "1a4013eb-d008-505b-bb29-2a1e210f3db4",
+            "name": "Moduł 4 - Praca Domowa [1:34]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4091456\">Praca domowa</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li><a href=\"https://github.com/spring-projects/spring-petclinic\"><span style=\"font-weight: 400;\">https://github.com/spring-projects/spring-petclinic</span></a></li>\n</ul>",
+            "video_drive_id": "1tAUYl1WDCOrbXP-RgMpaohsO4811ds93",
+            "documents": [
+              {
+                "name": "ST-4-Praca_domowa_transkrypcja.pdf",
+                "drive_id": "1ru5GaSlvczex30gzHJJlnhVZmza2QwH9",
+                "mime": "application/pdf",
+                "_source_id": "62bb015b-cddc-5c5f-830a-9881f1e6fd3c"
+              },
+              {
+                "name": "ST_T4_Praca_domowa.mp3",
+                "drive_id": "19YAWcZiqTEDKBDj3v54t57TBKDRS-xTw",
+                "mime": "audio/mpeg",
+                "_source_id": "05cca1f4-f98e-5d4f-b3df-fae2e3f1b063"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "d901745a-061c-5246-8c18-977511107510",
+        "name": "Moduł V - Testowanie Architektury",
+        "posts": [
+          {
+            "id": "f74bcb8b-3cfe-54d5-9d37-ed9ee32831f5",
+            "name": "Lekcja 5.1.1. Wprowadzenie [5:19]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362987\">Moduł V - Testowanie Architektury [01:44:40]</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">Fundamentals of Software Architecture</span></em><span style=\"font-weight: 400;\"> by Neal Ford; Mark Richards Published by O'Reilly Media, Inc., 2020</span></li>\n</ul>",
+            "video_drive_id": "1N52Qws4bXni6XKMBexvjwG0yZfWaYAGn",
+            "documents": [
+              {
+                "name": "ST_T5_Wszystkie_transkrypcje.zip",
+                "drive_id": "1OvRwPNBKARzjvn7SmZdsZ9Jg9zrgiPE9",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "b6c41538-e199-5f5a-a9cf-c0900531bcf3"
+              },
+              {
+                "name": "ST_T5_Wszystkie_slajdy.pdf",
+                "drive_id": "1_GpXwgNJqMmeVK20TAzHnM29atwNKQHw",
+                "mime": "application/pdf",
+                "_source_id": "29a4c164-2a92-57ba-b304-4884270bb7e8"
+              },
+              {
+                "name": "ST_T5_Wszystkie_mp3.zip",
+                "drive_id": "1ggs2PZG-w8kL_taWBi0hea35aib--UiE",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "f0914cbd-efdc-5c5b-b2db-d201a86baca4"
+              },
+              {
+                "name": "ST_05_01.mp3",
+                "drive_id": "1jBKb8Q3tiKzx1Llo2bs0iLa6BHtU0gBX",
+                "mime": "audio/mpeg",
+                "_source_id": "5d12a6ee-a446-5a08-b6d9-45092d8da47b"
+              },
+              {
+                "name": "ST-05-01_Transkrypcja.pdf",
+                "drive_id": "1QsAg9Bz8Kf-BxXEJ-lWnFUyjAqvBQqAp",
+                "mime": "application/pdf",
+                "_source_id": "216225c0-0671-5da7-9d88-781b86634c7d"
+              }
+            ]
+          },
+          {
+            "id": "d6bb8c5e-f053-5503-a914-6ca3464b97eb",
+            "name": "Lekcja 5.1.2. Testowanie Pakietowania [6:14]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362987\">Moduł V - Testowanie Architektury [01:44:40]</a></h5>",
+            "video_drive_id": "18o9TENHG-bjis5c5WC_zpC9uT3apR272",
+            "documents": [
+              {
+                "name": "ST-05-02_Transkrypcja.pdf",
+                "drive_id": "1aTNhBzQiZurs9qdXUwZEdF-2oESvGy7_",
+                "mime": "application/pdf",
+                "_source_id": "a09c4927-0a6a-5e2f-8ad5-da28bafde8b0"
+              },
+              {
+                "name": "ST_05_02.mp3",
+                "drive_id": "1xRtCYAlbL9dx42Z5XPSb2MR_f8lCNtlK",
+                "mime": "audio/mpeg",
+                "_source_id": "d34cd75e-20e7-5fb6-b79e-ecc9513d0977"
+              }
+            ]
+          },
+          {
+            "id": "f5a15f9f-fe9c-5531-b5a0-e0ef5801f03f",
+            "name": "Lekcja 5.1.3. Testowanie Kontraktowe [32:13]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362987\">Moduł V - Testowanie Architektury [01:44:40]</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li><a href=\"http://martinfowler.com/articles/consumerDrivenContracts.html\"><span style=\"font-weight: 400;\">http://martinfowler.com/articles/consumerDrivenContracts.html</span></a></li>\n</ul>",
+            "video_drive_id": "1b1LJyvSebBiFhm6gkQqMIvKUOYiy0VVL",
+            "documents": [
+              {
+                "name": "ST-05-03_Transkrypcja.pdf",
+                "drive_id": "1ZQ6tndVlOsWowej9FYCyb-af086AD8ZX",
+                "mime": "application/pdf",
+                "_source_id": "844ede1c-f867-50bd-bb8e-0713845ff241"
+              },
+              {
+                "name": "ST_05_03.mp3",
+                "drive_id": "1nHU1kiKDE92OMK_tSv88F6NpooHoKa8v",
+                "mime": "audio/mpeg",
+                "_source_id": "63967661-efd1-5378-89f4-96ed69dabbcc"
+              }
+            ]
+          },
+          {
+            "id": "de482a6d-a92b-52b9-9280-831c64cb7d4c",
+            "name": "Lekcja 5.1.4. Chaos Testing [26:36]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362987\">Moduł V - Testowanie Architektury [01:44:40]</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">Learning Chaos Engineering</span></em><span style=\"font-weight: 400;\"> by Russ Miles 2019</span></li>\n<li><span style=\"font-weight: 400;\"><a href=\"https://principlesofchaos.org/?lang=PLcontent\">https://principlesofchaos.org/?lang=PLcontent</a></span></li>\n<li><span style=\"font-weight: 400;\">Chaos Monkey (</span><a href=\"https://github.com/Netflix/chaosmonkey\"><span style=\"font-weight: 400;\">https://github.com/Netflix/chaosmonkey</span></a><span style=\"font-weight: 400;\">)</span></li>\n<li><span style=\"font-weight: 400;\">Chaos Monkey Spring Boot (</span><a href=\"https://github.com/codecentric/chaos-monkey-spring-boot\"><span style=\"font-weight: 400;\">https://github.com/codecentric/chaos-monkey-spring-boot</span></a><span style=\"font-weight: 400;\">)</span></li>\n<li><span style=\"font-weight: 400;\">Chaos Toolkit (</span><a href=\"https://chaostoolkit.org/\"><span style=\"font-weight: 400;\">https://chaostoolkit.org/</span></a><span style=\"font-weight: 400;\">)</span></li>\n<li><span style=\"font-weight: 400;\">Pumba – Chaos Testing dla Dockera (</span><a href=\"https://github.com/alexei-led/pumba\"><span style=\"font-weight: 400;\">https://github.com/alexei-led/pumba</span></a><span style=\"font-weight: 400;\">)</span></li>\n</ul>",
+            "video_drive_id": "1jgqv09w9B6mcMRKjDBvF8OMLv7GcXKTp",
+            "documents": [
+              {
+                "name": "ST-05-04_Transkrypcja.pdf",
+                "drive_id": "1gTU3ITbfVXl_-jenMUWHVm3ulYRNgNvJ",
+                "mime": "application/pdf",
+                "_source_id": "4beb9a81-bd8b-5660-8f54-ee1f4ce7ec6a"
+              },
+              {
+                "name": "ST_05_04.mp3",
+                "drive_id": "1ixsZhO7hVCwck-jOJZSMxS3TKSp0rW4r",
+                "mime": "audio/mpeg",
+                "_source_id": "02744da3-a80c-5d30-80b3-e13c42e33372"
+              }
+            ]
+          },
+          {
+            "id": "34d21cf7-8116-5dfa-9d87-2ab2a699cd1d",
+            "name": "Lekcja 5.1.5. Testowanie Wydajności [33:01]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3362987\">Moduł V - Testowanie Architektury [01:44:40]</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">The Art of Application Performance Testing</span></em><span style=\"font-weight: 400;\"> by Ian Molyneaux Published by O'Reilly Media, Inc., 2009</span></li>\n<li><span style=\"font-weight: 400;\"><em>Java 9: Building Robust Modular Applications</em> by Peter Verhas; Dr. Edward Lavieri; Jason Lee</span></li>\n<li><span style=\"font-weight: 400;\"><em>https://pl.wikipedia.org/wiki/Percentyl</em></span></li>\n<li><a href=\"https://github.com/giltene/wrk2\"><span style=\"font-weight: 400;\">https://github.com/giltene/wrk2</span></a><span style=\"font-weight: 400;\">)</span></li>\n<li><span style=\"font-weight: 400;\">Honest-Profiler – </span><span style=\"font-weight: 400;\"><a href=\"https://github.com/jvm-profiling-tools/honest-profiler/wiki/Motivation\">https://github.com/jvm-profiling-tools/honest-profiler</a></span></li>\n<li><em>Micrometer – <a href=\"https://micrometer.io/docs/concepts#_pause_detection\">https://micrometer.io/docs/concepts#_pause_detection</a></em></li>\n</ul>",
+            "video_drive_id": "1JvsCY_7jJVRgaQkRI1rwVStArTkVkwca",
+            "documents": [
+              {
+                "name": "ST-05-05_Transkrypcja.pdf",
+                "drive_id": "1LGgwtn3D0zZwX3VJ2A8V7njylhqJMq4W",
+                "mime": "application/pdf",
+                "_source_id": "d164a05c-03d5-5e76-9c6d-0003563ae37c"
+              },
+              {
+                "name": "ST_05_05.mp3",
+                "drive_id": "1mvvUQUql4SCbBdP0vj7qgd5NbTQXlXLp",
+                "mime": "audio/mpeg",
+                "_source_id": "f485ad27-0ccb-5262-b1d6-19987af08c9b"
+              }
+            ]
+          },
+          {
+            "id": "84927d06-4c49-5c85-99f5-13e9f963b235",
+            "name": "Moduł 5 - Praca domowa [1:17]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4137470\">Praca domowa</a></h5>",
+            "video_drive_id": "14BruagDOnlvCa98C0imAbUuf0puutLiS",
+            "documents": [
+              {
+                "name": "ST-5-Praca_domowa_transkrypcja.pdf",
+                "drive_id": "1dITl5Fa6dT3fb6GPupZnG3lXCMPmoOM6",
+                "mime": "application/pdf",
+                "_source_id": "b0ff44ee-faa1-5cbe-8135-9e7d25ccf10a"
+              },
+              {
+                "name": "ST_T5_Praca_domowa.mp3",
+                "drive_id": "1b6su8rnlivbWaQ65cXOAGmpvPtd1RF2O",
+                "mime": "audio/mpeg",
+                "_source_id": "c072ca98-37dc-5e34-ad99-dd0b0f744c52"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ffd6acce-82a9-5b2e-a580-adec4803587d",
+        "name": "Moduł VI - Automatyzacja Projektu",
+        "posts": [
+          {
+            "id": "a6880906-8ed3-5a09-9f3f-23f51653be4a",
+            "name": "Lekcja 6.1.1. Standaryzacja I Automatyzacja [16:40]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3884488\">6.1. Automatyzacja projektu [50:55]</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li><a href=\"https://toomuchcoding.com/articles/2015/02/08/how-to-speed-up-your-gradle-build-from/\">https://toomuchcoding.com/articles/2015/02/08/how-to-speed-up-your-gradle-build-from/</a> </li>\n</ul>",
+            "video_drive_id": "118k6kh-8DOl4TiOf3L6M1UOLMhz366_K",
+            "documents": [
+              {
+                "name": "ST_T6_Wszystkie_transkrypcje.zip",
+                "drive_id": "1xVeyntQmJzP41nEN9vGOM8_GS_A0h2qw",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "2aa33667-7f12-5369-bff0-cd33b0e4cd39"
+              },
+              {
+                "name": "ST_T6_Wszystkie_slajdy.pdf",
+                "drive_id": "1J9S0vN21LmGGs-6vw0CMaCrDBEO6jThD",
+                "mime": "application/pdf",
+                "_source_id": "2fe0b052-af0a-58c6-a8d9-44416acdd341"
+              },
+              {
+                "name": "ST_T6_Bibliografia.pdf",
+                "drive_id": "10FLRyxSy5timPygMLjKKGltP7_gtCK93",
+                "mime": "application/pdf",
+                "_source_id": "7be7b965-5c86-5b82-9adf-9a5874da894e"
+              },
+              {
+                "name": "ST_T6_Wszystkie_mp3.zip",
+                "drive_id": "13wgg0ziGFVpE5gj9AS25r4MiGDzhSOQH",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "aa2d50f4-2667-5c73-a6ab-b97a229d4d38"
+              },
+              {
+                "name": "ST_6-1-1.mp3",
+                "drive_id": "1kA8R8ZkpQHuljggvKxNNmC2ZMIWi3trJ",
+                "mime": "audio/mpeg",
+                "_source_id": "37d92172-9440-5de2-b0cb-b40d6b9b009d"
+              },
+              {
+                "name": "ST-6-1-1_transkrypcja.pdf",
+                "drive_id": "1DFSnWO00cPuYc3dsZLJadoPNrmAXhVgr",
+                "mime": "application/pdf",
+                "_source_id": "4e7e7df6-6159-5fbf-8572-7c6257b060b2"
+              }
+            ]
+          },
+          {
+            "id": "ea2399eb-6b78-54fb-9df0-d1ec673a2cc0",
+            "name": "Lekcja 6.1.2. Narzędzia [18:32]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3884488\">6.1. Automatyzacja projektu [50:55]</a></h5>",
+            "video_drive_id": "1cvoJMVvVwbK8xgZpBVJerG4kWSLmCOTv",
+            "documents": [
+              {
+                "name": "ST-6-1-2_transkrypcja.pdf",
+                "drive_id": "1OR2yq0ncxPqWzPV9ROe58FTVoX4m2sQB",
+                "mime": "application/pdf",
+                "_source_id": "595536c6-d664-5694-9104-76d79cce9206"
+              },
+              {
+                "name": "ST_6-1-2.mp3",
+                "drive_id": "1Ub3AhLumanzj--nXkaEGIaMYI8j7mAxV",
+                "mime": "audio/mpeg",
+                "_source_id": "0c44eb02-647b-5f1e-ab84-e5212d89f72e"
+              }
+            ]
+          },
+          {
+            "id": "33004531-09fd-5613-ad43-81b13d00cd7e",
+            "name": "Lekcja 6.1.3. Rozwiązania Open Source [9:11]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3884488\">6.1. Automatyzacja projektu [50:55]</a></h5>",
+            "video_drive_id": "1pJKezk0HCPdhc72VrE2D-gk43WTKjp1R",
+            "documents": [
+              {
+                "name": "ST-6-1-3_transkrypcja.pdf",
+                "drive_id": "1s4-wY-FiAO4O0xbNvEmvzh6h4oa1xQHv",
+                "mime": "application/pdf",
+                "_source_id": "b6a926de-392b-57b5-ae09-321da45638b0"
+              },
+              {
+                "name": "ST_6-1-3.mp3",
+                "drive_id": "1fRTWs8r7CYvYm_c59fhfw_HJ6EXgkpXb",
+                "mime": "audio/mpeg",
+                "_source_id": "01b61d61-9300-5615-8f50-90354050648c"
+              }
+            ]
+          },
+          {
+            "id": "31733da4-962b-57c1-b647-6783225f2ac9",
+            "name": "Lekcja 6.1.4. Typowe Problemy Z Testami W Środowisku CI [6:32]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3884488\">6.1. Automatyzacja projektu [50:55]</a></h5>",
+            "video_drive_id": "1k9Ajf_geHpCJfqkInMzh-CibNmVVmKgV",
+            "documents": [
+              {
+                "name": "ST_6-1-4.mp3",
+                "drive_id": "1qFE1Ce29hbSmCptvIEMAF5X5__44N9CB",
+                "mime": "audio/mpeg",
+                "_source_id": "9ef62b14-de65-5438-b3b9-16b43735403d"
+              },
+              {
+                "name": "ST-6-1-4_transkrypcja.pdf",
+                "drive_id": "1JJr7eqckpoR4iYIIMCU_Io2um65ckaUj",
+                "mime": "application/pdf",
+                "_source_id": "78c18552-afe2-5458-a5ac-87561cb25db5"
+              }
+            ]
+          },
+          {
+            "id": "06624ce9-5cde-5d6e-ba40-dbbef90f1587",
+            "name": "Lekcja 6.2.1. Metryki jakości [6:32]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3884495\">6.2. Metryki jakości [17:16]</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li>Managing Technical Debt: Reducing Friction in Software Development by Robert Nord; Ipek Ozkaya; Philippe Kruchten Published by Addison-Wesley Professional, 2019 </li>\n</ul>",
+            "video_drive_id": "1oE8VQe61sYyzg7cZ8FdMSwfVPBoyCrLH",
+            "documents": [
+              {
+                "name": "ST-6-2-1_transkrypcja.pdf",
+                "drive_id": "1cmpz1LjZLgmW8v7Axs3_4fQNvr4lZts2",
+                "mime": "application/pdf",
+                "_source_id": "a1ce7a39-df6b-5db3-8832-c7831bc58feb"
+              },
+              {
+                "name": "ST_6-2-1.mp3",
+                "drive_id": "17Mw4jfeCwmS4VJD3qehteav5qyyAJRNq",
+                "mime": "audio/mpeg",
+                "_source_id": "5c5325eb-ba2c-5cb6-b547-e09372999a89"
+              }
+            ]
+          },
+          {
+            "id": "7b1a0906-46ce-5043-8d7e-93e1dfa54d9f",
+            "name": "Lekcja 6.2.2. Analiza Statyczna i Dynamiczna [10:44]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3884495\">6.2. Metryki jakości [17:16]</a></h5>",
+            "video_drive_id": "1KybXOgQP2j4lZ4dn7aLv3eRwhDiV70RE",
+            "documents": [
+              {
+                "name": "ST_6-2-2.mp3",
+                "drive_id": "19019x7cgsHcrP2FA4bWhsmcZtzhzcMBI",
+                "mime": "audio/mpeg",
+                "_source_id": "eb776b70-0aff-5a61-a1ea-436d91741c7d"
+              },
+              {
+                "name": "ST-6-2-2_transkrypcja.pdf",
+                "drive_id": "18MrF0OsqOevLiSgd2kOktS4UoA80Tmb7",
+                "mime": "application/pdf",
+                "_source_id": "7d3a9b50-00f1-5e26-acaa-2a50f1a6797e"
+              }
+            ]
+          },
+          {
+            "id": "27762f9d-df78-5e14-9ec0-eab73ecc1ec8",
+            "name": "Praca domowa [1:17]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4239835\">Moduł 6 - Praca domowa</a></h5>",
+            "video_drive_id": "1MCMrHVq9fbQc9k5y9M351Yw0MM0fsK3h",
+            "documents": [
+              {
+                "name": "ST-T6-Praca_domowa_transkrypcja.pdf",
+                "drive_id": "1NpKbkVwPOu2bjT98ucmWenPKLWvuZBPa",
+                "mime": "application/pdf",
+                "_source_id": "a1161218-a7c3-5474-aefe-ab79493382a8"
+              },
+              {
+                "name": "ST_T6_Praca_domowa.mp3",
+                "drive_id": "1LZdZKG8Qpyf1tNheKL5RrhomAQDD0ydT",
+                "mime": "audio/mpeg",
+                "_source_id": "94727b4f-41af-5592-a141-8a0d5b86a542"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3b3e46e8-a8e1-5d91-a109-9c6e436520fc",
+        "name": "Moduł VII - Idziemy Na Produkcję!",
+        "posts": [
+          {
+            "id": "d3d91067-d57c-5cf7-991a-2063122824d4",
+            "name": "Lekcja 07.01. Monitoring [15:36]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4290080\">Moduł VII - Idziemy Na Produkcję! [00:43:29]</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">Production-Ready Microservices</span></em><span style=\"font-weight: 400;\"> by Susan J. Fowler Published by O'Reilly Media, Inc., 2016</span></li>\n<li><span style=\"font-weight: 400;\"><em>Continuous Integration: Improving Software Quality and Reducing Risk</em> by Andrew Glover; Steve Matyas; Paul M. Duvall Published by Addison-Wesley Professional, 2007</span></li>\n</ul>",
+            "video_drive_id": "10ZMfGHgG-Ms7ympEl1vhrwGaFEQJTdnf",
+            "documents": [
+              {
+                "name": "ST_T7_Wszystkie_transkrypcje.zip",
+                "drive_id": "1bF3nN9JCiiLLpi0UVZ7BgGtUePWDtzMK",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "8ab508eb-c2cd-5fb5-857e-f80a22049cc1"
+              },
+              {
+                "name": "ST_T7_Wszystkie_slajdy.pdf",
+                "drive_id": "1PLcYhOmKljJ7KBkbAbNGLzTTDJVBeGJl",
+                "mime": "application/pdf",
+                "_source_id": "1a100a3d-8521-5183-b3c4-ca0c06b2cd81"
+              },
+              {
+                "name": "ST_T7_Bibliografia.pdf",
+                "drive_id": "1IwLJExinuZkWQfCirRXUCnWGuge_VR01",
+                "mime": "application/pdf",
+                "_source_id": "e0549411-2dc9-55b8-a45b-68452e94eb35"
+              },
+              {
+                "name": "ST_T7_Wszystkie_mp3.zip",
+                "drive_id": "1gCkNYfW1i_ybdpmCPlluuekLTHRDTc32",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "c3d19947-781f-51ad-8649-6770442a5713"
+              },
+              {
+                "name": "ST-07-01_transkrypcja.pdf",
+                "drive_id": "11T_G8Afhh5o3f31-GkhOiY1QbVV_SQjm",
+                "mime": "application/pdf",
+                "_source_id": "722ba965-4234-5eaa-8795-f838aee52e4e"
+              },
+              {
+                "name": "ST_07-01.mp3",
+                "drive_id": "102S1UJ684ho3bxoRYJVeTcPiIOhtGgym",
+                "mime": "audio/mpeg",
+                "_source_id": "2f262c94-02a1-5b3d-a0cf-30be86f80427"
+              }
+            ]
+          },
+          {
+            "id": "543a65a2-24d8-5e08-b0c4-5b2cd88228a5",
+            "name": "Lekcja 07.02. Continuous Integration / Delivery / Deployment [12:08]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4290080\">Moduł VII - Idziemy Na Produkcję! [00:43:29]</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li style=\"font-weight: 400;\"><a href=\"https://trunkbaseddevelopment.com/\"><span style=\"font-weight: 400;\">https://trunkbaseddevelopment.com/</span></a></li>\n<li style=\"font-weight: 400;\"><a href=\"https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment\"><span style=\"font-weight: 400;\">https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment</span></a></li>\n<li style=\"font-weight: 400;\"><em><span style=\"font-weight: 400;\">Continuous Integration: Improving Software Quality and Reducing Risk</span></em><span style=\"font-weight: 400;\"> by Andrew Glover; Steve Matyas; Paul M. Duvall Published by Addison-Wesley Professional, 2007</span></li>\n</ul>",
+            "video_drive_id": "1yEfFNqLup807zPoNxME4VR0LiTdlvfAX",
+            "documents": [
+              {
+                "name": "ST_07-02.mp3",
+                "drive_id": "1Ho_17XHv6elUjwO2rCjrrUiwNqotxWsL",
+                "mime": "audio/mpeg",
+                "_source_id": "c43ad50c-4c14-575e-8b2b-adc1de01f077"
+              },
+              {
+                "name": "ST-07-02_transkrypcja.pdf",
+                "drive_id": "1SkK_IpOk1VNYcrsEqFht3JKfg1wLwDYk",
+                "mime": "application/pdf",
+                "_source_id": "3082035e-33df-5144-b120-da8a343a1150"
+              }
+            ]
+          },
+          {
+            "id": "fadbbc57-e840-5baf-a5b0-91ea8d739cd6",
+            "name": "Lekcja 07.03. Kompatybilność Wsteczna [3:44]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4290080\">Moduł VII - Idziemy Na Produkcję! [00:43:29]</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li><a href=\"https://github.com/spring-attic/cloudpipelines-scripts\">https://github.com/spring-attic/cloudpipelines-scripts</a></li>\n<li><span style=\"font-weight: 400;\"><a href=\"https://github.com/spring-attic/cloudpipelines-project-crawler\">https://github.com/spring-attic/cloudpipelines-project-crawler</a></span></li>\n<li><span style=\"font-weight: 400;\"><a href=\"https://github.com/spring-attic/cloudpipelines-concourse\">https://github.com/spring-attic/cloudpipelines-concourse</a></span></li>\n<li><span style=\"font-weight: 400;\"><a href=\"https://github.com/spring-attic/cloudpipelines-jenkins\">https://github.com/spring-attic/cloudpipelines-jenkins</a> </span></li>\n</ul>\n<p>Uwaga: Wszystkie powyższe repozytoria znajdują się obecnie w statusie <strong>feature complete</strong>.</p>",
+            "video_drive_id": "1SCEY7e3NoHa_DT9FF7ogUi0IEB5RdfUf",
+            "documents": [
+              {
+                "name": "ST-07-03_transkrypcja.pdf",
+                "drive_id": "1JT8jTQs0tx5U-B6b-Zuh2avbMQtq41od",
+                "mime": "application/pdf",
+                "_source_id": "2e369fa5-8f3a-5e37-8624-20e626b8f165"
+              },
+              {
+                "name": "ST_07-03.mp3",
+                "drive_id": "18XUQEa4EAJikUR9V-y2fRQBvSHjeW5uV",
+                "mime": "audio/mpeg",
+                "_source_id": "db024c30-2589-5bec-9140-c533dbd905e7"
+              }
+            ]
+          },
+          {
+            "id": "f25e3c34-a7ac-5a49-b2ae-6dd2c53d07a0",
+            "name": "Lekcja 07.04.Testy Regresji [2:20]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4290080\">Moduł VII - Idziemy Na Produkcję! [00:43:29]</a></h5>",
+            "video_drive_id": "12mVGt0X7lNHMzBffdkgtrQyqzOQem6Qz",
+            "documents": [
+              {
+                "name": "ST-07-04_transkrypcja.pdf",
+                "drive_id": "1CxTqB0mt08wWCkuhKfTmj7vEf15PCxH4",
+                "mime": "application/pdf",
+                "_source_id": "8f5ad61f-0588-5ba6-a994-4c203ab7a9ac"
+              },
+              {
+                "name": "ST_07-04.mp3",
+                "drive_id": "1q3Q-kzF5WhQKImg37bIOoSww6ZFxvRJ9",
+                "mime": "audio/mpeg",
+                "_source_id": "e1ae436d-e386-56f7-8304-4124842e1888"
+              }
+            ]
+          },
+          {
+            "id": "c4e97c77-446d-5733-b310-269a7b0cddb8",
+            "name": "Lekcja 07.05.Testowanie Na Produkcji [8:17]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4290080\">Moduł VII - Idziemy Na Produkcję! [00:43:29]</a></h5>\n<p>Źródła z lekcji: </p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">Developer Testing: Building Quality into Software</span></em><span style=\"font-weight: 400;\"> by Alexander Tarlinder Published by Addison-Wesley Professional, 2016</span></li>\n<li><em><span style=\"font-weight: 400;\">Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation, Video Enhanced Edition</span></em><span style=\"font-weight: 400;\"> by Jez Humble; David Farley Published by Addison-Wesley Professional, 2010</span></li>\n<li><em><span style=\"font-weight: 400;\">Designed for Use</span></em><span style=\"font-weight: 400;\"> by Lukas Mathis Published by Pragmatic Bookshelf, 2011</span></li>\n<li><span style=\"font-weight: 400;\"><em>Production-Ready Microservices</em> by Susan J. Fowler Published by O'Reilly Media, Inc., 2016</span></li>\n</ul>",
+            "video_drive_id": "1QC5-39sQvZo1jbx1Y1AYQ5jkVOYjd44i",
+            "documents": [
+              {
+                "name": "ST-07-05_transkrypcja.pdf",
+                "drive_id": "11-kNY5uvUxKySuOnBGG00QUdfvLWxfTk",
+                "mime": "application/pdf",
+                "_source_id": "c8e07ba3-2aba-5b7c-98c1-efee70a8f62d"
+              },
+              {
+                "name": "ST_07-05.mp3",
+                "drive_id": "1XPjcUq3GhQT1IPhanhLaYWeuXvCHm1Ss",
+                "mime": "audio/mpeg",
+                "_source_id": "2dd4d0d3-1848-52d5-8a6d-f099dc31a821"
+              }
+            ]
+          },
+          {
+            "id": "5d69585e-02d8-5b7e-95f5-33cae5e625ac",
+            "name": "Praca domowa [1:24]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4290119\">Moduł 7 - Praca domowa</a></h5>",
+            "video_drive_id": "1dgxrvaKqbtBtxHY9nsG6De_tP9dhXoA5",
+            "documents": [
+              {
+                "name": "ST-07-Praca_domowa_transkrypcja.pdf",
+                "drive_id": "1skCtTEVcY7q9DSRxr2FWx0YT-KlGYZ54",
+                "mime": "application/pdf",
+                "_source_id": "c0c3a575-0486-5e56-9757-f9fc5fb219c4"
+              },
+              {
+                "name": "ST_T7_Praca_domowa.mp3",
+                "drive_id": "1qBowF0h9wlTzWRx6XQcECI5ascnd5AQu",
+                "mime": "audio/mpeg",
+                "_source_id": "dad848fa-f54d-54a0-9237-18dd0bf25c01"
+              },
+              {
+                "name": "ST_T7_Praca_domowa.pdf",
+                "drive_id": "1Q8A3pUjBQdroAFlCPp8pfsIa89UZakwH",
+                "mime": "application/pdf",
+                "_source_id": "3b2e4abf-78d9-558a-9738-a8cfaad5348d"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a509ac89-39cc-5ee7-a2f4-54fccf341073",
+        "name": "Moduł VIII -  Testowanie Zaawansowane",
+        "posts": [
+          {
+            "id": "00fe6df6-efdf-5b7d-95d1-e8e0421f99ca",
+            "name": "Lekcja 08.01. Testowanie Wyjątków [7:25]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4312948\">Moduł VIII -  Testowanie Zaawansowane [00:42:40]</a></h5>",
+            "video_drive_id": "1erWQUlN8SapQ7UODoB-dnTj-wzw17BXa",
+            "documents": [
+              {
+                "name": "ST-T8_Wszystkie_transkrypcje.zip",
+                "drive_id": "1qAZjGS4FWxpv6c6Q9vFn0xo6C58X_PoH",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "c077b6df-5e2d-58cf-892a-761e0e9f2f31"
+              },
+              {
+                "name": "ST_T8_Wszystkie_slajdy_.pdf",
+                "drive_id": "1-dh9ZwF5QdLG3yvBOZ4WtiB_Ua3qfOa2",
+                "mime": "application/pdf",
+                "_source_id": "4fa7c167-9609-5863-b922-b8cefbb49314"
+              },
+              {
+                "name": "ST_T8_Bibliografia.pdf",
+                "drive_id": "1fn_xnZisUtczNlel1Qx0uH6DlxQGH-aj",
+                "mime": "application/pdf",
+                "_source_id": "56fa2c8c-e824-5e63-889b-f84d280ee74e"
+              },
+              {
+                "name": "ST_T8_Wszystkie_mp3.zip",
+                "drive_id": "19wKXTFmRPC6IMBh-Owq316XcDOhs0zhV",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "6654a8cc-1aba-5226-a250-1092d9952567"
+              },
+              {
+                "name": "ST_08-01.mp3",
+                "drive_id": "1tH-RbCwJ0Lfcx5cA6ArnefOtaBJ73eLo",
+                "mime": "audio/mpeg",
+                "_source_id": "3edab000-4feb-58b7-a97a-f8fa084b12a0"
+              }
+            ]
+          },
+          {
+            "id": "a0aba3d1-784c-5796-b989-46f93faa9fe4",
+            "name": "Lekcja 08.02. Testowanie wielowątkowe [21:07]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4312948\">Moduł VIII -  Testowanie Zaawansowane [00:42:40]</a></h5>",
+            "video_drive_id": "11X8CzGJdU6qnl4biNHojhrU_Dz0GIZoV",
+            "documents": [
+              {
+                "name": "ST-08-02_Transkrypcja.pdf",
+                "drive_id": "1IbSDly3kfmd2xF94Ye4YpOzWqyLD8W0r",
+                "mime": "application/pdf",
+                "_source_id": "7dc1b5ca-62e6-54e5-9f1a-56c15a9455e8"
+              }
+            ]
+          },
+          {
+            "id": "b06772e7-60b6-5c48-8177-5b93423af91c",
+            "name": "Lekcja 08.03. Dokumentacja przez testy [6:23]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4312948\">Moduł VIII -  Testowanie Zaawansowane [00:42:40]</a></h5>",
+            "video_drive_id": "1hhbzHJI7Bf06TBSXZVgqLc_JGUom_xuL",
+            "documents": [
+              {
+                "name": "ST-08-03_transkrypcja.pdf",
+                "drive_id": "19VtgTLfDJDg9fkyTNeN4weMdlmiHafA5",
+                "mime": "application/pdf",
+                "_source_id": "19e3cb05-8f19-53f5-95eb-46d7c5eae16f"
+              },
+              {
+                "name": "ST_08-03.mp3",
+                "drive_id": "1MoZxaoG-NltNhalfVLxjZoGe6KiDMm6j",
+                "mime": "audio/mpeg",
+                "_source_id": "752d7580-4e26-5a31-afd1-b34e079f8147"
+              }
+            ]
+          },
+          {
+            "id": "f5af1de3-b4f8-596b-bc62-e7440a7ad84a",
+            "name": "Lekcja 08.04. Testowanie mutacyjne [6:25]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4312948\">Moduł VIII -  Testowanie Zaawansowane [00:42:40]</a></h5>",
+            "video_drive_id": "1hSYG7vX9GcYfDyq6LfHefu6xE7wTSH2J",
+            "documents": [
+              {
+                "name": "ST-08-04_transkrypcja.pdf",
+                "drive_id": "1IqO3ZiUP1dqVSXquXnVGyziGc4BU3qDO",
+                "mime": "application/pdf",
+                "_source_id": "01b2c93c-5168-5429-a3b1-fe97cc97dafb"
+              },
+              {
+                "name": "ST_08-04.mp3",
+                "drive_id": "1DK62EfOvruZNlhsOQrWiuOGDJPYESlo6",
+                "mime": "audio/mpeg",
+                "_source_id": "8acce815-2f98-578c-b185-1c340271d5fa"
+              }
+            ]
+          },
+          {
+            "id": "deca9e79-5b60-55c1-8bb8-03458a7e8ee9",
+            "name": "Praca domowa [1:20]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4314129\">Moduł 8 - Praca domowa</a></h5>",
+            "video_drive_id": "1cWLvqKsXly65uzgbccuII6ZrypcFBguD",
+            "documents": [
+              {
+                "name": "ST-08-05_transkrypcja.pdf",
+                "drive_id": "1ESz1t8X-FhGINwaXQiOSoGR81I-tGvSW",
+                "mime": "application/pdf",
+                "_source_id": "daf2317f-bca4-5793-8515-bb38df850f07"
+              },
+              {
+                "name": "ST-T8-Praca_domowa_transkrypcja.pdf",
+                "drive_id": "14T-gI3uK5wNof96C0qEYAXLN7bv5vrzA",
+                "mime": "application/pdf",
+                "_source_id": "22596aff-2a43-5c84-ac82-7885671d3c57"
+              },
+              {
+                "name": "ST_T8_Praca_domowa.mp3",
+                "drive_id": "12UVa-CaJMzH-9qA49TNwfge2qjoYlBMc",
+                "mime": "audio/mpeg",
+                "_source_id": "d5c21ba8-6398-5444-bf23-e5eb31c95358"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6f81318f-b5fa-506c-a9ed-49ccab73c295",
+        "name": "Moduł IX - Testy A Design Aplikacji",
+        "posts": [
+          {
+            "id": "068721aa-0709-54a2-b538-554f48dab592",
+            "name": "Lekcja 09.01.  Zacznijmy od Testów [21:21]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4364935\">Moduł IX - Testy A Design Aplikacji [01:02:03]</a></h5>\n<p><span style=\"font-weight: 400;\">Źródła z lekcji: </span></p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">Growing Object-Oriented Software, Guided by Tests</span></em><span style=\"font-weight: 400;\"> by Nat Pryce; Steve Freeman Published by Addison-Wesley Professional, 2009</span></li>\n<li><span style=\"font-weight: 400;\"><em>Hands-On Software Engineering with Golang</em> by Achilleas Anagnostopoulos Published by Packt Publishing, 2020</span></li>\n</ul>\n<p> </p>",
+            "video_drive_id": "1OKGoX4KTuBCeBPp2ywjICzAS94YUJYbe",
+            "documents": [
+              {
+                "name": "ST_T9_Wszystkie_transkrypcje.zip",
+                "drive_id": "1cH9wUqn-r3S1yMyMY4VYNnbJfYlNAdza",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "68a5915e-8dbd-5c71-8a6d-af02a64dfe8f"
+              },
+              {
+                "name": "ST_T9_Wszystkie_slajdy_.pdf",
+                "drive_id": "11xOtQFdRCjRukVOfbC-AYoxIbLx4_WIO",
+                "mime": "application/pdf",
+                "_source_id": "db5a484a-79fc-56c8-af90-4c2493c08c72"
+              },
+              {
+                "name": "ST_T9_Bibliografia.pdf",
+                "drive_id": "1UrqNMPLLa2MybHGna-4oBxOFEB7dxwd8",
+                "mime": "application/pdf",
+                "_source_id": "42e5a763-f688-5d6a-a9f3-9424d48002f4"
+              },
+              {
+                "name": "ST_T9_Wszystkie_mp3.zip",
+                "drive_id": "1DbYerC0crqrc-mY8LtKLGVzFXn-opZau",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "75361294-6bc2-55df-8676-3510d3418b09"
+              },
+              {
+                "name": "ST_09_01.mp3",
+                "drive_id": "1FKUyZVYleGDOg5pkNjRbSS0NbW33BvFK",
+                "mime": "audio/mpeg",
+                "_source_id": "339c4ce2-5884-5ba0-8583-6ba40201c71d"
+              },
+              {
+                "name": "ST-09-01_transkrypcja.pdf",
+                "drive_id": "1fZZXUpaaCkh7JGlBFL10qUIWL89DoCUv",
+                "mime": "application/pdf",
+                "_source_id": "5f680fcf-b94f-569a-833d-d74e9500c2fe"
+              }
+            ]
+          },
+          {
+            "id": "0b21a630-51bc-5583-b72d-0dfcf632a2ba",
+            "name": "Lekcja 09.02. Piramida Testów [5:02]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4364935\">Moduł IX - Testy A Design Aplikacji [01:02:03]</a></h5>\n<p><span style=\"font-weight: 400;\">Źródła z lekcji: </span></p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">Beautiful Testing</span></em><span style=\"font-weight: 400;\"> by Adam Goucher; Tim Riley Published by O'Reilly Media, Inc., 2009</span></li>\n<li><em><span style=\"font-weight: 400;\">Unit Testing Principles, Practices, and Patterns</span></em><span style=\"font-weight: 400;\"> by Vladimir Khorikov Published by Manning Publications, 2020</span></li>\n</ul>",
+            "video_drive_id": "1CU-yTAOA984Kcs_14GB826uAkgBMSqEu",
+            "documents": [
+              {
+                "name": "ST-09-02_transkrypcja.pdf",
+                "drive_id": "1J9yZr3y3-_-WdpQLabnODX2r4r2nS6sb",
+                "mime": "application/pdf",
+                "_source_id": "a8048a2b-cb0e-5f83-bbf6-2848bf52ae03"
+              },
+              {
+                "name": "ST_09_02.mp3",
+                "drive_id": "1DeI0vkBXu5VlEcQ2t2XpVdU8ChECmRVV",
+                "mime": "audio/mpeg",
+                "_source_id": "038d393b-e5e5-5059-9880-03f35af54230"
+              }
+            ]
+          },
+          {
+            "id": "4fa42fd9-4fa1-5950-a76c-679f9b468eb2",
+            "name": "Lekcja 09.03. Przykłady złych testów [14:30]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4364935\">Moduł IX - Testy A Design Aplikacji [01:02:03]</a></h5>",
+            "video_drive_id": "1bnz3jfkNmeg2ACK1QGhB-_abazbllKfc",
+            "documents": [
+              {
+                "name": "ST-09-03_transkrypcja.pdf",
+                "drive_id": "1I02ONu7jwbjB8IrokMcedG6zFqWOGoKp",
+                "mime": "application/pdf",
+                "_source_id": "2f409cdb-94a6-53c6-9e21-e829c3b15d2e"
+              },
+              {
+                "name": "ST_09_03.mp3",
+                "drive_id": "1SMR9ffvWr6YAEJlgX5ZxadLS9tKNitva",
+                "mime": "audio/mpeg",
+                "_source_id": "96344960-9b20-5592-bf36-fc015774ae61"
+              }
+            ]
+          },
+          {
+            "id": "be347e9e-0161-5c0c-b737-d01a469020af",
+            "name": "Lekcja 09.04. Praca ze źle Zaprojektowanym Kodem [19:57]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4364935\">Moduł IX - Testy A Design Aplikacji [01:02:03]</a></h5>\n<p><span style=\"font-weight: 400;\">Źródła z lekcji: </span></p>\n<ul>\n<li style=\"font-weight: 400;\"><em><span style=\"font-weight: 400;\">Working Effectively with Legacy Code, First Edition</span></em><span style=\"font-weight: 400;\"> by Michael Feathers Published by Prentice Hall, 2004</span></li>\n</ul>",
+            "video_drive_id": "17NHojV1owe36-PjV7pvhyPAqXKSSpuwY",
+            "documents": [
+              {
+                "name": "ST-09-04_transkrypcja.pdf",
+                "drive_id": "1Oro1I2GwjpNVRQjMeO7lVgWTHeLjzHiG",
+                "mime": "application/pdf",
+                "_source_id": "077254e0-8f1a-5c7c-bab6-d5e5adc9973b"
+              },
+              {
+                "name": "ST_09_04.mp3",
+                "drive_id": "1BQm8Iq-6IdjlMaZhn7gOwV4b51fJusG3",
+                "mime": "audio/mpeg",
+                "_source_id": "bc96b393-4fe6-5e49-844d-56f355086e48"
+              }
+            ]
+          },
+          {
+            "id": "7e0db528-1ec5-5875-9967-aeee4fa96c47",
+            "name": "Praca Domowa [1:13]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4365051\">Moduł 9 - Praca Domowa</a></h5>",
+            "video_drive_id": "1luMGF4paIHi_4x3NSMKq4lQw9xFJqEVO",
+            "documents": [
+              {
+                "name": "ST-T9-Praca_domowa_transkrypcja.pdf",
+                "drive_id": "1rxxQ9E7nPnU4ohFlAhgbn-obKAOL4jGe",
+                "mime": "application/pdf",
+                "_source_id": "cce09b78-72f0-52a2-8f36-361c488fe2ba"
+              },
+              {
+                "name": "ST_T9_Praca_domowa.mp3",
+                "drive_id": "1cEZBiHEnEbBHaVRlDISGC45ERZKn5KM6",
+                "mime": "audio/mpeg",
+                "_source_id": "e1cdf0cf-1677-5911-b6f1-cdccba5686f1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ab7aba01-d654-5ffc-b335-af7693c473fa",
+        "name": "Moduł X - Praca w Zespole",
+        "posts": [
+          {
+            "id": "cdc761a3-cbf5-5cfc-8a5f-6b6f00e022c3",
+            "name": "Lekcja 10.01. Testy manualne [20:03]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4421604\">Moduł X - Praca w Zespole [00:44:02]</a></h5>\n<p>Źródła z lekcji: </p>\n<ul>\n<li>UAT Defined: A Guide to Practical User Acceptance Testing by Rob Cimperman Published by Addison-Wesley Professional, 2006</li>\n<li>The Art of Software Testing, 3rd Edition by Glenford J. Myers; Corey Sandler; Tom Badgett Published by Wiley, 2011</li>\n<li>Explore It! by Elisabeth Hendrickson Published by Pragmatic Bookshelf, 2013</li>\n<li>Software Engineering at Google by Hyrum Wright; Tom Manshreck; Titus Winters Published by O'Reilly Media, Inc., 2020</li>\n<li>Code Review Best Practices by Trisha Gee</li>\n</ul>",
+            "video_drive_id": "1xnjjdzOl-OUgE0AKpNdJVtk985RyiltY",
+            "documents": [
+              {
+                "name": "ST_T10_Bibliografia.pdf",
+                "drive_id": "1GqMd_EFiIb84x7doNghxOMPEqN3lVtdf",
+                "mime": "application/pdf",
+                "_source_id": "e5ff7d21-f106-51cb-9d32-40726ff29678"
+              },
+              {
+                "name": "ST_T10_Wszystkie_slajdy.pdf",
+                "drive_id": "1h0W2CLiygr2a_JoPxCEMNtYGSc3PAdA3",
+                "mime": "application/pdf",
+                "_source_id": "fad4c2c2-51c8-58b9-8eb8-b229bf808354"
+              },
+              {
+                "name": "ST_T10_Wszystkie_mp3.zip",
+                "drive_id": "1AjyzXBxOVo2lNFYmc3kH75asI1zkfsx6",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "a64acbf8-a77c-55ad-8a0a-020d7a0f590e"
+              },
+              {
+                "name": "ST_T10_Wszystkie_transkrypcje.zip",
+                "drive_id": "15_4lr4hhYaiu06D1XjK6qD17Ozw1FOQN",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "29e6c250-ed6c-50b8-aafe-96c2536b0f65"
+              },
+              {
+                "name": "ST_10-01.mp3",
+                "drive_id": "1gMaNQkvEM3wTh3nJZrHPp2hoOLO83TAW",
+                "mime": "audio/mpeg",
+                "_source_id": "07554dd1-13ed-5a96-b8f7-a2b8d7d279e5"
+              },
+              {
+                "name": "ST-10-01_transkrypcja.pdf",
+                "drive_id": "1BaxWSse46xWrd7xQZ1d7vWx5ip32BJ7d",
+                "mime": "application/pdf",
+                "_source_id": "60fac344-0ab0-50f1-9b7d-b270b2a5d3aa"
+              }
+            ]
+          },
+          {
+            "id": "bef5e06b-f5a0-5af7-a001-067fc069f0b7",
+            "name": "Lekcja 10.02. Metodyki współpracy [22:17]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4421604\">Moduł X - Praca w Zespole [00:44:02]</a></h5>\n<p>Źródła z lekcji:</p>\n<ul>\n<li>Code Review Best Practices by Trisha Gee</li>\n<li>https://www.youtube.com/watch?v=a9_0UUUNt-Y</li>\n<li><a href=\"https://blog.codinghorror.com/code-reviews-just-do-it/ \">https://blog.codinghorror.com/code-reviews-just-do-it/ </a></li>\n<li>Remote Pairing by Joe Kutner Published by Pragmatic Bookshelf, 2013 </li>\n<li>Extreme Programming Explained: Embrace Change, Second Edition by Cynthia Andres; Kent Beck Published by Addison-Wesley Professional, 2004</li>\n<li>Code with the Wisdom of the Crowd by Mark Pearl Published by Pragmatic Bookshelf, 2018</li>\n</ul>",
+            "video_drive_id": "1tBt9mWrI3bwabDzqHzRoFxDzNKLobVc1",
+            "documents": [
+              {
+                "name": "ST-10-02_transkrypcja.pdf",
+                "drive_id": "1dbj_34Qe3SWjcikCXqZlRuEkjzUtokNK",
+                "mime": "application/pdf",
+                "_source_id": "41904bf2-9ee9-582f-9a4d-a4fc04fde18e"
+              },
+              {
+                "name": "ST_10-02.mp3",
+                "drive_id": "1Dy8nywtx7VHEs-RsvSiKFnQ0Qz2kcNe2",
+                "mime": "audio/mpeg",
+                "_source_id": "6a2f4593-f9f6-5472-99e3-6d8f858232a4"
+              }
+            ]
+          },
+          {
+            "id": "1a20bcd5-64fd-5d64-b070-2764bec58be0",
+            "name": "Praca domowa [0:56]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4421604\">Moduł X - Praca w Zespole [00:44:02]</a></h5>",
+            "video_drive_id": "1TAMHNYyHds80oxX3XwhmxOQSfLBVjv-V",
+            "documents": [
+              {
+                "name": "ST_T10_Praca_domowa_transkrypcja.pdf",
+                "drive_id": "16T93miZfkvkyc1PZrr8Kx_Um0pEE61nD",
+                "mime": "application/pdf",
+                "_source_id": "3b6c18cd-029f-5d54-929e-21b84c94750f"
+              },
+              {
+                "name": "ST_T10_Praca_domowa.pdf",
+                "drive_id": "1ZjTx9R1kf-R9kwfA4Spg3KueA7nq1yno",
+                "mime": "application/pdf",
+                "_source_id": "e3569e6b-4794-527b-bf20-7493e569d170"
+              }
+            ]
+          },
+          {
+            "id": "4a5f3274-c893-5b8d-916c-4fa8de6ead98",
+            "name": "OUTRO [0:46]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4421604\">Moduł X - Praca w Zespole [00:44:02]</a></h5>",
+            "video_drive_id": "1KE4K-NUgLfkBofqQJ-oknRCvAmhYRWrC",
+            "documents": [
+              {
+                "name": "ST_T10_Outro.mp3",
+                "drive_id": "1nF6KqMGxx3-gc5eGISMVIpnnGmUQ0d3r",
+                "mime": "audio/mpeg",
+                "_source_id": "9733d619-db56-53b9-a3fe-ac35a2d39d4e"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ecb86927-afc1-5661-9fb5-37fe49e8fd88",
+        "name": "Pożegnanie",
+        "posts": [
+          {
+            "id": "ffb877bc-4c24-519f-be21-92c93be2165b",
+            "name": "Prośba i Co Dalej?",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/4442471\">Pożegnanie</a></h5>\n<p>Serdecznie prosimy o wypełnienie ankiety 🙏: <a href=\"https://smarttesting.pl/feedback\">smarttesting.pl/feedback</a> .</p>",
+            "video_drive_id": "1Tzx4tkC-FvV6nPEmHIIXg7-5sIIzEAD7",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "f966322e-818d-5e2c-9da3-838850f85e56",
+        "name": "SmartTesting Conf",
+        "posts": [
+          {
+            "id": "7d7fd1bf-c675-5e4c-b64a-4c6748b51ff6",
+            "name": "3 sytuacje, w których testy kontraktowe ułatwią Ci życie [Marcin Grzejszczak]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3798254\">SmartTesting Conf</a></h5>",
+            "video_drive_id": "1jkfpFx72OK2ZbFqoyN8hztvqUgFfbm2i",
+            "documents": [
+              {
+                "name": "3_sytuacje_w_kto_rych_testy_kontraktowe_u_atwia_Ci_z_ycie_-_SmartTesting_Conf_2020.pdf",
+                "drive_id": "1CUaKWQnSyBDGr9i62FcSNQ8fCVhOT8fR",
+                "mime": "application/pdf",
+                "_source_id": "09e797d3-62f5-554f-afd1-17af72b4db8b"
+              }
+            ]
+          },
+          {
+            "id": "45214c89-4308-56e2-8865-e8268e1f4bb3",
+            "name": "Pozytywna Mutacja: jak testy mutacyjne usprawnią Twoją pracę [Arkadiusz Kondas]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3798254\">SmartTesting Conf</a></h5>\n<p><a href=\"https://slides.com/arkadiuszkondas/pozytywna-mutacja-jak-testy-mutacyjne-usprawnia-twoja-prace/\">Tutaj slajdy do prezentacji</a></p>",
+            "video_drive_id": "1A_WGW5JqwuREEdhCzmNBC9X7FMlNLqGn",
+            "documents": []
+          },
+          {
+            "id": "3d111a8e-62b6-5aa5-bace-fe1ba80eab6f",
+            "name": "Wdrożenie w piątek o 16! Testy we wdrożeniu i na produkcji [Olga Maciaszek-Sharma]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3798254\">SmartTesting Conf</a></h5>",
+            "video_drive_id": "1D2fS15IOlGIvjukksjFtStGCtA54_s2s",
+            "documents": []
+          },
+          {
+            "id": "c0f2a866-b350-5881-a42c-1b29856fcf79",
+            "name": "TDD: jak przełamać barierę pisania testu bez kodu? [Grzegorz Gałęzowski]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3798254\">SmartTesting Conf</a></h5>",
+            "video_drive_id": "1N-lAW-QUZIv-uRatm0s1OIMOvyv5LVQL",
+            "documents": []
+          },
+          {
+            "id": "02333d20-8f48-53b3-8fa7-5d3f1019131d",
+            "name": "Name me right: jak nazywać testy? I dlaczego to tak ważne? [Sebastian Buczyński]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3798254\">SmartTesting Conf</a></h5>",
+            "video_drive_id": "1ohPk2hagArdXJsIl068tWl124z8RafyD",
+            "documents": [
+              {
+                "name": "smartestingconf-sebastian-namemeright.pdf",
+                "drive_id": "1WhpNXhDx0Afyxekk79nV0VKlqqXqjN7T",
+                "mime": "application/pdf",
+                "_source_id": "673d1a59-a879-55cd-9a2c-0dbc74ad545d"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dd9aa920-51b2-589b-84ea-0badb8743c45",
+        "name": "LIVE'y",
+        "posts": [
+          {
+            "id": "bcb3b6ed-5cb8-5f40-85a9-94ecd90c9163",
+            "name": "7 grzechów głównych testowania jednostkowego [11.09.2023]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3708856\">LIVE'y</a></h5>",
+            "video_drive_id": "1ZJRYVwcoyQj2LU9W8pji673CFgAtILBI",
+            "documents": []
+          },
+          {
+            "id": "3f589edd-b4f4-5e5f-a560-01ddc59bcf7c",
+            "name": "Property-Based Testing 15.02.2022",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3708856\">LIVE'y</a></h5>",
+            "video_drive_id": "18HdyHZ2G1aVPwkk8z8Ue3rkRzZ2RPn6n",
+            "documents": []
+          },
+          {
+            "id": "245229ec-bece-5204-bd52-f510f0b829f7",
+            "name": "LIVE Q&A 11.01.2021",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3708856\">LIVE'y</a></h5>",
+            "video_drive_id": "18LOcebM2zEgQSaxU3_RDnQYDWuSvgFvG",
+            "documents": []
+          },
+          {
+            "id": "f6d97edb-2940-5afd-be90-28905dfd0106",
+            "name": "LIVE Q&A 28.09.2020",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3708856\">LIVE'y</a></h5>",
+            "video_drive_id": "1jjRvhMYkbwgAm1l4bLVmjcUY5xH9plUv",
+            "documents": []
+          },
+          {
+            "id": "d588ef1f-7e4a-558c-aa2c-8dd5d0adcc23",
+            "name": "Korzyści z testowania",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3708856\">LIVE'y</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/0hk1XzH8D84\" width=\"560\"></iframe></p>",
+            "video_drive_id": null,
+            "documents": []
+          },
+          {
+            "id": "23666615-3896-589a-81cb-ac3429dba829",
+            "name": "Jak testować?",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3708856\">LIVE'y</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Lkrzktbx38o\" width=\"560\"></iframe></p>",
+            "video_drive_id": null,
+            "documents": []
+          },
+          {
+            "id": "a65002f2-cec7-58df-85cb-bb7135153a60",
+            "name": "Najczęstsze problemy",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3708856\">LIVE'y</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/8l3-3SgQag4\" width=\"560\"></iframe></p>",
+            "video_drive_id": null,
+            "documents": []
+          },
+          {
+            "id": "a25c73b0-4902-5886-b752-27b5b7dcf3fb",
+            "name": "Nieporozumienia w nauce testów",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3708856\">LIVE'y</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/sMsTHltZ6xA\" width=\"560\"></iframe></p>",
+            "video_drive_id": null,
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "758e9bb9-5ef0-5e47-b94f-05de81997de7",
+        "name": "Bonusowe materiały",
+        "posts": [
+          {
+            "id": "b4a155f5-bae5-5c3f-b04b-6b509c19aa17",
+            "name": "Testy Konwencji - Maciej Aniserowicz (dotnetconf)",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3378407\">Bonusowe materiały</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/RPam7uk55fI\" width=\"560\"></iframe></p>",
+            "video_drive_id": null,
+            "documents": []
+          },
+          {
+            "id": "e519dd22-f680-56b4-9f2a-e500e4ca9ed4",
+            "name": "Marcin Grzejszczak - CDC jako TDD na poziomie API",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3378407\">Bonusowe materiały</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/DFMFcH3vb48\" width=\"560\"></iframe></p>",
+            "video_drive_id": null,
+            "documents": []
+          },
+          {
+            "id": "797d4478-aa86-5698-9ae9-902c5bc24276",
+            "name": "Spring Cloud Engineer Olga Maciaszek-Sharma: A Bootiful Podcast",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3378407\">Bonusowe materiały</a></h5>\n<p>Zobacz na: <a href=\"https://soundcloud.com/a-bootiful-podcast/spring-cloud-engineer-olga-maciaszek-sharma\">https://soundcloud.com/a-bootiful-podcast/spring-cloud-engineer-olga-maciaszek-sharma</a> </p>",
+            "video_drive_id": null,
+            "documents": []
+          },
+          {
+            "id": "17e2f73f-a889-5e31-b6f4-57ab2d545d3b",
+            "name": "Testing Your Message-Driven Application - Marcin Grzejszczak, Jakub Pilimon",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3378407\">Bonusowe materiały</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/QZxtZC22uTs\" width=\"560\"></iframe></p>",
+            "video_drive_id": null,
+            "documents": []
+          },
+          {
+            "id": "ad4068ad-3ab9-5fbc-aedb-3910d22a7a84",
+            "name": "JDD 2018: REST and Messaging contracts with Spring Cloud Contract by Olga Maciaszek-Sharma",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3378407\">Bonusowe materiały</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/esiEZWAbt2w\" width=\"560\"></iframe></p>",
+            "video_drive_id": null,
+            "documents": []
+          },
+          {
+            "id": "e5042923-4e9d-5857-b28e-ef1c82c185bd",
+            "name": "Testy do eksploracji i komunikacji - Maciej Aniserowicz (dotnetconf)",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3378407\">Bonusowe materiały</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/oF4rAYgCasM\" width=\"560\"></iframe></p>",
+            "video_drive_id": null,
+            "documents": []
+          },
+          {
+            "id": "fdc4c064-db3c-5471-83bc-27e91755c99a",
+            "name": "A&A Days 2018: Marcin Grzejszczak & Olga Maciaszek Sharma \"Building Resilient Microservices\"",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3378407\">Bonusowe materiały</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/5YaRDUVac9c\" width=\"560\"></iframe></p>",
+            "video_drive_id": null,
+            "documents": []
+          },
+          {
+            "id": "6a679cc9-fd18-5485-84b2-d880aa556db3",
+            "name": "Typy testów i MOCKING best practices [SmartTesting]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3378407\">Bonusowe materiały</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/7L8WEd-Li4k\" width=\"560\"></iframe></p>",
+            "video_drive_id": null,
+            "documents": []
+          },
+          {
+            "id": "ec5d8c6c-5580-5e54-8e95-33c6020d776e",
+            "name": "Testowanie metod PRYWATNYCH, czego NIE testować i czym jest UNIT? [SmartTesting]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3378407\">Bonusowe materiały</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/F-NoROQAqfo\" width=\"560\"></iframe></p>",
+            "video_drive_id": null,
+            "documents": []
+          },
+          {
+            "id": "dc8aab4f-f7c0-5108-b72d-63948264e1e0",
+            "name": "Programista vs tester, piramida testów i nazewnictwo testów [SmartTesting]",
+            "description": "<h5 class=\"panel__sub-title\" kjb-settings-id=\"sections_post_body_blocks_1481845691504_settings_show_category\"><a href=\"https://edu.devstyle.pl/products/smarttesting/categories/3378407\">Bonusowe materiały</a></h5>\n<p><iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/IC0wqvY1Reo\" width=\"560\"></iframe></p>",
+            "video_drive_id": null,
+            "documents": []
+          }
+        ]
+      }
+    ],
+    "_publisher_source": "https://edu.devstyle.pl:760dcb39-8d4d-5cff-8331-2911351a2a52"
   }
 ]
