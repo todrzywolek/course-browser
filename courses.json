@@ -25039,5 +25039,1498 @@
       }
     ],
     "_publisher_source": "https://edu.devstyle.pl:760dcb39-8d4d-5cff-8331-2911351a2a52"
+  },
+  {
+    "id": "64c052c5-41c0-5f31-a52c-e0aa8d9aa5a8",
+    "title": "DBM: dbmaster",
+    "categories": [
+      {
+        "id": "28935c68-707e-505d-ae79-bcf34b02c2b6",
+        "name": "INTRO",
+        "posts": [
+          {
+            "id": "61f87128-adf7-51bf-8280-8390676432b8",
+            "name": "INTRO 01. Wprowadzenie do szkolenia.",
+            "description": "",
+            "video_drive_id": "1CxTU2o81fkZVRftY9vU55n2cpN8KWhLo",
+            "documents": []
+          },
+          {
+            "id": "6303eb95-f10d-513f-a701-66508a63a4da",
+            "name": "INTRO 02. Założenia programu DBMaster.",
+            "description": "",
+            "video_drive_id": "19RRXga0XbaOHPFwcQP9dX2KWggjNRAZ_",
+            "documents": []
+          },
+          {
+            "id": "ecadc533-4095-514d-bf99-5a0c776d8706",
+            "name": "INTRO 03. Jak będziemy się uczyć?",
+            "description": "",
+            "video_drive_id": "1jhrnHeFMS_emvyi_QCr03GMiQ1ozzvRc",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "31bb2c3d-19dc-510f-b969-0dc600926bd9",
+        "name": "Moduł I – Wprowadzenie do baz danych – o tym, co jest ważne I w jaki sposób jest to ważne.",
+        "posts": [
+          {
+            "id": "a81b4ad5-0aac-5a2b-b699-10d380c6a158",
+            "name": "Lekcja 01.01. Przygotowanie środowisk. [7:19]",
+            "description": "<p> </p>\n<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1pO4taGVlh7cZFtOxKMchkWVtVhYeBKt3",
+            "documents": [
+              {
+                "name": "DBM_01_01_Przygotowanie_Srodowisk.mp3",
+                "drive_id": "137PmmdWkY_2-tBVsRO5GPqEGUCba3tZE",
+                "mime": "audio/mpeg",
+                "_source_id": "2c9946fc-91f6-57ff-8592-34d9f0e09ea0"
+              },
+              {
+                "name": "DBM_Tydzien_1_Wszystkie_MP3.zip",
+                "drive_id": "1HcCVGDBHh4mLwdphGlzxu-PpvCs4gCBl",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "5f6e61af-0464-5101-91b5-e356fcfa5865"
+              },
+              {
+                "name": "DBM_T1.pdf",
+                "drive_id": "1omy3etqAlc0EcIKfSkiXtEFP7P0MGPQw",
+                "mime": "application/pdf",
+                "_source_id": "3e9e0e92-b343-56bc-91a5-c90c7328d9c8"
+              },
+              {
+                "name": "model-aplikacyjny.txt",
+                "drive_id": "1LafBspUUFbVJVCXh0KcLGoFUJi0bLTLr",
+                "mime": "text/plain",
+                "_source_id": "efabcdb4-299a-5827-b477-503e7b456908"
+              },
+              {
+                "name": "DBM-tydzien_1-transkrypcja.pdf",
+                "drive_id": "1JfuTZPh5dYxY5uduUnKoETwokkcggIvx",
+                "mime": "application/pdf",
+                "_source_id": "885b8772-da54-5a4c-adf8-6381821a29e2"
+              },
+              {
+                "name": "Skrypty-tworzace-bazy-danych-1.zip",
+                "drive_id": "1sKYr_7Ax6YWDxLG2R9sCZFlxn9LCLRda",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "998c1117-b9c5-5b76-89b7-b630659afe21"
+              }
+            ]
+          },
+          {
+            "id": "13ac7cbc-4b23-55c9-84c0-45315ba04a24",
+            "name": "Lekcja 01.02. Modelowanie aplikacyjne – opis problemu. [22:22]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1oPLCIZzrENlCPsT8ejRIBuXU_TTZwC8r",
+            "documents": [
+              {
+                "name": "DBM_01_02_Modelowanie_aplikacyjne_-_opis_problemu.mp3",
+                "drive_id": "1QZeyfW0YIL3FyhlGx1qNHCM_dlEDVraX",
+                "mime": "audio/mpeg",
+                "_source_id": "e8d3fe93-ffdd-555d-ae7b-6eb689795fc4"
+              }
+            ]
+          },
+          {
+            "id": "b3480354-2679-5c6b-8e61-06ab8016c6f8",
+            "name": "Lekcja 01.03. Modelowanie bazodanowe – diabeł tkwi w szczegółach. [5:58]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1QRQpVNUUJ7K-X0nFcFyk3FkaoYa42uF7",
+            "documents": [
+              {
+                "name": "DBM_01_03_Modelowanie_bazodanowe_-_diabel_tkwi_w_szczegolach.mp3",
+                "drive_id": "1viFWdC7qEWLdra8eCPa35m9s09AGFSSJ",
+                "mime": "audio/mpeg",
+                "_source_id": "430779ff-8f30-56e7-9a62-32c86b95bf09"
+              }
+            ]
+          },
+          {
+            "id": "b6cf5f58-a473-5637-a75f-13362f2ac80c",
+            "name": "Lekcja 01.04. Modelowanie bazodanowe – dobry model = klucz do dobrej wydajności. [31:44]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1enYpa3-a6B-Il7HeaThQh5eTrppbJCx_",
+            "documents": [
+              {
+                "name": "DBM_01_04_Modelowanie_bazodanowe_-_dobry_model_klucz_do_dobrej_wydajnosci.mp3",
+                "drive_id": "1b7_DamY8pRIjHcB8VyAxRtTW1hbZYd3i",
+                "mime": "audio/mpeg",
+                "_source_id": "298e8ee2-2fe4-5f13-b966-cbc41b1e11e8"
+              }
+            ]
+          },
+          {
+            "id": "3ebcefb6-d0de-54d2-87b4-eec96a674f6d",
+            "name": "Zadanie domowe [1:27]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1p1EuRj3pNNpPLTAxe9joOoKRXmKOVIvk",
+            "documents": [
+              {
+                "name": "DBM_01_Zadanie_domowe.mp3",
+                "drive_id": "1P_WAc3C5gKscQcllKxvw1df09RtD28ZN",
+                "mime": "audio/mpeg",
+                "_source_id": "408e5826-93be-581c-a9a0-a0eb46880956"
+              }
+            ]
+          },
+          {
+            "id": "6159f371-349f-52de-96cb-8f2210574051",
+            "name": "Dyskusja o Module 1 [15:24]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1o8lR3EnF9rzXeemqY0f-dAW58Idfq-gl",
+            "documents": []
+          },
+          {
+            "id": "cc1dc3bc-f797-52ef-a852-5ff147480dd7",
+            "name": "Omówienie zadania domowego z Modułu 1 [10:28]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1yTTqu6hKUDcEUyUJuHn2q0sWWFdDO3xi",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "2201e37e-267c-5a59-8609-15c2ca59267e",
+        "name": "Moduł II – Zaczynamy optymalizację.",
+        "posts": [
+          {
+            "id": "e7ffb34f-527d-5d1f-a9eb-5e710c6c21ee",
+            "name": "Lekcja 02.01. Wprowadzenie do zagadnienia indeksowania. [11:15]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1aNooBFvhC9APfESBt0aQym1FbHkTWURM",
+            "documents": [
+              {
+                "name": "DBM_Tydzien_2_Wszystkie_MP3.zip",
+                "drive_id": "1FcqlU07ep0OJj6eYD4RH4MAEsk9c0td1",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "3b251c7d-1792-524f-92f5-4b293456598c"
+              },
+              {
+                "name": "DBM_02_01_Wprowadzenie_do_zagadnienia_indeksowania.mp3",
+                "drive_id": "1sLJvL6rDakj0C4IS3NoePjYPaNJGjDGh",
+                "mime": "audio/mpeg",
+                "_source_id": "b0d95e53-05c8-5869-8329-e91d3f53b6d7"
+              },
+              {
+                "name": "DBM-tydzien_2-transkrypcja.pdf",
+                "drive_id": "1LAu8V8PYaaFjq8CkyJdkMNvwl7uDw0_d",
+                "mime": "application/pdf",
+                "_source_id": "43a575b5-0580-55bb-afdf-60dc048e3f46"
+              },
+              {
+                "name": "Skrypty_tworzące_bazy_danych",
+                "drive_id": "1ebhxeQUgEVlgWC7HXCo_2ftRFdxxNNno",
+                "mime": "application/octet-stream",
+                "_source_id": "347b80ea-8946-55da-b836-56e833bf6100"
+              },
+              {
+                "name": "DBM_T2.pdf",
+                "drive_id": "14fJCbRzI-sIj0hO_ofk6REVaeA9OSenB",
+                "mime": "application/pdf",
+                "_source_id": "f827bbdf-95ad-56df-9c3c-a516709c859c"
+              }
+            ]
+          },
+          {
+            "id": "c19e3cc3-ce46-583a-98dd-de373a08118d",
+            "name": "Lekcja 02.02. Jakie mamy rodzaje indeksów, ile ich powinno być? [31:17]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1_CG1YIHbo05GFg7F6EPi_eH4bqBusI5s",
+            "documents": [
+              {
+                "name": "DBM_02_02_Jakie_mamy_rodzaje_indeksow_ile_ich_powinno_byc.mp3",
+                "drive_id": "1uo13cZ3lwq73vChyinVxKv0dnrMg7jWS",
+                "mime": "audio/mpeg",
+                "_source_id": "735856dc-ead9-55dd-a3ae-60edda2f67ae"
+              }
+            ]
+          },
+          {
+            "id": "9b5ab307-9d15-5aa8-9bc1-05888c32fa26",
+            "name": "Lekcja 02.03. Co to są statystyki i dlaczego są ważne w procesie optymalizacji. [14:42]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "19Z9m2aoZ7VzeSK84zn9kSN7u6jBp01Gs",
+            "documents": [
+              {
+                "name": "DBM_02_03_Co_to_sa_statystyki_i_dlaczego_sa_wazne_w_procesie_optymalizacji.mp3",
+                "drive_id": "19Db4193PF3jT0OPMg-Vu4XBsVVe-soZK",
+                "mime": "audio/mpeg",
+                "_source_id": "176858b1-a557-5b10-86e0-f48518dd6fa9"
+              }
+            ]
+          },
+          {
+            "id": "c25ba75c-63f8-58cc-a8f3-cd48aec091a7",
+            "name": "Lekcja 02.04. Użycie indeksów w zapytaniach. [57:35]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1D8f9_J7MJokfbLA5IzNA8iqd8cIbNQEx",
+            "documents": [
+              {
+                "name": "DBM_02_04_Uzycie_indeksow_w_zapytaniach.mp3",
+                "drive_id": "1zUueZtbBKUcfzXqaF39VxK5YKYe55lvR",
+                "mime": "audio/mpeg",
+                "_source_id": "3f91907e-080a-5fef-b65d-9a474fc5db86"
+              }
+            ]
+          },
+          {
+            "id": "7214f066-a6f5-576a-bff1-561d2f85f1ba",
+            "name": "Zadanie domowe 2 [1:26]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1RT9l9Q-YNaFslvB6yhDkziDcF8f6oGAI",
+            "documents": [
+              {
+                "name": "DBM_02_Zadanie_domowe.mp3",
+                "drive_id": "1M9JHEbOElqTtZUMYASQsq-2R5mSN6FpC",
+                "mime": "audio/mpeg",
+                "_source_id": "8ae92122-913d-52ff-89f8-816ff9ad9280"
+              }
+            ]
+          },
+          {
+            "id": "e576ef84-ded8-5c4d-82d1-b402cd5a7aa8",
+            "name": "Dyskusja o Module 2 [25:42]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1PV4_cpcN89lR_4DZVRcyHWRAXS4H465C",
+            "documents": []
+          },
+          {
+            "id": "2cf4fa9f-67aa-581b-a880-35f9df3e6ed0",
+            "name": "Omówienie zadania domowego z Modułu 2 [11:00]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "15ZH0kFe-5ipe1EA2VNgD4W4sBt9C1C7C",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "b28946dc-3b9a-51b1-b2c8-24b00a5ed3ad",
+        "name": "Moduł III – Optymalizacja – praktycznie – część I",
+        "posts": [
+          {
+            "id": "807cbcc1-4f02-582d-a8bd-ef3360896cba",
+            "name": "Lekcja 03.01. Optymalizacja SELECT * [37:11]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1JkknXafNeMQjEJCbbLfSxq9qeVj3l26C",
+            "documents": [
+              {
+                "name": "DBM_Tydzien_3_Wszystkie_MP3.zip",
+                "drive_id": "1ZKC211XphGMuFwIM7OhK_mKDDC_qLYWf",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "1b1ff4d6-a9cd-52d1-861a-cdf5381fe8f4"
+              },
+              {
+                "name": "DBM_03_01_Optymalizacja_SELECT.mp3",
+                "drive_id": "1kZGoKtgSRc8yNILaS84x-8hMwM0ZtXfS",
+                "mime": "audio/mpeg",
+                "_source_id": "d926d4f6-b498-5e11-bfdd-0412a86cb99f"
+              },
+              {
+                "name": "DBM-tydzien_3-transkrypcja.pdf",
+                "drive_id": "1UYWElRF6V_oFc2w9SrMqgAOSR2zmWi5u",
+                "mime": "application/pdf",
+                "_source_id": "427e164f-2d69-5c22-bf0b-e4b02dfe19c7"
+              },
+              {
+                "name": "DBM-T3.pdf",
+                "drive_id": "13S2ufDG9fEZvAqAe35bi6vUj_W5lsabi",
+                "mime": "application/pdf",
+                "_source_id": "01b68d27-503d-5669-9de7-322ec461e58b"
+              },
+              {
+                "name": "DBM_SQL_T3.zip",
+                "drive_id": "1Iz0Y-MKvgM6NDorebqEZN7F1n23r42bF",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "04c32d23-6eb3-5eac-82cf-c016b14a69c8"
+              }
+            ]
+          },
+          {
+            "id": "b8b197c5-0f0f-5bfb-a75e-d61770612e6f",
+            "name": "Lekcja 03.02. Optymalizacja wyrażenia LIKE [10:02]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1TNtBWsGJ1Q3puTmmOAw00hoTEEUKQ9n2",
+            "documents": [
+              {
+                "name": "DBM_03_02_Optymalizacja_wyrazenia_LIKE.mp3",
+                "drive_id": "1NfUxp-V2xPwKgjo0--3MzLBDj7ToRm2D",
+                "mime": "audio/mpeg",
+                "_source_id": "4d574469-098e-5e6a-a651-44a2910f1b7d"
+              }
+            ]
+          },
+          {
+            "id": "c3695a53-4541-5d4f-a9d2-c8363c58a287",
+            "name": "Lekcja 03.03. Optymalizacja GROUP BY oraz ORDER BY [22:39]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1i5kJeHLjy7HBbjtIeSkL6sTDz1rlngI4",
+            "documents": [
+              {
+                "name": "DBM_03_03_Optymalizacja_GROUP_BY_oraz_ORDER_BY.mp3",
+                "drive_id": "1u0t6-L4bZGpAWhzodIpjdhJaQhfuoPy9",
+                "mime": "audio/mpeg",
+                "_source_id": "e933ae53-47ff-5221-8829-45d751ff7c4f"
+              }
+            ]
+          },
+          {
+            "id": "3f0f1cbd-b26b-5b61-9d75-8ab7b3da507f",
+            "name": "Lekcja 03.04. Common Table Expressions (CTE) [22:29]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1krISZMWlhlXy_vE3URt9eIYo5vCsEIAR",
+            "documents": [
+              {
+                "name": "DBM_03_04_Common_Table_Expressions_CTE.mp3",
+                "drive_id": "1iVH0Nz34bRyrF3txMD5fQFXqTZbruFAv",
+                "mime": "audio/mpeg",
+                "_source_id": "854a4d82-0bb8-54ae-b78c-633f401751b5"
+              }
+            ]
+          },
+          {
+            "id": "4e8bc8ac-8c73-51a5-af13-56b0d2ff286b",
+            "name": "Zadanie domowe 3 [2:24]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1Y79zhhPBTtSBMmFumR5pJw92mQnFuCHt",
+            "documents": [
+              {
+                "name": "DBM_03_Zadanie_domowe.mp3",
+                "drive_id": "1l73HdNU1m9b1XBIdd2UPMYg37aLdiPRy",
+                "mime": "audio/mpeg",
+                "_source_id": "6a07d4a4-3ec8-5aba-80a4-94e671d545f8"
+              }
+            ]
+          },
+          {
+            "id": "5c4110df-eb60-5236-9c2d-a76fcee761f2",
+            "name": "Dyskusja o Module 3 [28:00]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1G2M5ObQF9k0RGavUqSUZ7gKbs4b1U6_l",
+            "documents": []
+          },
+          {
+            "id": "79ff7076-d34e-5509-bc0a-18e47daa9292",
+            "name": "Omówienie zadania domowego z Modułu 3 [8:38]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1_V9oo2TEUtfhRJGCI0csT0r7X3lmUcXn",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "e69d16e0-8abb-5d7e-a933-d707746ff4fc",
+        "name": "Moduł IV – Optymalizacja – praktycznie – część II",
+        "posts": [
+          {
+            "id": "30537894-7224-5a0a-b647-2dcbc89f936d",
+            "name": "Lekcja 04.01 Optymalizacja OR oraz AND [27:58]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1dAJmd2DYl1qwG34kBY1mCxMXkPKsmMMm",
+            "documents": [
+              {
+                "name": "DBM_Tydzien_4_Wszystkie_MP3.zip",
+                "drive_id": "1yFnlSojZ-hfDmFN2AkiKEZ0gn0uo39Xw",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "819b773c-244b-5821-9a40-6e3ae3a1e30e"
+              },
+              {
+                "name": "DBM_04_01_Optymalizacja_OR_oraz_AND.mp3",
+                "drive_id": "14mlscb-zr-3A6sOMKTt3PK0_H6aMXlQt",
+                "mime": "audio/mpeg",
+                "_source_id": "8db14b03-f16f-5531-a518-a448c0399f3b"
+              },
+              {
+                "name": "DBM-tydzien_4-transkrypcja.pdf",
+                "drive_id": "1rWhBT5xmDSdn0u6ACZdSUw2YsGvVaL8Z",
+                "mime": "application/pdf",
+                "_source_id": "6b05938d-a1ff-5b19-8dcd-fc4fe0dd1cf7"
+              },
+              {
+                "name": "DBM_T4.pdf",
+                "drive_id": "1r2TRvMP_DhItENZYwCAPkOyXDjvsX2mx",
+                "mime": "application/pdf",
+                "_source_id": "a0991080-7e06-5a9e-8f22-1f47932c6ee9"
+              },
+              {
+                "name": "DBM_SQL_T4.zip",
+                "drive_id": "1b9Sgo7NEWhxTQCnkjU-snl468AdZOwEe",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "7ffb29b2-4bce-55d7-89ed-388c210f5575"
+              }
+            ]
+          },
+          {
+            "id": "35fcf701-0d4d-5922-863f-565d9c568517",
+            "name": "Lekcja 04.02 Optymalizacja CHECK constraint [16:40]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1C8iPiZF5QCil5aHjDxeGoKWES677NHD0",
+            "documents": [
+              {
+                "name": "DBM_04_02_Optymalizacja_CHECK_constraint_.mp3",
+                "drive_id": "1t_2zLDJyOc922UUaSIp_jQQ6Alb0-xh-",
+                "mime": "audio/mpeg",
+                "_source_id": "d06008e0-ea93-5b1f-a4ba-d085e2c1d670"
+              }
+            ]
+          },
+          {
+            "id": "5985fc4e-03c4-5902-86dd-6a137d33c436",
+            "name": "Lekcja 04.03 Optymalizacja – użycie indeksów częściowych [17:06]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1TurP0B3MHzDiGvnJBul6F1wep8b5B7yo",
+            "documents": [
+              {
+                "name": "DBM_04_03_Optymalizacja_uzycie_indeksow_czesciowych.mp3",
+                "drive_id": "1w1YevGPFsifJz8qUORsB1GqcPkVrNMlI",
+                "mime": "audio/mpeg",
+                "_source_id": "ef13c204-73e2-5288-ac80-2b33c663b8b1"
+              }
+            ]
+          },
+          {
+            "id": "7f8bd5ec-e5bb-546d-a68b-3ba1cd4d2055",
+            "name": "Lekcja 04.04 Optymalizacje M2M – relacje many-to-many [11:00]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1uzs6e6PlsmwiCCK4G8aB_SstM5zbJR0_",
+            "documents": [
+              {
+                "name": "DBM_04_04_Optymalizacje_M2M_relacje_many_to_many.mp3",
+                "drive_id": "1YE6Ejqqfs3AzufqZR5yE3F65ru97PXTO",
+                "mime": "audio/mpeg",
+                "_source_id": "e3352b51-efa2-5a08-88bc-5867d13d220e"
+              }
+            ]
+          },
+          {
+            "id": "c9ef230d-893f-5d5a-a025-fdbfd4ee1f73",
+            "name": "Zadanie domowe [02:08]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1JxaHjyfivsPS4BlWqEj4ykgrtCCkJ-Ba",
+            "documents": [
+              {
+                "name": "DBM_04_Zadanie_domowe.mp3",
+                "drive_id": "1y7gaPJGdkTyC-fliOri3JY5Qn9l99Yb5",
+                "mime": "audio/mpeg",
+                "_source_id": "acc3cfb7-7c1f-506b-98ad-8cbb829bafc9"
+              }
+            ]
+          },
+          {
+            "id": "9347748a-4e42-552c-91e0-266782763c20",
+            "name": "Dyskusja o Module 4 [07:53]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1UVQchxaVnl-4jJHQBXSg_K1rY3nPKZsU",
+            "documents": []
+          },
+          {
+            "id": "564c9398-913f-5028-b3f4-85cb57691ff9",
+            "name": "Omówienie zadania domowego z Modułu 4 [13:48]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1h3qCDl1Mg2wjgrlnH06xfhsUiehbiXjs",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "8225147d-6c40-5fb0-8e7c-c503ee2aeefe",
+        "name": "Moduł V – Funkcje okienkowe – czyli hidden gem w relacyjnych bazach danych",
+        "posts": [
+          {
+            "id": "02141c03-fd24-5ef8-aff5-5ff52218d10a",
+            "name": "Lekcja 05.01 Co to są funkcje okienkowe i jak upraszczają nam życie [17:51]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1eInpxzO9JNPZi73uH2gGahvdNDXv99k-",
+            "documents": [
+              {
+                "name": "DBM_Tydzien_5_Wszystkie_MP3.zip",
+                "drive_id": "1Q2PWBUOTmopNzpdJPtfRQb5CmzOaNvWA",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "a0a214be-68ba-54bf-bf3c-2e2885a6d7a9"
+              },
+              {
+                "name": "DBM_05_01_Co_to_sa_funkcje_okienkowe_i_jak_upraszczaja_nam_zycie.mp3",
+                "drive_id": "1NN9JsDP-wN5eI1m880ht3fLaccv-6YJX",
+                "mime": "audio/mpeg",
+                "_source_id": "b376b2da-8ca5-56a2-a232-71fbcecc4210"
+              },
+              {
+                "name": "DBM-tydzien_5-transkrypcja.pdf",
+                "drive_id": "1ylrjAX-5NqLCH3nEPIVf230H94XaPXkt",
+                "mime": "application/pdf",
+                "_source_id": "065d4927-7309-58d8-8c3f-1be3fc070315"
+              },
+              {
+                "name": "DBM_T5.pdf",
+                "drive_id": "1Q9LhKDve8k0Y5ttUj1zLQ4X_FRQ0Af4V",
+                "mime": "application/pdf",
+                "_source_id": "13d8aa84-9ce1-5f24-85f0-b73bde08c0bf"
+              },
+              {
+                "name": "DBM_SQL_T5.zip",
+                "drive_id": "1CVoyP5f2bCma1-tFCJkQbg1L_YNDFHnk",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "6f52a6e3-be94-5d2d-9092-23cac8834636"
+              }
+            ]
+          },
+          {
+            "id": "3f0a1b41-af03-5a09-ae95-22692e3bf961",
+            "name": "Lekcja 05.02 Funkcje łatwe – czyli liczymy wiersze na różne sposoby [22:57]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1pKALyTFRxGX8dLAmWb1QUDSKtQjWz1tW",
+            "documents": [
+              {
+                "name": "DBM_05_02_Funkcje_latwe_czyli_liczymy_wiersze_na_rozne_sposoby.mp3",
+                "drive_id": "1Bpy22qgyPJ2L1ld_GakfnKorPX7rbeim",
+                "mime": "audio/mpeg",
+                "_source_id": "832a675d-bf9d-5426-be13-e0d8d025b09f"
+              }
+            ]
+          },
+          {
+            "id": "f59038ce-e313-5014-9008-d1a5c50607a9",
+            "name": "Lekcja 05.03 Nietrywialna analityka – agregacje na sterydach [26:23]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1Dn7FNSPtZnWyVbZZ2HkH7wNqdG01VkI2",
+            "documents": [
+              {
+                "name": "DBM_05_03_Nietrywialna_analityka_agregacje_na_sterydach.mp3",
+                "drive_id": "1gpBM-pT4mGHy7OI5BCMgo5P-Rihq7tpF",
+                "mime": "audio/mpeg",
+                "_source_id": "c27f5847-6ef9-564c-8efe-c86aa3ab6a89"
+              }
+            ]
+          },
+          {
+            "id": "d4ac3d79-3fac-56a7-93c3-a1ad1696a183",
+            "name": "Lekcja 05.04 Inne funkcje okienkowe – LAG, LEAD, FIRST, LAST [12:40]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1DTKSEKyMNhJN5NAd25rxlKUBa5SJZOUe",
+            "documents": [
+              {
+                "name": "DBM_05_04_Inne_funkcje_okienkowe_LAG_LEAD_FIRST_LAST.mp3",
+                "drive_id": "1XBfsebM3Rb7A0Vq7O2o8sAu4opWnYis5",
+                "mime": "audio/mpeg",
+                "_source_id": "68888b69-0d01-5303-b1e5-cbc5d7bd047b"
+              }
+            ]
+          },
+          {
+            "id": "a59936ad-31c1-5019-9dfd-77fef0b93c58",
+            "name": "Zadanie domowe [02:58]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1LaOqH9LA-GA7JDNqgNCnyH8SMLVe25mW",
+            "documents": [
+              {
+                "name": "DBM_05_Zadanie_Domowe.mp3",
+                "drive_id": "1wJFvOHIEcAlemQhE63OhtH2cPj6lM28H",
+                "mime": "audio/mpeg",
+                "_source_id": "ad6cb5df-8821-5719-ac01-5b25652720dd"
+              }
+            ]
+          },
+          {
+            "id": "e45cd742-c4fb-553f-b67d-08df9a367dea",
+            "name": "Dyskusja o Module 5 [12:03]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1vKRfj5ZVq54sO4dUFDnwKC95eu5XFy3c",
+            "documents": []
+          },
+          {
+            "id": "a163820a-16c4-5bb7-98fd-549e776acbc0",
+            "name": "Omówienie zadania domowego z Modułu 5 [07:07]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1pBD3d-MsGGcF-2f3aDaOFIBO0w7FycJ0",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "5da266e5-c1d5-54be-93ff-6b58e283ef9e",
+        "name": "Moduł VI – Zaawansowane deweloperskie tips and tricks",
+        "posts": [
+          {
+            "id": "2080ad7e-9c1b-51f0-b936-2a081f9e3850",
+            "name": "Lekcja 06.01 Dynamiczny SQL [39:00]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1As9JE6hqY4hrpt8bnq7qHYRE6TAAFV9I",
+            "documents": [
+              {
+                "name": "DBM_Tydzien_6_Wszystkie_MP3.zip",
+                "drive_id": "166lqHaxQRN6sZZjY4aQonsHctiimpRc4",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "c979b613-65e4-5e95-9e31-8d7dac1a17f0"
+              },
+              {
+                "name": "DBM_06_01_Dynamiczny_SQL.mp3",
+                "drive_id": "18xU9JFjLn9yqIzPspMgh3fM5XFR72wi3",
+                "mime": "audio/mpeg",
+                "_source_id": "3f045cf5-802e-56d0-b712-a752bd93e047"
+              },
+              {
+                "name": "DBM_T6_SQL.zip",
+                "drive_id": "158f9pIj8KFcFwTlfjNl9atBXKyElZ7RU",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "efae952c-e6f7-59a0-b043-86578b4fd330"
+              },
+              {
+                "name": "DBM-tydzien_6-transkrypcja.pdf",
+                "drive_id": "1tnpsxFVF1KvgPaF2FoziDA62H-oejdk_",
+                "mime": "application/pdf",
+                "_source_id": "9fecd7e1-0c7e-5d5b-a18c-36d68f0122c7"
+              },
+              {
+                "name": "DBM_T6.pdf",
+                "drive_id": "108htsF7pa7alr0yqRDOHM7_zwRr4NDjN",
+                "mime": "application/pdf",
+                "_source_id": "b470bc9d-0616-5094-95bc-ec7374215c76"
+              }
+            ]
+          },
+          {
+            "id": "84c7ced2-ed99-5066-8972-e44317aa53a1",
+            "name": "Lekcja 06.02 Operacja na kursorach [12:33]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1Y3apU5Os06BkPbH69Knu8ANbsT6DlU1u",
+            "documents": [
+              {
+                "name": "DBM_06_02_Operacje_na_kursorach.mp3",
+                "drive_id": "1doOAWLJVdDsNrbCQV1XB2biJD6qmSUtV",
+                "mime": "audio/mpeg",
+                "_source_id": "60bd33dd-c7df-515d-bdb6-674fae5adf7b"
+              }
+            ]
+          },
+          {
+            "id": "22b62351-437d-5d23-a681-f2d10f2ad4e9",
+            "name": "Lekcja 06.03 Widoki oraz funkcje [26:47]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1KuaXLeXk5tMJbEOkQtIRgt6Imvrpa9bp",
+            "documents": [
+              {
+                "name": "DBM_06_03_Widoki_oraz_funkcje.mp3",
+                "drive_id": "1yY-4TAJ3GfCFC4Y-_d21_hksge08-Z8B",
+                "mime": "audio/mpeg",
+                "_source_id": "25def9ed-3e83-5283-bbcb-679872ee207a"
+              }
+            ]
+          },
+          {
+            "id": "e4b13aa0-cd81-5428-b8b4-1594820ceb35",
+            "name": "Lekcja 06.04 Pozostałe – ważne uwagi na temat optymalnego pisania kodu [22:51]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1YMb1Ttd9mJQENKdAI4TGKgm0viCNRer7",
+            "documents": [
+              {
+                "name": "DBM_06_04_Pozostale_wazne_uwagi_na_temat_optymalnego_pisania_kodu.mp3",
+                "drive_id": "1CotD_j-x4NL-ffOFfPFiUNsYmRrvnD2t",
+                "mime": "audio/mpeg",
+                "_source_id": "3f6c7c3a-f95f-532d-a672-1c2204bf6697"
+              }
+            ]
+          },
+          {
+            "id": "41306a6b-571b-5ab8-be39-70989e17de3e",
+            "name": "Zadanie domowe [03:56]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1lqWcthJpt6sLnZ1oP90uDPTjh5QQhAaO",
+            "documents": [
+              {
+                "name": "DBM_06_Zadanie_Domowe.mp3",
+                "drive_id": "1f9Od44LzPfer6zyK_rAfYNmuDXb07Zi_",
+                "mime": "audio/mpeg",
+                "_source_id": "ba184f0c-8d38-52ed-b909-9aeccfe7592e"
+              }
+            ]
+          },
+          {
+            "id": "20f2ab0c-1aae-580a-a54f-ceae6a9a30f2",
+            "name": "Omówienie zadania domowego z Modułu 6 [16:24]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1iO6P4xbOg4ToX63QiT30BfDrSAkyKFVC",
+            "documents": []
+          },
+          {
+            "id": "048d4110-b456-5458-b48c-371199eb2bbd",
+            "name": "Dyskusja o Module 6 [11:15]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1KFM6mDr8Jt7tM4Nm9eHvMFc5Avcj3c1T",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "d930bb50-d9da-5ace-98ed-677c46c6a875",
+        "name": "Moduł VII – Hurtownie danych",
+        "posts": [
+          {
+            "id": "41a869aa-1b8d-5cdd-a6bc-d5ea1c23f304",
+            "name": "Lekcja 07.01 Architektura hurtowni danych [10:32]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1OHOj47kxKkrYi_hldqhEa8XQg30HEm5j",
+            "documents": [
+              {
+                "name": "DBM_Tydzien_7_Wszystkie_MP3.zip",
+                "drive_id": "1Q3lDjsKP2_TYUSG0PRIghwGfHUdMTaF1",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "38c77e1a-09f1-522a-9363-3aefd3642f6e"
+              },
+              {
+                "name": "DBM_07_01_Architektura_hurtowni_danych.mp3",
+                "drive_id": "1MJmoePuczNT2T0DmpiuJa-zCCQRyf4xe",
+                "mime": "audio/mpeg",
+                "_source_id": "7e9e22e7-ed55-53e3-abca-eec67a31a09c"
+              },
+              {
+                "name": "DBM_T7.pdf",
+                "drive_id": "1v8vGdWhRJNEF0FfFab8l2-Sf8_yX_DMT",
+                "mime": "application/pdf",
+                "_source_id": "16489f9f-3e8b-5653-a825-c7ac0c278035"
+              },
+              {
+                "name": "DBM-tydzien_7-transkrypcja.pdf",
+                "drive_id": "1Hztf39jB8NApuDIrZW6bJmXmMkivriAp",
+                "mime": "application/pdf",
+                "_source_id": "d7474ca3-26e5-5eae-af53-bee8aa8cc920"
+              },
+              {
+                "name": "DBM_T7_SQL.zip",
+                "drive_id": "1m6cnZPmDTpwxcBNBywkzL2PTUK5-orjx",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "fdcbdb9c-32d0-56c4-bbcc-bb448296a0d7"
+              }
+            ]
+          },
+          {
+            "id": "7a197aa0-c61a-5935-bec7-f1a739addc1a",
+            "name": "Lekcja 07.02 Modelowanie hurtowni danych [26:00]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1YIlA7IbRrvVHUib1rn7FMxKyaJoRUhRj",
+            "documents": [
+              {
+                "name": "DBM_07_02_Modelowanie_hurtowni_danych.mp3",
+                "drive_id": "1eXlIgOg5_eHwXvwxdU5EVkgngqneSdo4",
+                "mime": "audio/mpeg",
+                "_source_id": "b6572afe-520c-5e34-9726-991f1dfcf6ae"
+              }
+            ]
+          },
+          {
+            "id": "acff1ed5-9c01-52c8-bca3-e7784de5a134",
+            "name": "Lekcja 07.03 Ładowanie i przetwarzanie danych [27:26]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "12gJnDeEVADmPyJrqiHNUwa6OLb_UwRry",
+            "documents": [
+              {
+                "name": "DBM_07_03_Ladowanie_i_przetwarzanie_danych.mp3",
+                "drive_id": "169Z4mB5OOKoj71tBuhilP4TZW2zrH4r4",
+                "mime": "audio/mpeg",
+                "_source_id": "264892a9-38ca-5edd-85f8-88061ff97430"
+              }
+            ]
+          },
+          {
+            "id": "a92ada6a-02b2-58f4-b014-b6179571c9f2",
+            "name": "Lekcja 07.04 Optymalizacja hurtowni danych [1:08:31]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1ocTJAEJfk8mVLDc_DimGz8mwSFmxb9CZ",
+            "documents": [
+              {
+                "name": "DBM_07_04_Optymalizacja_hurtowni_danych.mp3",
+                "drive_id": "16odByvsiqIWKrfAJ97sV1IIrjBdFgq_l",
+                "mime": "audio/mpeg",
+                "_source_id": "2f46c5c1-fd7b-509e-a86b-789c4e9f2e3b"
+              }
+            ]
+          },
+          {
+            "id": "b19fb564-023e-5369-9430-a48c6b404fba",
+            "name": "Zadanie domowe [03:04]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1asFgb2yFwt5SZAp17rz4yMrKcJpw_Ydg",
+            "documents": [
+              {
+                "name": "DBM_07_Zadanie_domowe.mp3",
+                "drive_id": "1sSgkQgsz_F_x6Vr8c04zyur5e5SsmRrP",
+                "mime": "audio/mpeg",
+                "_source_id": "194bc103-bb8f-5220-b9bf-500a688b0ef9"
+              }
+            ]
+          },
+          {
+            "id": "40a4c1ca-821f-547d-95d2-dbcaf1836d4b",
+            "name": "Omówienie zadania domowego z Modułu 7 [18:34]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1ZHcSPRWD9FWw6Khi8AT22PjVek1avuVG",
+            "documents": []
+          },
+          {
+            "id": "c7e825a7-d571-5479-a596-5793fa26aaef",
+            "name": "Dyskusja o Module 7 [09:12]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1geo_3fELtqWT2S4PMc9gBbubef1IX7fS",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "841606b2-a11c-560c-a685-768d0f1bc027",
+        "name": "Moduł VIII - ORM",
+        "posts": [
+          {
+            "id": "bc6d4c04-1f7b-5edc-af75-688c87929e44",
+            "name": "Lekcja 08.01 Wstęp – Czy wciąż potrzebujemy ORM lub OM? [18:36]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1bjWwzicXNTOiaNExroVUNXs0JajlhUqC",
+            "documents": [
+              {
+                "name": "DBM_Tydzien_8_Wszystkie_MP3.zip",
+                "drive_id": "1zEeV44gBnEbScsTwP1tXsqg-s7BMXXgF",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "80e1b2f5-d47d-55c9-81db-6ec8eaf90ee5"
+              },
+              {
+                "name": "DBM_08_01_Wstep_-_Czy_wciaz_potrzebujmy_ORM_lub_OM_.mp3",
+                "drive_id": "152ME9-_fT4UjbSZzUrHPc4hLozg6NUyW",
+                "mime": "audio/mpeg",
+                "_source_id": "0e4d6fa2-2417-5d56-8787-0527a6557e30"
+              },
+              {
+                "name": "DBM_T8_SQL.zip",
+                "drive_id": "15dfO4C0nCPDWwYtWp_XSOPVaszfN3k-6",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "f6334378-6f35-50a3-add0-9563a17e9923"
+              },
+              {
+                "name": "DBM-tydzien_8-transkrypcja.pdf",
+                "drive_id": "1keoghrW0OiRU5sZZxSGvaJajgBx5MVEW",
+                "mime": "application/pdf",
+                "_source_id": "9baff0bf-71ff-5215-9403-97a43009d556"
+              },
+              {
+                "name": "DBM_T8.pdf",
+                "drive_id": "1wVxtX4QxKYY8-SPYQsQdPpewsmNLemcI",
+                "mime": "application/pdf",
+                "_source_id": "41eea924-bd9b-5144-8d0a-bc5a629319ec"
+              }
+            ]
+          },
+          {
+            "id": "d346a106-2624-50de-9c60-28fcf5dcd99c",
+            "name": "Lekcja 08.02 Entity Framework oraz Hibernate w działaniu [1:44:09]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1ZaO6_6t7o021ijNCrnk-Iqm-DmfgSz58",
+            "documents": [
+              {
+                "name": "DBM_08_02_Entity_Framework_oraz_Hibernate_w_dzialaniu.mp3",
+                "drive_id": "1EeUxFenPoPkyzcydLihEoN3XwQpo815V",
+                "mime": "audio/mpeg",
+                "_source_id": "23c722cd-8a2e-5514-a645-43281d779185"
+              }
+            ]
+          },
+          {
+            "id": "17f06e0c-efa8-5654-8187-5566b709ce26",
+            "name": "Lekcja 08.03 ADO.NET na poziomie kodu – co daje? [33:55]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1PGxpCsPXcO_XiGAj8XYj9Y6PH0_f-VyJ",
+            "documents": [
+              {
+                "name": "DBM_08_03_ADO.NET_na_poziomie_kodu_-_co_daje_.mp3",
+                "drive_id": "129sLAh6LVp7Br0Sj4BJks17XQCLP1SYm",
+                "mime": "audio/mpeg",
+                "_source_id": "92bf296b-3eed-5338-8ac9-701cbf44cf91"
+              }
+            ]
+          },
+          {
+            "id": "aae3f790-42b2-504b-b281-3b0ec02b5d06",
+            "name": "Lekcja 08.04 Niezupełnie na temat ORM – LinQ to SQL [34:22]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1k_fWSX5PbCOII-ZDHpUCP7Jv-qa4obaf",
+            "documents": [
+              {
+                "name": "DBM_08_04_Niezupelnie_na_temat_ORM_-_LinQ_to_SQL.mp3",
+                "drive_id": "13X0F6-2CuiX9rT37SC4EOxbBDaaQ2xQb",
+                "mime": "audio/mpeg",
+                "_source_id": "3e43b4ac-64e6-5e7f-97a1-d115762a0b23"
+              }
+            ]
+          },
+          {
+            "id": "47fb1c46-3860-5d9c-9dbe-dfe11ca1c6d2",
+            "name": "Dyskusja o Module 8 [12:50]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1l2Libkn3Eg6IesyYnwLpvWkaDayv-V14",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "b28f718e-9dcb-5ace-8f00-3c52fc0f9576",
+        "name": "Moduł IX - Bezpieczeństwo danych",
+        "posts": [
+          {
+            "id": "7821a36c-e141-5aa5-a7e4-9013fe4cb298",
+            "name": "Lekcja 09.01 Bezpieczeństwo ponad wszystko – poziomy zabezpieczeń oraz uprawnień [22:40]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1yuSp6vmvHiQpONj0tdXY-hKIMEiWNf6J",
+            "documents": [
+              {
+                "name": "DBM_09_01_Bezpieczenstwo_ponad_wszystko_-_poziomy_zabezpieczen_oraz_uprawnien.mp3",
+                "drive_id": "1iYYNlqHWc-M0Lci496oCKX3Djf53rU0E",
+                "mime": "audio/mpeg",
+                "_source_id": "50468c99-474a-56af-ac72-80164b5b0be2"
+              },
+              {
+                "name": "DBM_Tydzien_9_Wszystkie_MP3.zip",
+                "drive_id": "1s0waV17zGvpNsM1babiZ7J408-NZjJFZ",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "db174d26-deaa-5705-b8de-ad0d3895b0c7"
+              },
+              {
+                "name": "DBM-tydzien_9-transkrypcja.pdf",
+                "drive_id": "1YKt7uUc4ekLx8A0lRcCkX-q46kLpxgGV",
+                "mime": "application/pdf",
+                "_source_id": "76b02995-a103-52d2-8c84-fb1214f7430d"
+              },
+              {
+                "name": "DBM_T9.pdf",
+                "drive_id": "1j5rLcA4tF-HM5E3aVExB_6rUtj9vfy_s",
+                "mime": "application/pdf",
+                "_source_id": "819271c2-922d-539d-8374-1982fcb2e42f"
+              },
+              {
+                "name": "DBM_T9_SQL.zip",
+                "drive_id": "1-w5yRPr9bhw0bQr_JZfq3zyFlDFRkqkg",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "35f47c62-8a28-5265-b969-49c815ac1c6c"
+              }
+            ]
+          },
+          {
+            "id": "915f192c-7a09-5a49-9c36-02c90333429c",
+            "name": "Lekcja 09.02 Przykłady niebezpiecznego kodu [38:05]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1lJifMaZoTbKurBkMl-Phy9YnQC705udA",
+            "documents": [
+              {
+                "name": "DBM_09_02_Przyklady_niebezpiecznego_kodu.mp3",
+                "drive_id": "1let2z9m-nTPB3rt7p-2ai7U9_zJROJgY",
+                "mime": "audio/mpeg",
+                "_source_id": "ecce59f7-2951-58e3-b8bb-769f5ffca35d"
+              }
+            ]
+          },
+          {
+            "id": "d71b5c25-34d8-505c-beec-3752b4b4c122",
+            "name": "Lekcja 09.03 Kod proceduralny i funkcyjny a bezpieczeństwo [19:14]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1fKqkISW0uWpoecGhSRxWK5ODbpBJMfWf",
+            "documents": [
+              {
+                "name": "DBM_09_03_Kod_proceduralny_i_funkcyjny_a_bezpieczenstwo.mp3",
+                "drive_id": "1huKJFukKtP_5UBmr0DnNMvkhSk04U63W",
+                "mime": "audio/mpeg",
+                "_source_id": "75fe07d5-7ccc-5df3-bab7-e72f050530cf"
+              }
+            ]
+          },
+          {
+            "id": "ef44d263-e716-57e6-bb35-3f0a9df879fe",
+            "name": "Lekcja 09.04 Bezpieczeństwo poprzez widoki danych [23:08]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1SPJYsAZvvu2pPATbbmOIVTh9cQTYz_lu",
+            "documents": [
+              {
+                "name": "DBM_09_04_Bezpieczenstwo_poprzez_widoki_danych.mp3",
+                "drive_id": "1uA8uB0rLfzM1D0DMKZ63_TqKhGq-N0Yh",
+                "mime": "audio/mpeg",
+                "_source_id": "ff728182-27b6-5636-a97e-56697a923174"
+              }
+            ]
+          },
+          {
+            "id": "1d49b7c5-4693-5eb3-a72a-c99d388a814c",
+            "name": "Dyskusja o Module 9 [09:48]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1OZA-fskwfL15OyNfD5r-4mA4TAS3oOaV",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "b0b65cba-db48-55fa-8f0a-6064659ee135",
+        "name": "Moduł X – Administracja i konfiguracja serwera",
+        "posts": [
+          {
+            "id": "591824bc-5831-59af-a24b-c476723e8e02",
+            "name": "Lekcja 10.01 Trzy komponenty serwera bazodanowego i ich monitorowanie [54:18]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1GJ_4adWA6FEdH1JezC5qhfb7ApANx9Gp",
+            "documents": [
+              {
+                "name": "DBM_Tydzien_10_Wszystkie_MP3.zip",
+                "drive_id": "15afIxId87NDhlPuxOXqjICZPEYJ3qIlq",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "f1e83904-a887-5005-a09b-9f385a0e7a8a"
+              },
+              {
+                "name": "DBM_10_01_Trzy_komponenty_serwera_bazodanowego_i_ich_monitorowanie.mp3",
+                "drive_id": "1lkyCqrR21f-P_zg0R4wHtywyoMhFcRwP",
+                "mime": "audio/mpeg",
+                "_source_id": "332b2bc0-4f02-5cd1-a027-1feb7273d817"
+              },
+              {
+                "name": "DBM-tydzien_10-transkrypcja.pdf",
+                "drive_id": "1sTwZUoRLRCTsYjSVB_eo9J9U1WH8nv6-",
+                "mime": "application/pdf",
+                "_source_id": "d13a4473-0f89-5c01-8fac-7a31b8bb0d4f"
+              },
+              {
+                "name": "DBM_T10_SQL.zip",
+                "drive_id": "1mmnTPKVmaxY4TbQfiwWLcHE6PhXa3rbo",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "7d6bc9cd-c736-5a04-9aae-89f07a3ea90c"
+              },
+              {
+                "name": "DBM_T10.pdf",
+                "drive_id": "1LTz6Ey-ztuNC9J6MEiickVIUTTEhgJqD",
+                "mime": "application/pdf",
+                "_source_id": "d6da7457-5266-5e76-b168-d93ebf314bc2"
+              }
+            ]
+          },
+          {
+            "id": "67b901bd-a7a2-5f1c-9952-2d8868b93e84",
+            "name": "Lekcja 10.02 Krytyczne ustawienia serwera bazodanowego – Cz.I [42:10]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1h5-_6LdXIjpxA_UAd4943wDQWikcEzq4",
+            "documents": [
+              {
+                "name": "DBM_10_02_Krytyczne_ustawienia_serwera_bazodanowego_-_Cz.I.mp3",
+                "drive_id": "1KMINHtlHCTulEgnUPdoCZTwTqZUc8Tdj",
+                "mime": "audio/mpeg",
+                "_source_id": "843e5d45-cb22-5195-ade1-07237ebdc60a"
+              }
+            ]
+          },
+          {
+            "id": "b648ca00-1467-5cdf-85c4-0b266bc6e097",
+            "name": "Lekcja 10.03 Krytyczne ustawienia serwera bazodanowego – Cz.II [28:17]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "10MjsmHmYtPRxkkIePjFJ-JNNp5HTJx_p",
+            "documents": [
+              {
+                "name": "DBM_10_03_Krytyczne_ustawienia_serwera_bazodanowego_-_Cz.II.mp3",
+                "drive_id": "1ZWKSsEB4fbVnAuOSvAD7rAdnquBf7u0G",
+                "mime": "audio/mpeg",
+                "_source_id": "dc23f891-0e33-5207-94f0-816dd115efa1"
+              }
+            ]
+          },
+          {
+            "id": "c7723663-efd9-5416-bd8c-9af75536114e",
+            "name": "Lekcja 10.04 Zagadnienia administracyjne, na które wpływ ma Twoja baza danych [7:59]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1APlWNrS1eZXGKNdh7cTqToll6QCbSd91",
+            "documents": [
+              {
+                "name": "DBM_10_04_Zagadnienia_administracyjne_na_ktore_wp_yw_ma_Twoja_baza_danych.mp3",
+                "drive_id": "1nptMBY5DWwVqSneuFMjI9bbUO8C9HoIw",
+                "mime": "audio/mpeg",
+                "_source_id": "db7dd8ee-5a51-5063-b73d-432219df2574"
+              }
+            ]
+          },
+          {
+            "id": "fa4d1f97-e91d-538f-ae5a-c6e9b6507bb9",
+            "name": "Dyskusja o Module 10 [09:08]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1U3DsvScLoXNV3qiuJhkUE_vTmdfbGlvb",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "6fe4b03c-b59f-5e9c-bdc2-1493dca60976",
+        "name": "Moduł XI – Rozwiązania chmurowe – Azure, Amazon",
+        "posts": [
+          {
+            "id": "219fe78c-0ce7-58e1-8612-208a8c30c18a",
+            "name": "Lekcja 11.01 Bazy danych w chmurach – dlaczego to jest dobre rozwiązanie? [20:40]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1F1CtUZybjKssgz17fEC5KtWnR4YeKmch",
+            "documents": [
+              {
+                "name": "DBM_Tydzien_11_Wszystkie_MP3.zip",
+                "drive_id": "1wyIPJO9NoT13G6jpdgOJ8Jqy0vRygJuD",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "5655d8bd-da87-52b9-a67c-a4313590e6da"
+              },
+              {
+                "name": "DBM_11_01_Bazy_danych_w_chmurach_dlaczego_to_jest_dobre_rozwiazanie.mp3",
+                "drive_id": "1nI8JPiFwjI3MtvmeR6itaqsbykac-meE",
+                "mime": "audio/mpeg",
+                "_source_id": "4965d272-cd7e-5a08-94a3-5e61185012ea"
+              },
+              {
+                "name": "DBM-tydzien_11-transkrypcja.pdf",
+                "drive_id": "1BZC35QZqa-3c-M1OFiQYdCXEZMDgTHGZ",
+                "mime": "application/pdf",
+                "_source_id": "ffa8c21c-cb44-5927-b873-9ee3b63f2729"
+              },
+              {
+                "name": "DBM_T11_SQL.zip",
+                "drive_id": "1rv28mkv_yvvYa4s8-jDXpPELw9nQWjXs",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "f3169990-91a0-5af8-ac0e-b5658ad4d28f"
+              },
+              {
+                "name": "DBM_T11.pdf",
+                "drive_id": "1VSEGoNTwoCKDoS_knrs-R7ypRFmX42Cb",
+                "mime": "application/pdf",
+                "_source_id": "e6ded832-5174-5107-a86a-7d5bbc01b370"
+              }
+            ]
+          },
+          {
+            "id": "9e377627-61d5-5ed9-ad64-cb9b0eb7549d",
+            "name": "Lekcja 11.02. Chmura Amazon – stack bazodanowy [17:11]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1CMx1dCwb1ZWdSfV57NwjWc4Yf1rF3nYr",
+            "documents": [
+              {
+                "name": "DBM_11_02_Chmura_Amazon_stack_bazodanowy.mp3",
+                "drive_id": "1YGPhi8iRP4XjuWofFIad5swJnxpUbUnl",
+                "mime": "audio/mpeg",
+                "_source_id": "e41dc03c-c39f-57d4-bba4-c9d237465371"
+              }
+            ]
+          },
+          {
+            "id": "805a42ff-483f-5296-af1f-c2311f1f9148",
+            "name": "Lekcja 11.03 Chmura Microsoft – stack bazodanowy [18:28]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1hyw1o4yaJaMBTtXUKCQCkSGfiEJY-pcd",
+            "documents": [
+              {
+                "name": "DBM_11_03_Chmura_Microsoft_-_stack_bazodanowy.mp3",
+                "drive_id": "1AqPsdJWqmRx1IXu6_ynVCleM2IVjaod0",
+                "mime": "audio/mpeg",
+                "_source_id": "09265050-0e7c-560f-81f5-6ada9285a76d"
+              }
+            ]
+          },
+          {
+            "id": "c930c614-9a0b-5190-868a-3ed3b0e60bd2",
+            "name": "Lekcja 11.04 Przykład scenariusza integracyjnego – od źrodła do hurtowni danych [30:56]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1pBRwKsN5_C7egLn5U9c1bxtHF_eBkodR",
+            "documents": [
+              {
+                "name": "DBM_11_04_Przyklad_scenariusza_integracyjnego_od_zrodla_do_hurtowni_danych.mp3",
+                "drive_id": "1vjQ4frwqxY0reK_r5GtPTayLD1Grn3yi",
+                "mime": "audio/mpeg",
+                "_source_id": "cda93e9f-5be0-5fe1-9b55-9b1be74e1bfc"
+              }
+            ]
+          },
+          {
+            "id": "c8401c4b-0017-59ec-9b75-ab75086d0c57",
+            "name": "Dyskusja o Module 11 [11:49]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "14EFI-hbcPDQbcMKU0_x6e0Xt3jOyHFo4",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "16070230-1815-5469-a790-9e7ce782b61d",
+        "name": "Moduł XII – Bazy nierelacyjne, czyli witamy w świecie NoSQL",
+        "posts": [
+          {
+            "id": "9969496f-c7c6-57a7-9623-5b3538041782",
+            "name": "Lekcja 12.01 SQL vs NoSQL – dlaczego „Not Only SQL”? [19:25]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1P26B_pAJaCoJuNLxt4XWNcxzaooC2JOc",
+            "documents": [
+              {
+                "name": "DBM_Tydzien_12_Wszystkie_MP3.zip",
+                "drive_id": "1Mo23ZPSNFn0L_g5hBF4M9dWTVEi4_453",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "fcfd7118-fc88-559a-b5ea-ff783997bd14"
+              },
+              {
+                "name": "DBM_12_01_SQL_vs_NoSQL_-_dlaczego_Not_Only_SQL.mp3",
+                "drive_id": "1KSmQ8QbUXeN_HRHLCu260w8qMVATl3SX",
+                "mime": "audio/mpeg",
+                "_source_id": "6e03613e-b44e-5ae5-a4cf-62c432512e8c"
+              },
+              {
+                "name": "DBM-tydzien_12-transkrypcja.pdf",
+                "drive_id": "1nvVAodT-RTWbJVaS8b8v0xAHeed9Ez0O",
+                "mime": "application/pdf",
+                "_source_id": "6be03502-f640-5be5-adba-2fdbf60bcec7"
+              },
+              {
+                "name": "DBM_T12.pdf",
+                "drive_id": "1D2G_CLq5zpMtkaOSy4sVNAUgEZZKopOm",
+                "mime": "application/pdf",
+                "_source_id": "82ac5891-497d-5831-959f-2fe658e73288"
+              }
+            ]
+          },
+          {
+            "id": "957882ba-8bb0-55fa-880e-b019dc857da5",
+            "name": "Lekcja 12.02 Bazy dokumentowe – programowanie MongoDB oraz Azure CosmosDB [53:33]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1wu2e7gPtMc6_gASAtol-M3JzcLF9lV0c",
+            "documents": [
+              {
+                "name": "DBM_12_02_Bazy_dokumentowe_-_programowanie_MongoDB_oraz_Azure_CosmosDB.mp3",
+                "drive_id": "1XjjJ2wtniUHOY0JqUsGb1RbxkfUitz1v",
+                "mime": "audio/mpeg",
+                "_source_id": "4d1c2c71-c415-57ed-a783-f07d8539d96d"
+              }
+            ]
+          },
+          {
+            "id": "d4e2f545-8c4a-5551-9588-704cdd8add7b",
+            "name": "Lekcja 12.03 Bazy key-value – programowanie Redis, Amazon Dynamo DB [19:03]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "11r2NTi3ZJphqcxnMEjc-JLe3UZUCSkki",
+            "documents": [
+              {
+                "name": "DBM_12_03_Bazy_key-value_-_programowanie_Redis_Amazon_Dynamo_DB.mp3",
+                "drive_id": "1nwRQOJdD9SNK9llwhjWZ2mooQ1CbEiI4",
+                "mime": "audio/mpeg",
+                "_source_id": "e566cf00-f276-5b29-bf95-4eba82cd3c2e"
+              }
+            ]
+          },
+          {
+            "id": "e4c4db68-3839-5b38-928a-a0d97e05aa9c",
+            "name": "Lekcja 12.04 Baza kolumnowa (wide column) – Cassandra, HBase [12:41]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1xSzuKeK8LQ5kmyuipbZp-8pZjw3VoQ2-",
+            "documents": [
+              {
+                "name": "DBM_12_04_Baza_kolumnowa_wide_column_-_Cassandra_HBase.mp3",
+                "drive_id": "1HILy3JxP3vk9ozSkdBhYddJXe0Q127P6",
+                "mime": "audio/mpeg",
+                "_source_id": "454a124e-f308-545b-8b99-c42755d4acaa"
+              }
+            ]
+          },
+          {
+            "id": "a0400d25-7fe2-55e0-926d-0c0de485acd0",
+            "name": "Lekcja 12.05 Baza grafowa – silnik Gremlin [18:45]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "18_JjvjDb_qMO8Mf48yHU41TriBW2Kc8C",
+            "documents": [
+              {
+                "name": "DBM_12_05_Baza_grafowa_-_silnik_Gremlin.mp3",
+                "drive_id": "1oRbgeIp5XL0VsX_5nP1iEJW0S3xGH49W",
+                "mime": "audio/mpeg",
+                "_source_id": "0fabfad9-be1f-5619-b98d-c2cfde35db89"
+              }
+            ]
+          },
+          {
+            "id": "42596ab8-fa30-53f2-842b-91fa6e10d00f",
+            "name": "Lekcja 12.06 Podsumowanie [03:44]",
+            "description": "",
+            "video_drive_id": "1M8bIh_S72EY5tfcEFROeXQUBS2jLJfS-",
+            "documents": [
+              {
+                "name": "DBM_12_06_Podsumowanie.mp3",
+                "drive_id": "1lo17U_R_tDNJYfbAY0lfJOeUuMTSDDqL",
+                "mime": "audio/mpeg",
+                "_source_id": "f37c7507-8604-5dcf-bf90-5b2825083aeb"
+              }
+            ]
+          },
+          {
+            "id": "7a0a1e7a-07dd-5216-89bb-35d58ef30af0",
+            "name": "Dyskusja o Module 12 [12:24]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1cvN02GtIhsKa29bl1RuX_AUZvXhL3gT4",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "cb191f3b-33fd-57a6-8814-705df370747e",
+        "name": "Moduł XIII - Full Text Search",
+        "posts": [
+          {
+            "id": "d6f939cb-b933-526c-a7a1-c28191b40fc8",
+            "name": "Lekcja 13.01 Co to jest wyszukiwanie pełnotekstowe. Jak używać tego mechanizmu w silniku MySQL [33:37]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1N-OaOlw1tfh8dQ7rNaJ8MC1pn5lh3CLG",
+            "documents": [
+              {
+                "name": "DBM_T13_Wszystkie_mp3.zip",
+                "drive_id": "1L8V3pEpKFl8Z0wcGrgqF6Q0v1A9SHSpZ",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "9c0db124-9f23-5e77-b92f-c0d50d0f8e78"
+              },
+              {
+                "name": "DBM_T13_Wszystkie_slajdy.pdf",
+                "drive_id": "1HoGFkxTQwyDXIlQP7QXUtXo0dq3inXNk",
+                "mime": "application/pdf",
+                "_source_id": "7e9b9e95-faee-5d28-a00c-bca237b45cb7"
+              },
+              {
+                "name": "DBM_T13_Transkrypcja.pdf",
+                "drive_id": "1EamaJc0PTtXilaRZUA6kIdF2Tp_lJL6u",
+                "mime": "application/pdf",
+                "_source_id": "30773983-5cf5-592a-82a1-cd1676d72991"
+              },
+              {
+                "name": "DBM_T13_SQL.zip",
+                "drive_id": "14zFRVOXvLNArbJw-iU7ThsD9HDAHmRWG",
+                "mime": "application/x-zip-compressed",
+                "_source_id": "111dab20-a7af-5a58-a933-80af721766ac"
+              },
+              {
+                "name": "DBM_13-1.mp3",
+                "drive_id": "1qZMtHgT3wYBkohjtNbtGnyRmSR5NUWLr",
+                "mime": "audio/mpeg",
+                "_source_id": "753a46d9-6d8b-5192-8af4-8521559183d2"
+              }
+            ]
+          },
+          {
+            "id": "8bafbc3f-4ab8-55b1-9b2c-a46b1ad9ff1b",
+            "name": "Lekcja 13.02 Implementacja wyszukiwania pełnotekstowego w PostgreSQL [23:54]",
+            "description": "<p><span data-sheets-formula-bar-text-style=\"font-size:13px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;\">Adres github: </span><a class=\"waffle-rich-text-link\" data-sheets-formula-bar-text-link=\"https://github.com/dominem/postgresql_fts_polish_dict\" data-sheets-formula-bar-text-style=\"font-size:13px;color:#1155cc;font-weight:normal;text-decoration:underline;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;\">https://github.com/dominem/postgresql_fts_polish_dict</a></p>\n<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "11RYoHp6jdSuSm4HR1t1TcQpmt7yhw8cR",
+            "documents": [
+              {
+                "name": "DBM_13-2.mp3",
+                "drive_id": "1zY1kAU2UnZP_Yob97wCTEQhjDpfEL5dr",
+                "mime": "audio/mpeg",
+                "_source_id": "2a1dc171-756f-5ef9-b591-d450046563f7"
+              }
+            ]
+          },
+          {
+            "id": "df7cd178-a409-5c54-a2b2-4597283ce0c4",
+            "name": "Lekcja 13.03 Implementacja wyszukiwania pełnotekstowego w silniku Oracle [39:41]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1P6o7DzvZQHJt3D4KgK9AGm_nP1ouvZhV",
+            "documents": [
+              {
+                "name": "DBM_13-3.mp3",
+                "drive_id": "1IR0TfbN3tmjWCRhOT23uDl0n-5U-UjU8",
+                "mime": "audio/mpeg",
+                "_source_id": "f00e47bc-4aa3-5468-a8c6-4fb0cbad420f"
+              }
+            ]
+          },
+          {
+            "id": "be3d38ea-25f6-52f4-a7f9-6e7ecfebc407",
+            "name": "Lekcja 13.04 Implementacja wyszukiwania pełnotekstowego w SQL Server [25:19]",
+            "description": "<hr/>\n<ul>\n<li><span style=\"color: #34495e;\">Wszystkie slajdy do tego modułu są do pobrania pod pierwszą lekcją.</span></li>\n<li><span style=\"color: #34495e;\">W plikach audio (mp3) znajdziesz odwołania do slajdów. Jeśli słuchasz materiałów DBM wykonując w tym czasie inne czynności, pamiętaj, że zerknięcie na slajdy może być niezbędne. Główną formą przekazu jest video, a pozostałe materiały służą jako świetny sposób na przypomnienie i utrwalenie sobie wiedzy.</span></li>\n<li><span style=\"color: #34495e;\">DBM możesz odpalić również w aplikacji mobilnej. Wystarczy, że pobierzesz aplikację Kajabi, zalogujesz się i voilà :) Aplikację znajdziesz pod linkami: </span>\n<ul>\n<li style=\"text-align: left;\">\n<div><a href=\"https://play.google.com/store/apps/details?id=kajabi.kajabiapp&amp;hl=pl&amp;gl=US\">Aplikacja Kajabi do pobrania na Androida</a></div>\n</li>\n<li>\n<div><a href=\"https://apps.apple.com/us/app/kajabi/id148564631\">Aplikacja Kajabi do pobrania na iPhone`a</a></div>\n</li>\n</ul>\n</li>\n</ul>",
+            "video_drive_id": "1vz5iCAuZrBsfL9PYgZGgQvepzchiOvPh",
+            "documents": [
+              {
+                "name": "DBM_13-4.mp3",
+                "drive_id": "10b0Pasn6CpuixbsItAtCcXfQg_TIAMuu",
+                "mime": "audio/mpeg",
+                "_source_id": "43f17d63-7523-5760-ad70-20ad4d4de469"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "e203bde0-0dc7-5355-9ad0-a1ab6fe8cc5f",
+        "name": "Tematy Dodatkowe (spoza agendy)",
+        "posts": [
+          {
+            "id": "a129c1c2-a177-5cfb-8c57-34fb8469edd4",
+            "name": "SqlServer Data Tools (SSDT) [1:15:52]",
+            "description": "",
+            "video_drive_id": "1zOjy2JcwCLxyl0c8t6FJjfThQyJJcxZy",
+            "documents": []
+          },
+          {
+            "id": "2a0fa166-aed4-5ab1-8ec0-0c70371c0df5",
+            "name": "Stronicowanie / Paging [25:43]",
+            "description": "",
+            "video_drive_id": "1QhOGDTpKhcV0-L53uDqDS9Jl-LA99yMw",
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "9ee90862-58ce-5716-abf9-73e16c6d0071",
+        "name": "Inne Bonusy",
+        "posts": [
+          {
+            "id": "80d8a74f-208a-5740-b2dc-11c570099d6f",
+            "name": "Agenda DBM",
+            "description": "<p><img src=\"https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/products/490725/images/EzA1Wk9QbSTyuIaRkToS_dbmaster-agenda-scrn-768x546.png\"/></p>\n<p> </p>\n<p>Agendę DBMaster znajdziesz pod adresem <a href=\"https://dbmaster.pl/agenda\">https://dbmaster.pl/agenda</a>.</p>\n<p> </p>",
+            "video_drive_id": null,
+            "documents": []
+          },
+          {
+            "id": "66a07750-8f9f-52bf-b645-183383e13113",
+            "name": "LIVE: Repetytorium programowania bazodanowego",
+            "description": "",
+            "video_drive_id": "1lZY1KxLR9rOLyHpCNLnRSGfdyKIiRhtP",
+            "documents": []
+          },
+          {
+            "id": "956fe3a8-8547-5947-8471-3c702a42af63",
+            "name": "Live: Praktycznie o indeksach",
+            "description": "",
+            "video_drive_id": "1QlvWBXyLA7T-LTfpjCiu003WacGbawsJ",
+            "documents": []
+          },
+          {
+            "id": "4ca7b331-94d8-5344-b639-84430a3ddf2c",
+            "name": "LIVE: Tajemnice ACID: Jak naprawdę działają transakcje?",
+            "description": "",
+            "video_drive_id": "1m8kPBHa2gqBuItS3I_UipqChbe9aqVEz",
+            "documents": []
+          },
+          {
+            "id": "f2b3d13f-1662-534e-b570-1ea3049a5918",
+            "name": "LIVE: Indeksy kolumnowe: co, jak i kiedy?",
+            "description": "",
+            "video_drive_id": "1V-q-D2K8LouoSSWH5w3afgH3wux8j7Gx",
+            "documents": []
+          },
+          {
+            "id": "ffec365b-55f8-518d-a90d-5baa37132118",
+            "name": "LIVE: Jak korzystać z profilera i planów zapytań?",
+            "description": "",
+            "video_drive_id": "17fj92hZTCugWynYOz6MKspQie8TLhTuN",
+            "documents": []
+          },
+          {
+            "id": "6946798f-8802-5eff-958f-f4772bfcd384",
+            "name": "DevTalk #111: O Relacyjnych I Nierelacyjnych Bazach Danych",
+            "description": "",
+            "video_drive_id": "1VdB-6J6CyyCYVam6_NUGz2Vz7GnVSXvh",
+            "documents": []
+          },
+          {
+            "id": "978918a9-9048-551c-afc5-d4c309150d29",
+            "name": "DevTalk #29: O Wydajności Baz Danych",
+            "description": "",
+            "video_drive_id": "1HYP77gnt82ew4hLYAcsv54Th6eCLb-JY",
+            "documents": []
+          }
+        ]
+      }
+    ],
+    "_publisher_source": "https://edu.devstyle.pl:aa1b7701-b1c2-5f19-8363-570f53f45d03"
   }
 ]
