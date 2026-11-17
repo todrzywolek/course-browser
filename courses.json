@@ -26796,5 +26796,107 @@
       }
     ],
     "_publisher_source": "https://edu.devstyle.pl:aa1b7701-b1c2-5f19-8363-570f53f45d03"
+  },
+  {
+    "id": "13262a9b-3d0e-526e-91ce-3555f1175054",
+    "title": "AI na Prodzie",
+    "categories": [
+      {
+        "id": "lessons",
+        "name": "Lekcje",
+        "posts": [
+          {
+            "id": "ddc139f5-b082-418a-8daa-6466cc46abac",
+            "name": "Dziękujemy za zaufanie!",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"17ced695-b423-45ad-8234-41d4911bfc86\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"17ced695-b423-45ad-8234-41d4911bfc86\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Witaj!</p></div></div></div><div class=\"bn-block-outer\" data-id=\"7fa6af85-8138-4fbd-af0e-6d03a6caafa2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"7fa6af85-8138-4fbd-af0e-6d03a6caafa2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><span class=\"ProseMirror-trailingBreak\" style=\"display: inline-block;\"></span></p></div></div></div><div class=\"bn-block-outer\" data-id=\"c8c434e7-2b79-449b-bbf2-d0315daf87a9\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"c8c434e7-2b79-449b-bbf2-d0315daf87a9\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Bardzo dziękujemy za zaufanie, jakim nas obdarzasz, dołączając do <strong>AI na Prodzie</strong> już na etapie przedsprzedaży!</p></div></div></div><div class=\"bn-block-outer\" data-id=\"22b62c7f-44cc-4549-9340-5a419e81233f\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"22b62c7f-44cc-4549-9340-5a419e81233f\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Teraz intensywnie przygotowujemy materiały, żeby dostarczyć Ci konkret najwyższej jakości.</p></div></div></div><div class=\"bn-block-outer\" data-id=\"82fa45e7-e239-46d2-b1e3-7ae984a8257b\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"82fa45e7-e239-46d2-b1e3-7ae984a8257b\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><strong>Startujemy z docelowym programem 19 listopada 2026.</strong></p></div></div></div><div class=\"bn-block-outer\" data-id=\"1baf5b92-6fa6-426f-9647-85a9c0c52ee3\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"1baf5b92-6fa6-426f-9647-85a9c0c52ee3\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><span class=\"ProseMirror-trailingBreak\" style=\"display: inline-block;\"></span></p></div></div></div><div class=\"bn-block-outer\" data-id=\"29daea1c-ec44-48e1-b5d5-183c8d3b632b\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"29daea1c-ec44-48e1-b5d5-183c8d3b632b\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Przed nami świetna przygoda!</p></div></div></div><div class=\"bn-block-outer\" data-id=\"1cfdecf7-866a-4eaa-82ca-cd7d68073be2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"1cfdecf7-866a-4eaa-82ca-cd7d68073be2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><span class=\"ProseMirror-trailingBreak\" style=\"display: inline-block;\"></span></p></div></div></div><div class=\"bn-block-outer\" data-id=\"c1f741a4-449e-4f38-8284-16092fb6c394\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"c1f741a4-449e-4f38-8284-16092fb6c394\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Wszystkiego dobrego, pozostajemy w kontakcie,</p></div></div></div><div class=\"bn-block-outer\" data-id=\"43618633-7946-4017-a46d-5dcc5e84b9f0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"43618633-7946-4017-a46d-5dcc5e84b9f0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><strong>Kuba Kubryński</strong> &amp; Maciej Aniserowicz z ekipą <strong>devstyle</strong></p></div></div></div></div>",
+            "video_drive_id": null,
+            "documents": []
+          }
+        ]
+      },
+      {
+        "id": "93eb02be-daac-4fd5-b867-2176bc98bb8e",
+        "name": "M00 - Wprowadzenie",
+        "posts": [
+          {
+            "id": "273a1c8e-136b-4dc9-b25c-41bc3f522a5e",
+            "name": "L01: Zanim zaczniemy",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"e31bfb8a3bfcea0a-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"e31bfb8a3bfcea0a-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Dowiesz się, czym jest retrofit i na czym polega nasz masterclass. Poznasz też plan na najbliższe 5 tygodni i dowiesz się, co przygotować, żeby bez problemu wystartować!</p></div></div></div><div class=\"bn-block-outer\" data-id=\"e31bfb8a3bfcea0a-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"e31bfb8a3bfcea0a-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"heading\" data-level=\"4\"><h4 class=\"bn-inline-content\">Materiały do lekcji:</h4></div></div></div><div class=\"bn-block-outer\" data-id=\"e31bfb8a3bfcea0a-2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"e31bfb8a3bfcea0a-2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Repozytorium (aplikacja Retrofit, gałęzie week-1 do week-5): <a href=\"https://ainaprodzie.pl/repo\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">ainaprodzie.pl/repo</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"e31bfb8a3bfcea0a-3\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"e31bfb8a3bfcea0a-3\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Discord kursu (pytania między Q&amp;A, dyskusje, pomoc przy zadaniach): <a href=\"https://ainaprodzie.pl/community\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">ainaprodzie.pl/community</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"e31bfb8a3bfcea0a-4\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"e31bfb8a3bfcea0a-4\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Narzędzia przed startem: JDK 25, Docker z Compose, Node 24, git</p></div></div></div><div class=\"bn-block-outer\" data-id=\"e31bfb8a3bfcea0a-5\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"e31bfb8a3bfcea0a-5\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Uruchomienie aplikacji na gałęzi master: ./mvnw spring-boot:run</p></div></div></div><div class=\"bn-block-outer\" data-id=\"e31bfb8a3bfcea0a-6\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"e31bfb8a3bfcea0a-6\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Klucz API Gemini (darmowy limit): <a href=\"https://aistudio.google.com\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">aistudio.google.com</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"e31bfb8a3bfcea0a-7\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"e31bfb8a3bfcea0a-7\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Klucz API Anthropic: <a href=\"https://platform.claude.com\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">platform.claude.com</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"e31bfb8a3bfcea0a-8\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"e31bfb8a3bfcea0a-8\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Opcjonalnie: Ollama do modeli lokalnych</p></div></div></div></div>",
+            "video_drive_id": "1WPQkoMLasDVY2SMYx2jJFsqIV187Xvnk",
+            "documents": [
+              {
+                "name": "ANP-M00L01.mp3",
+                "drive_id": "1SILBLTSyhpDUnM76ax-G823PEO732grr",
+                "mime": "audio/mpeg",
+                "_source_id": "69b9fbc4-ba0a-4565-982d-c16b78272ef8"
+              },
+              {
+                "name": "ANP-M00L01_transkrypcja.pdf",
+                "drive_id": "13p0gpjSBeMH_s7hen0WR5wEE9HDFA3Tk",
+                "mime": "application/pdf",
+                "_source_id": "02e3c7c6-2d2c-40a8-beaf-7e34501183cc"
+              },
+              {
+                "name": "ANP-M00L01_prezentacja.pdf",
+                "drive_id": "1y8xa5uFO6wVfN_WXpXwdF5TJ3Z8_8pNM",
+                "mime": "application/pdf",
+                "_source_id": "d1b596c6-e2d1-483f-8193-9540a4f9e05e"
+              },
+              {
+                "name": "AI_na_Prodzie_M00_transkrypcja.md",
+                "drive_id": "1Xi3G-au9XiMHsk0M5B1G30PlayploZpa",
+                "mime": "text/markdown",
+                "_source_id": "528ec014-aa84-4835-8390-9bb4dbbc2119"
+              },
+              {
+                "name": "ANP-M00_wszystkie_transkrypcje.zip",
+                "drive_id": "1BW46xau_3vRJdBwnKoWautSqzxaWQfvA",
+                "mime": "application/zip",
+                "_source_id": "00f6abbf-b7c3-4a06-9ba4-b3cc2e7cbac2"
+              },
+              {
+                "name": "ANP-M00_wszystkie_prezentacje.zip",
+                "drive_id": "1t53rO9_jdTMUxp4G0R0Lpnup8xAs4Y12",
+                "mime": "application/zip",
+                "_source_id": "f7b66cd5-69d2-4e20-815a-74e55f19514a"
+              },
+              {
+                "name": "ANP-M00_wszystkie_MP3.zip",
+                "drive_id": "1-xhChdtdCNdxee7tE1HYjK3P_fu6MVOZ",
+                "mime": "application/zip",
+                "_source_id": "508e69ce-1e57-4415-b06e-ed91b8349b1f"
+              }
+            ]
+          },
+          {
+            "id": "2fc523dc-4fc8-47b1-96e0-2e87b4c07a55",
+            "name": "L02: Jak działa LLM",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"40426c648a1f7fb9-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"40426c648a1f7fb9-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Opcjonalna lekcja, jeśli chcesz odświeżyć lub uporządkować podstawy. Dowiesz się, jak LLM-y generują odpowiedzi i co warto wiedzieć, gdy korzystasz z nich w swojej aplikacji. Będzie też o tokenach, oknie kontekstowym, halucynacjach, wywoływaniu narzędzi, harnessie, Structured Outputs i effort (z naciskiem na koszty i bezpieczeństwo).</p></div></div></div><div class=\"bn-block-outer\" data-id=\"40426c648a1f7fb9-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"40426c648a1f7fb9-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"heading\" data-level=\"4\"><h4 class=\"bn-inline-content\">Materiały do lekcji:</h4></div></div></div><div class=\"bn-block-outer\" data-id=\"40426c648a1f7fb9-2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"40426c648a1f7fb9-2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Repozytorium: <a href=\"https://ainaprodzie.pl/repo\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">ainaprodzie.pl/repo</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"40426c648a1f7fb9-3\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"40426c648a1f7fb9-3\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Tokenizer OpenAI (podział tekstu na tokeny, przykład z lekcji): <a href=\"https://platform.openai.com/tokenizer\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">platform.openai.com/tokenizer</a></p></div></div></div></div>",
+            "video_drive_id": "1ejLFGFqMl7NBroFjf3rbsPG7R320VRLr",
+            "documents": [
+              {
+                "name": "ANP-M00L02.mp3",
+                "drive_id": "10XGmzkw6RT8xJD3rZGLIdwO9wgEBCEf5",
+                "mime": "audio/mpeg",
+                "_source_id": "bd40695b-bbe2-4cc5-8cea-3a151124f617"
+              },
+              {
+                "name": "ANP-M00L02_transkrypcja.pdf",
+                "drive_id": "10RFRLEJeRnqnoMOA8-yj2HK4WAAhtG2S",
+                "mime": "application/pdf",
+                "_source_id": "2d1ad8f5-de04-41b5-a516-a3741494e1ae"
+              },
+              {
+                "name": "ANP-M00L02_prezentacja.pdf",
+                "drive_id": "1D0Kwh8xPuK77vu-0iGl49LuV1M1NJxMv",
+                "mime": "application/pdf",
+                "_source_id": "c0636312-ac41-47f2-8332-694beb1eef6a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "_publisher_source": "https://edu2.devstyle.pl:f649871f-c184-4061-94eb-f8d95967c180"
   }
 ]
