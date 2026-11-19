@@ -26810,7 +26810,8 @@
             "name": "Dziękujemy za zaufanie!",
             "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"17ced695-b423-45ad-8234-41d4911bfc86\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"17ced695-b423-45ad-8234-41d4911bfc86\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Witaj!</p></div></div></div><div class=\"bn-block-outer\" data-id=\"7fa6af85-8138-4fbd-af0e-6d03a6caafa2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"7fa6af85-8138-4fbd-af0e-6d03a6caafa2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><span class=\"ProseMirror-trailingBreak\" style=\"display: inline-block;\"></span></p></div></div></div><div class=\"bn-block-outer\" data-id=\"c8c434e7-2b79-449b-bbf2-d0315daf87a9\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"c8c434e7-2b79-449b-bbf2-d0315daf87a9\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Bardzo dziękujemy za zaufanie, jakim nas obdarzasz, dołączając do <strong>AI na Prodzie</strong> już na etapie przedsprzedaży!</p></div></div></div><div class=\"bn-block-outer\" data-id=\"22b62c7f-44cc-4549-9340-5a419e81233f\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"22b62c7f-44cc-4549-9340-5a419e81233f\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Teraz intensywnie przygotowujemy materiały, żeby dostarczyć Ci konkret najwyższej jakości.</p></div></div></div><div class=\"bn-block-outer\" data-id=\"82fa45e7-e239-46d2-b1e3-7ae984a8257b\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"82fa45e7-e239-46d2-b1e3-7ae984a8257b\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><strong>Startujemy z docelowym programem 19 listopada 2026.</strong></p></div></div></div><div class=\"bn-block-outer\" data-id=\"1baf5b92-6fa6-426f-9647-85a9c0c52ee3\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"1baf5b92-6fa6-426f-9647-85a9c0c52ee3\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><span class=\"ProseMirror-trailingBreak\" style=\"display: inline-block;\"></span></p></div></div></div><div class=\"bn-block-outer\" data-id=\"29daea1c-ec44-48e1-b5d5-183c8d3b632b\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"29daea1c-ec44-48e1-b5d5-183c8d3b632b\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Przed nami świetna przygoda!</p></div></div></div><div class=\"bn-block-outer\" data-id=\"1cfdecf7-866a-4eaa-82ca-cd7d68073be2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"1cfdecf7-866a-4eaa-82ca-cd7d68073be2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><span class=\"ProseMirror-trailingBreak\" style=\"display: inline-block;\"></span></p></div></div></div><div class=\"bn-block-outer\" data-id=\"c1f741a4-449e-4f38-8284-16092fb6c394\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"c1f741a4-449e-4f38-8284-16092fb6c394\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Wszystkiego dobrego, pozostajemy w kontakcie,</p></div></div></div><div class=\"bn-block-outer\" data-id=\"43618633-7946-4017-a46d-5dcc5e84b9f0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"43618633-7946-4017-a46d-5dcc5e84b9f0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><strong>Kuba Kubryński</strong> &amp; Maciej Aniserowicz z ekipą <strong>devstyle</strong></p></div></div></div></div>",
             "video_drive_id": null,
-            "documents": []
+            "documents": [],
+            "_publisher_id": "ddc139f5-b082-418a-8daa-6466cc46abac"
           }
         ]
       },
@@ -26866,7 +26867,8 @@
                 "mime": "application/zip",
                 "_source_id": "508e69ce-1e57-4415-b06e-ed91b8349b1f"
               }
-            ]
+            ],
+            "_publisher_id": "273a1c8e-136b-4dc9-b25c-41bc3f522a5e"
           },
           {
             "id": "2fc523dc-4fc8-47b1-96e0-2e87b4c07a55",
@@ -26892,7 +26894,397 @@
                 "mime": "application/pdf",
                 "_source_id": "c0636312-ac41-47f2-8332-694beb1eef6a"
               }
+            ],
+            "_publisher_id": "2fc523dc-4fc8-47b1-96e0-2e87b4c07a55"
+          }
+        ]
+      },
+      {
+        "id": "3197689f-e2b4-4d62-9be7-005367ae1a75",
+        "name": "M01 - Aplikacja i środowisko pracy z AI",
+        "posts": [
+          {
+            "id": "b366726f-d740-41d8-bc6d-a5fc2daa13ec",
+            "name": "L01: Retrofit od środka",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"207079142d3bc084-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"207079142d3bc084-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Poznaj Retrofit - aplikację, którą przez najbliższe tygodnie będziemy rozbudowywać o AI. Zobaczysz, jak działa od środka i dlaczego kilka decyzji architektonicznych pozwoli nam dodawać nowe funkcje bez obchodzenia istniejących uprawnień i reguł biznesowych.</p></div></div></div><div class=\"bn-block-outer\" data-id=\"2cd7a2d3-4a55-4f22-9dcd-8f433b547a69\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"2cd7a2d3-4a55-4f22-9dcd-8f433b547a69\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><span class=\"ProseMirror-trailingBreak\" style=\"display: inline-block;\"></span></p></div></div></div><div class=\"bn-block-outer\" data-id=\"1ed36196-f921-489a-baf7-f80746d84112\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"1ed36196-f921-489a-baf7-f80746d84112\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><strong>Do zrobienia:</strong> Uruchom Retrofit lokalnie i sprawdź, jak wygląda to samo zgłoszenie z perspektywy klienta, supportu oraz użytkownika z innej organizacji.</p></div></div></div><div class=\"bn-block-outer\" data-id=\"29dfc7d7-8d59-4f75-a109-b95c1958b9b9\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"29dfc7d7-8d59-4f75-a109-b95c1958b9b9\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><span class=\"ProseMirror-trailingBreak\" style=\"display: inline-block;\"></span></p></div></div></div><div class=\"bn-block-outer\" data-id=\"207079142d3bc084-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"207079142d3bc084-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"heading\" data-level=\"4\"><h4 class=\"bn-inline-content\">Materiały do lekcji:</h4></div></div></div><div class=\"bn-block-outer\" data-id=\"207079142d3bc084-2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"207079142d3bc084-2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Repozytorium (kod aplikacji Retrofit, decyzje w docs/adr): <a href=\"https://ainaprodzie.pl/repo\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">ainaprodzie.pl/repo</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"207079142d3bc084-3\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"207079142d3bc084-3\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Uruchomienie aplikacji (localhost:8080, kontener PostgreSQL startuje automatycznie): ./mvnw spring-boot:run</p></div></div></div><div class=\"bn-block-outer\" data-id=\"207079142d3bc084-4\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"207079142d3bc084-4\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Konta testowe (hasło każdego konta: password): <a href=\"mailto:user@example.com\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">user@example.com</a>, <a href=\"mailto:support@example.com\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">support@example.com</a>, <a href=\"mailto:greta.lind@globex.example\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">greta.lind@globex.example</a>, <a href=\"mailto:irene.walsh@initech.example\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">irene.walsh@initech.example</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"207079142d3bc084-5\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"207079142d3bc084-5\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Czyszczenie kontenerów w razie problemów: docker compose down -v --remove-orphans</p></div></div></div><div class=\"bn-block-outer\" data-id=\"207079142d3bc084-6\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"207079142d3bc084-6\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Repo Retrofit jako wzorzec dla agenta (Claude Code, Cursor, Codex) w waszym repo: /add-dir ../retrofit</p></div></div></div><div class=\"bn-block-outer\" data-id=\"207079142d3bc084-7\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"207079142d3bc084-7\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">LiteLLM (bramka LLM, przez którą evale wołają prawdziwy model)</p></div></div></div></div>",
+            "video_drive_id": "1YoL0On6uj3ozjZVi6LaiqjluakYyW2Tc",
+            "documents": [
+              {
+                "name": "ANP-M01L01.mp3",
+                "drive_id": "1tsgngsMQR7DN7sddkxYFb5P2oggVvCqL",
+                "mime": "audio/mpeg",
+                "_source_id": "b32bbe2b-86b9-4e5d-9e30-4aba75617ce6"
+              },
+              {
+                "name": "ANP-M01L01_prezentacja.pdf",
+                "drive_id": "17TPa2OFouKuZq-f2I-8f65u8wegZGBgI",
+                "mime": "application/pdf",
+                "_source_id": "e90c7b43-ab5c-4ee7-9698-75432b281525"
+              },
+              {
+                "name": "ANP-M01L01_transkrypcja.pdf",
+                "drive_id": "10P4TnDluWM9oh7iRGuURMhG1pOra9aju",
+                "mime": "application/pdf",
+                "_source_id": "68b1f526-4bda-4472-86fa-73c61aaee2b4"
+              },
+              {
+                "name": "AI_na_Prodzie_M01_transkrypcja.md",
+                "drive_id": "1OjfeqbyPE4Y9SjL9sFXEwH-nl-g4Pxvo",
+                "mime": "text/markdown",
+                "_source_id": "d3a5599d-e6e6-4f94-967b-9f39a20d9cc5"
+              },
+              {
+                "name": "ANP-M01_wszystkie_transkrypcje.zip",
+                "drive_id": "1IUd03hjLN70SzCxLWdHQinqIUfTAlAK_",
+                "mime": "application/zip",
+                "_source_id": "8bd3d5f8-aa94-452a-8644-1ce3f345d069"
+              },
+              {
+                "name": "ANP-M01_wszystkie_prezentacje.zip",
+                "drive_id": "1TMK6JNM1REc46nqPiwjy-DidLLUmjzHA",
+                "mime": "application/zip",
+                "_source_id": "a6c86c1c-f4e6-4f2d-b183-0ca80f403cf4"
+              },
+              {
+                "name": "ANP-M01_wszystkie_MP3.zip",
+                "drive_id": "1d7FlrvMxjqunHKixhs7WKJ6yqs2AE_mC",
+                "mime": "application/zip",
+                "_source_id": "8b1fd273-5444-4f58-a267-3416899a1e20"
+              }
             ]
+          },
+          {
+            "id": "6e0ad4d9-a7c2-4e43-b99d-51e725cc8117",
+            "name": "L02: Dobór modelu",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"457937962ef7c4f7-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"457937962ef7c4f7-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Jak wybrać model, żeby nie stracić tygodni na testowanie rozwiązań, których i tak nie będzie można wdrożyć? Poznasz podejście, w którym najpierw weryfikujesz ograniczenia prawne, wymagania dotyczące danych i możliwości dostawców, a dopiero później sprawdzasz jakość modeli na konkretnych zadaniach.</p></div></div></div><div class=\"bn-block-outer\" data-id=\"0a42e155-a090-4d91-9a25-47c03f2cc169\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"0a42e155-a090-4d91-9a25-47c03f2cc169\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><span class=\"ProseMirror-trailingBreak\" style=\"display: inline-block;\"></span></p></div></div></div><div class=\"bn-block-outer\" data-id=\"457937962ef7c4f7-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"457937962ef7c4f7-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"heading\" data-level=\"4\"><h4 class=\"bn-inline-content\">Materiały do lekcji:</h4></div></div></div><div class=\"bn-block-outer\" data-id=\"457937962ef7c4f7-2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"457937962ef7c4f7-2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\"><a href=\"https://claude.com/regional-compliance\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Anthropic - regiony przetwarzania danych</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"457937962ef7c4f7-3\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"457937962ef7c4f7-3\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\"><a href=\"https://docs.cloud.google.com/gemini-enterprise-agent-platform/resources/data-residency\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Google - data residency w Gemini Enterprise Agent Platform</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"457937962ef7c4f7-4\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"457937962ef7c4f7-4\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\"><a href=\"https://developers.openai.com/api/docs/guides/data-residency\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">OpenAI - data residency w API</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"457937962ef7c4f7-7\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"457937962ef7c4f7-7\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\"><a href=\"https://arena.ai/leaderboard\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">LMArena - ranking modeli na podstawie ocen użytkowników</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"457937962ef7c4f7-10\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"457937962ef7c4f7-10\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\"><a href=\"https://artificialanalysis.ai/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Artificial Analysis - porównanie wydajności, szybkości i kosztów modeli</a></p></div></div></div></div>",
+            "video_drive_id": "1aLXdMfJtQYZljssJ2tV9zw-n4NpEVZAt",
+            "documents": [
+              {
+                "name": "ANP-M01L02.mp3",
+                "drive_id": "1Jtb4w0czTWDqTJpSBD2W38OgCS5CZ6VF",
+                "mime": "audio/mpeg",
+                "_source_id": "7cd77b67-1082-4adb-ae2c-854e5d4237d7"
+              },
+              {
+                "name": "ANP-M01L02_prezentacja.pdf",
+                "drive_id": "1BgrChJ9UaxiAhdmOmOywkel1GTtL5YzV",
+                "mime": "application/pdf",
+                "_source_id": "e74a5ea1-c70a-49a1-9148-ea6c8fd28a52"
+              },
+              {
+                "name": "ANP-M01L02_transkrypcja.pdf",
+                "drive_id": "1fveAiBeLeOzMHfSQycQSKJZQMebIykf5",
+                "mime": "application/pdf",
+                "_source_id": "f054c865-8c18-4986-b8ea-de4f1a1ddc7c"
+              }
+            ]
+          },
+          {
+            "id": "dedad572-7559-450e-9ad5-f064c5edce67",
+            "name": "L03: Stos AI: LiteLLM",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"35b3a791d6d49bb9-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"35b3a791d6d49bb9-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Co się stanie, gdy dostawca modelu przestanie odpowiadać albo trzeba będzie zmienić model na inny? Zobaczysz, jak LiteLLM pozwala zarządzać dostawcami i modelami bez konieczności wprowadzania zmian w kodzie aplikacji, a przy okazji kontrolować dostęp, limity i koszty.</p></div></div></div><div class=\"bn-block-outer\" data-id=\"4d4041e1-b16d-40af-90fe-814b15339c08\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"4d4041e1-b16d-40af-90fe-814b15339c08\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><span class=\"ProseMirror-trailingBreak\" style=\"display: inline-block;\"></span></p></div></div></div><div class=\"bn-block-outer\" data-id=\"35b3a791d6d49bb9-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"35b3a791d6d49bb9-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"heading\" data-level=\"4\"><h4 class=\"bn-inline-content\">Materiały do lekcji:</h4></div></div></div><div class=\"bn-block-outer\" data-id=\"35b3a791d6d49bb9-2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"35b3a791d6d49bb9-2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Repozytorium: <a href=\"https://ainaprodzie.pl/repo\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">ainaprodzie.pl/repo</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"35b3a791d6d49bb9-3\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"35b3a791d6d49bb9-3\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Dokumentacja <a href=\"https://docs.litellm.ai/docs/proxy/quick_start\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">LiteLLM Proxy</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"35b3a791d6d49bb9-4\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"35b3a791d6d49bb9-4\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Panel LiteLLM lokalnie (logi, modele, routing i statystyki wykorzystania): <a href=\"http://localhost:4000/ui\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">localhost:4000/ui</a></p></div></div></div></div>",
+            "video_drive_id": "1X82EtR_GzUBU4fMuZupqW20sh-8U3Mtd",
+            "documents": [
+              {
+                "name": "ANP-M01L03.mp3",
+                "drive_id": "1OE4TIRFOd-fAaOEahtAmJcGDM7_qrmIm",
+                "mime": "audio/mpeg",
+                "_source_id": "ecda8b39-b1fa-40c7-8bad-c9fd44c7bd4e"
+              },
+              {
+                "name": "ANP-M01L03_prezentacja.pdf",
+                "drive_id": "1oO0qE78FQq40yCY2AyxSejcTtsMAke-p",
+                "mime": "application/pdf",
+                "_source_id": "6c3c8a6b-ae76-4ad9-909e-086223c07c3b"
+              },
+              {
+                "name": "ANP-M01L03_transkrypcja.pdf",
+                "drive_id": "1qGWi271aSHbxQrLU7QW09sBAbaQVCorE",
+                "mime": "application/pdf",
+                "_source_id": "d51f75db-da03-455b-b623-52f5822b5126"
+              }
+            ]
+          },
+          {
+            "id": "2cd9cd0c-8038-4767-b9b0-57ac6011503e",
+            "name": "L04: Phoenix i Guardrails",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"ab65422093750dc9-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"ab65422093750dc9-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Co zrobić, gdy AI udzieli błędnej odpowiedzi? Jak sprawdzić, co właściwie poszło nie tak, i dopilnować, żeby wrażliwe dane nie trafiały do modelu? Przyjrzymy się tracingowi w Phoenixie i zabezpieczeniom Presidio, które pomagają zapanować nad tym, co dzieje się między aplikacją a LLM-em.</p></div></div></div><div class=\"bn-block-outer\" data-id=\"ab65422093750dc9-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"ab65422093750dc9-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"> </p></div></div></div><div class=\"bn-block-outer\" data-id=\"ab65422093750dc9-2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"ab65422093750dc9-2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><strong>Do zrobienia:</strong> Poeksperymentuj z ustawieniami tracingu i spanów. Sprawdź, jak zmieniają się dane w Phoenixie, kiedy pojawia się podwójne liczenie kosztów i jak działają skonfigurowane guardraile.</p></div></div></div><div class=\"bn-block-outer\" data-id=\"ab65422093750dc9-3\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"ab65422093750dc9-3\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"> </p></div></div></div><div class=\"bn-block-outer\" data-id=\"ab65422093750dc9-4\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"ab65422093750dc9-4\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"heading\" data-level=\"4\"><h4 class=\"bn-inline-content\">Materiały do lekcji:</h4></div></div></div><div class=\"bn-block-outer\" data-id=\"ab65422093750dc9-5\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"ab65422093750dc9-5\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Repozytorium: <a href=\"https://ainaprodzie.pl/repo\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">ainaprodzie.pl/repo</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"ab65422093750dc9-6\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"ab65422093750dc9-6\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Phoenix lokalnie: <a href=\"http://localhost:6006\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">localhost:6006</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"ab65422093750dc9-7\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"ab65422093750dc9-7\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Panel LiteLLM lokalnie (logi, Guardrails, Guardrail Garden): <a href=\"http://localhost:4000/ui\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">localhost:4000/ui</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"ab65422093750dc9-8\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"ab65422093750dc9-8\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Dokumentacja <a href=\"https://arize.com/docs/phoenix\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Arize Phoenix</a> (tracing i observability)</p></div></div></div><div class=\"bn-block-outer\" data-id=\"ab65422093750dc9-9\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"ab65422093750dc9-9\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Dokumentacja <a href=\"https://microsoft.github.io/presidio/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Microsoft Presidio</a> (wykrywanie i anonimizacja danych wrażliwych)</p></div></div></div></div>",
+            "video_drive_id": "1V8f8rrdz5fcsT8zx3qirV-3rEknI-1_K",
+            "documents": [
+              {
+                "name": "ANP-M01L04.mp3",
+                "drive_id": "1eRgmI8UPiZie_x22oyTw2xrTGvs5JnSs",
+                "mime": "audio/mpeg",
+                "_source_id": "65104c49-563c-42ad-896f-7ccc786512f9"
+              },
+              {
+                "name": "ANP-M01L04_prezentacja.pdf",
+                "drive_id": "11tn2QvsmTVW9NUtkcz65R2rlX-vD7A61",
+                "mime": "application/pdf",
+                "_source_id": "7bdbc7fa-d7f7-45a4-ac63-4631b750b560"
+              },
+              {
+                "name": "ANP-M01L04_transkrypcja.pdf",
+                "drive_id": "1njNWgZ-CUYdH0kwHU9dzqOuUj8Gg4GnV",
+                "mime": "application/pdf",
+                "_source_id": "ec91ffd5-b310-4c4c-b13c-c44ee3a809f7"
+              }
+            ]
+          },
+          {
+            "id": "ac5cd292-266c-4334-84f3-45fff906bb15",
+            "name": "L05: Integracja ze stosem",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"59e93b80d85faeab-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"59e93b80d85faeab-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Czas połączyć wszystkie elementy w działającą całość. Retrofit zacznie rozmawiać z modelem, a Ty zobaczysz, jak wygląda taka integracja w praktyce. Przyjrzymy się też timeoutom, ponowieniom i obsłudze błędów, żeby całość działała poprawnie również w przypadku awarii.</p></div></div></div><div class=\"bn-block-outer\" data-id=\"0847f83d-d707-4e64-b365-35f2fc60e4cb\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"0847f83d-d707-4e64-b365-35f2fc60e4cb\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><span class=\"ProseMirror-trailingBreak\" style=\"display: inline-block;\"></span></p></div></div></div><div class=\"bn-block-outer\" data-id=\"61a7c724-19fb-4fdd-863e-649f3b4b3c1a\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"61a7c724-19fb-4fdd-863e-649f3b4b3c1a\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><strong>Do zrobienia:</strong> Uruchom cały stos lokalnie i sprawdź działanie LiteLLM, Phoenixa i Presidio. Przetestuj agenta z różnymi modelami oraz działanie guardraili.</p></div></div></div><div class=\"bn-block-outer\" data-id=\"9f10d849-688b-4970-9038-552fb461f6de\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"9f10d849-688b-4970-9038-552fb461f6de\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><strong>Dla chętnych:</strong> Spróbuj dodać minimalny stos AI do własnej aplikacji.</p></div></div></div><div class=\"bn-block-outer\" data-id=\"7bd0372f-5f94-4905-a830-09681395f5b4\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"7bd0372f-5f94-4905-a830-09681395f5b4\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><span class=\"ProseMirror-trailingBreak\" style=\"display: inline-block;\"></span></p></div></div></div><div class=\"bn-block-outer\" data-id=\"59e93b80d85faeab-1\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"59e93b80d85faeab-1\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"heading\" data-level=\"4\"><h4 class=\"bn-inline-content\">Materiały do lekcji:</h4></div></div></div><div class=\"bn-block-outer\" data-id=\"59e93b80d85faeab-2\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"59e93b80d85faeab-2\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Repozytorium: <a href=\"https://ainaprodzie.pl/repo\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">ainaprodzie.pl/repo</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"59e93b80d85faeab-3\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"59e93b80d85faeab-3\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Phoenix lokalnie (w przeglądarce): <a href=\"http://localhost:6006\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">localhost:6006</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"59e93b80d85faeab-4\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"59e93b80d85faeab-4\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">LiteLLM UI lokalnie (login admin, hasło sk-retrofit-dev): localhost:4000/ui</p></div></div></div><div class=\"bn-block-outer\" data-id=\"59e93b80d85faeab-5\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"59e93b80d85faeab-5\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Sprawdzenie, czy działa LiteLLM: /health/readiness</p></div></div></div><div class=\"bn-block-outer\" data-id=\"59e93b80d85faeab-6\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"59e93b80d85faeab-6\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Sprawdzenie, czy działa Presidio: /health</p></div></div></div><div class=\"bn-block-outer\" data-id=\"59e93b80d85faeab-7\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"59e93b80d85faeab-7\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Utworzenie klucza aplikacji w LiteLLM (master key): POST /key/generate</p></div></div></div><div class=\"bn-block-outer\" data-id=\"59e93b80d85faeab-8\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"59e93b80d85faeab-8\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\">Omawiane biblioteki: </p></div><div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"8a5e1522-0e66-4fe2-a563-b409e0f5db8e\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"8a5e1522-0e66-4fe2-a563-b409e0f5db8e\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\"><a href=\"https://docs.spring.io/spring-ai/reference/api/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Spring AI</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"e052ab90-60e3-485f-a062-078b5f1736cb\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"e052ab90-60e3-485f-a062-078b5f1736cb\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\"><a href=\"https://learn.microsoft.com/en-us/dotnet/ai/microsoft-extensions-ai\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Microsoft.Extensions.AI</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"44deb93d-2811-45f6-944a-d8375805ec20\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"44deb93d-2811-45f6-944a-d8375805ec20\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\"><a href=\"https://ai-sdk.dev/docs/introduction\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">AI SDK</a></p></div></div></div><div class=\"bn-block-outer\" data-id=\"167b06b3-4caf-408d-a9a9-0d27d7e04f27\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"167b06b3-4caf-408d-a9a9-0d27d7e04f27\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"bulletListItem\"><p class=\"bn-inline-content\"><a href=\"https://pydantic.dev/docs/ai/overview/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Pydantic AI</a></p></div></div></div></div></div></div><div class=\"bn-block-outer\" data-id=\"47bfb2a4-1b96-4630-9637-c54dc77a0758\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"47bfb2a4-1b96-4630-9637-c54dc77a0758\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\"><span class=\"ProseMirror-trailingBreak\" style=\"display: inline-block;\"></span></p></div></div></div></div>",
+            "video_drive_id": "1kBrQvj1BgEZtP-Yyo7Xi6KGdhm6wFaaF",
+            "documents": [
+              {
+                "name": "ANP-M01L05.mp3",
+                "drive_id": "1uh14jCoRxOLhK4G32xqTEcLmOdZbsOJ_",
+                "mime": "audio/mpeg",
+                "_source_id": "b4611ec2-4fe8-4656-a6a6-482b2387f995"
+              },
+              {
+                "name": "ANP-M01L05_prezentacja.pdf",
+                "drive_id": "1x7vo06oUxkTLc4-7xbl3txKbcE85TYOA",
+                "mime": "application/pdf",
+                "_source_id": "45044a27-ccac-4e9e-b03d-72c28560cf5b"
+              },
+              {
+                "name": "ANP-M01L05_transkrypcja.pdf",
+                "drive_id": "1ENMktpplfGQFRX3Z6S7oI7uoT5ujIFbQ",
+                "mime": "application/pdf",
+                "_source_id": "99ac62a2-46c5-4b4b-88fb-8ef4f21fac11"
+              }
+            ]
+          },
+          {
+            "id": "aa43f944-73db-4291-9b59-2f3f4be09bfd",
+            "name": "Quiz: moduł 1",
+            "description": "<div class=\"bn-block-group\" data-node-type=\"blockGroup\"><div class=\"bn-block-outer\" data-id=\"cb97094c6d6a5391-0\" data-node-type=\"blockOuter\"><div class=\"bn-block\" data-id=\"cb97094c6d6a5391-0\" data-node-type=\"blockContainer\"><div class=\"bn-block-content\" data-content-type=\"paragraph\"><p class=\"bn-inline-content\">Quiz z całego modułu 1: 9 pytań jednokrotnego wyboru. To sprawdzenie wiedzy, nie egzamin - nie ma progu zaliczenia, możesz podchodzić dowolną liczbę razy. Po oddaniu zobaczysz poprawne odpowiedzi z krótkim wyjaśnieniem.</p></div></div></div></div>\n<section class=\"edu2-quiz\"><h2>Pytania quizu</h2>\n<p>Próg zaliczenia: 0%.</p>\n<article><h3>Pytanie 1 — Jednokrotny wybór</h3>\n<p style=\"white-space: pre-wrap\">W istniejącym systemie logika kontroli dostępu jest rozproszona między kontrolerami REST. Planujesz udostępnić asystentowi AI możliwość odczytywania tych samych danych. Jak najlepiej przygotować aplikację do tej integracji?</p>\n<ul><li>a: Wystawić osobne endpointy dla AI, które odtworzą reguły dostępu wykorzystywane przez frontend.</li><li>b: Przenieść kontrolę uprawnień do wspólnej warstwy serwisowej, z której korzystają zarówno istniejące endpointy, jak i funkcje AI.</li><li>c: Zachować obecne endpointy, a przed przekazaniem danych do modelu filtrować odpowiedzi według uprawnień użytkownika.</li><li>d: Udostępnić AI operacje odczytu bezpośrednio na bazie danych, wykorzystując dedykowane konto z ograniczonymi uprawnieniami.</li></ul>\n<p>Platforma nie udostępniła klucza poprawnej odpowiedzi.</p>\n</article>\n<article><h3>Pytanie 2 — Jednokrotny wybór</h3>\n<p style=\"white-space: pre-wrap\">Asystent AI dodaje komentarz do zgłoszenia. Wywołanie kończy się timeoutem, ale komentarz został już zapisany w bazie. Model ponawia operację. Jak powinien zachować się system?</p>\n<ul><li>a: Odrzucić ponowione żądanie jako konflikt wersji zgłoszenia, niezależnie od tego, czy jego treść się zmieniła.</li><li>b: Porównać treść nowego komentarza z ostatnim komentarzem i zablokować zapis, jeśli są identyczne.</li><li>c: Wykonać zapis ponownie, a ewentualne duplikaty usunąć podczas późniejszej synchronizacji.</li><li>d: Rozpoznać ponowienie na podstawie klucza idempotentności i nie tworzyć drugiego komentarza.</li></ul>\n<p>Platforma nie udostępniła klucza poprawnej odpowiedzi.</p>\n</article>\n<article><h3>Pytanie 3 — Jednokrotny wybór</h3>\n<p style=\"white-space: pre-wrap\">Podczas testu obciążeniowego na stagingu produkcja zaczyna otrzymywać błędy HTTP 429 od dostawcy LLM. Oba środowiska mają osobne klucze API, a same aplikacje działają poprawnie. Co należy sprawdzić w pierwszej kolejności?</p>\n<ul><li>a: Czy staging i produkcja korzystają z identycznych parametrów temperature i max_tokens, ponieważ różnice mogą powodować błędy limitowania.</li><li>b: Czy limity żądań i tokenów są współdzielone na poziomie organizacji, mimo używania osobnych kluczy API.</li><li>c: Czy LiteLLM kieruje żądania ze stagingu na model przypisany do produkcji, zamiast na osobne wdrożenie.</li><li>d: Czy dostawca nie wprowadził ograniczenia liczby aktywnych kluczy API przypisanych do jednego modelu.</li></ul>\n<p>Platforma nie udostępniła klucza poprawnej odpowiedzi.</p>\n</article>\n<article><h3>Pytanie 4 — Jednokrotny wybór</h3>\n<p style=\"white-space: pre-wrap\">Publiczny ranking szybkości podaje, że jeden z dwóch porównywanych modeli ma niższą medianę czasu odpowiedzi, ale wyraźnie gorszy 95. percentyl. Aplikacja wymaga przewidywalnego czasu reakcji. Jakie podejście będzie najbardziej uzasadnione?</p>\n<ul><li>a: Wybrać model z niższą medianą, ponieważ większość użytkowników otrzyma odpowiedź szybciej.</li><li>b: Wybrać model z większą liczbą tokenów generowanych na sekundę, niezależnie od czasu rozpoczęcia odpowiedzi.</li><li>c: Uśrednić medianę i 95. percentyl, a następnie porównać otrzymane wartości.</li><li>d: Zmierzyć opóźnienia dla rzeczywistych scenariuszy aplikacji, z regionu, z którego idzie Twój ruch, i oprzeć konfigurację timeoutów na odpowiednich percentylach.</li></ul>\n<p>Platforma nie udostępniła klucza poprawnej odpowiedzi.</p>\n</article>\n<article><h3>Pytanie 5 — Jednokrotny wybór</h3>\n<p style=\"white-space: pre-wrap\">W LiteLLM konfigurujesz alias chat wskazujący na dwa wdrożenia modelu. Jedno z nich regularnie zwraca błędy 500. Chcesz ograniczyć kierowanie do niego kolejnych żądań, ale jednocześnie umożliwić automatyczny powrót po ustąpieniu awarii. Który mechanizm najlepiej odpowiada temu wymaganiu?</p>\n<ul><li>a: Zwiększenie liczby ponowień dla zawodzącego wdrożenia, aby ograniczyć liczbę błędów widocznych dla aplikacji.</li><li>b: Zmniejszenie wagi routingu zawodzącego wdrożenia do zera i pozostawienie tej konfiguracji do ręcznej aktualizacji.</li><li>c: Skonfigurowanie cooldown, który czasowo wykluczy zawodzące wdrożenie z wyboru.</li><li>d: Skrócenie czasu życia cache promptów, aby żądania były częściej kierowane do pozostałych wdrożeń.</li></ul>\n<p>Platforma nie udostępniła klucza poprawnej odpowiedzi.</p>\n</article>\n<article><h3>Pytanie 6 — Jednokrotny wybór</h3>\n<p style=\"white-space: pre-wrap\">Aplikacja korzysta z tego samego modelu udostępnionego przez dwóch dostawców. Chcesz zwiększyć szansę wykorzystania prompt cache, kierując kolejne żądania z tej samej konwersacji do tego samego wdrożenia. Co warto skonfigurować w LiteLLM?</p>\n<ul><li>a: Cost-based routing, żeby żądania trafiały do dostawcy oferującego najtańszy odczyt tokenów z cache.</li><li>b: Routing z session affinity, aby żądania należące do tej samej sesji trafiały do tego samego wdrożenia.</li><li>c: Least-busy routing, aby zmniejszyć liczbę równoczesnych żądań do każdego dostawcy.</li><li>d: Context-window fallback, aby żądania z długą historią były automatycznie przekierowywane do modelu z większym kontekstem.</li></ul>\n<p>Platforma nie udostępniła klucza poprawnej odpowiedzi.</p>\n</article>\n<article><h3>Pytanie 7 — Jednokrotny wybór</h3>\n<p style=\"white-space: pre-wrap\">W LiteLLM skonfigurowano dwóch dostawców modeli z różnymi budżetami. Jeden z nich zbliża się do ustalonego limitu wydatków. Czy LiteLLM automatycznie zacznie kierować więcej żądań do drugiego dostawcy?</p>\n<ul><li>a: Tak, ponieważ routing domyślnie uwzględnia pozostały budżet każdego wdrożenia.</li><li>b: Nie. Budżet dostawcy nie wpływa na wybór trasy; dopiero po jego przekroczeniu wszystkie modele tego dostawcy wypadają z obsługi.</li><li>c: Tak, ale tylko przy strategii cost-based routing, która uwzględnia pozostały budżet dostawcy.</li><li>d: Nie. Po osiągnięciu limitu LiteLLM blokuje cały alias, nawet jeśli inne wdrożenia nadal są dostępne.</li></ul>\n<p>Platforma nie udostępniła klucza poprawnej odpowiedzi.</p>\n</article>\n<article><h3>Pytanie 8 — Jednokrotny wybór</h3>\n<p style=\"white-space: pre-wrap\">Do asystenta trafia wiadomość zawierająca adres e-mail klienta i numer karty płatniczej. W Retrofit skonfigurowano Presidio tak, aby maskowało określone dane osobowe, ale blokowało numery kart. Jak powinien zadziałać system?</p>\n<ul><li>a: Zamaskować adres e-mail i numer karty, a następnie przekazać zmodyfikowaną wiadomość do modelu.</li><li>b: Zablokować żądanie ze względu na numer karty, mimo że sam adres e-mail mógłby zostać zamaskowany.</li><li>c: Przekazać wiadomość do modelu, a następnie usunąć dane wrażliwe z wygenerowanej odpowiedzi.</li><li>d: Zanonimizować wiadomość w aplikacji, ponieważ guardraile w bramce LiteLLM nie mogą blokować żądań przed modelem.</li></ul>\n<p>Platforma nie udostępniła klucza poprawnej odpowiedzi.</p>\n</article>\n<article><h3>Pytanie 9 — Jednokrotny wybór</h3>\n<p style=\"white-space: pre-wrap\">W aplikacji ustawiono timeout 35 sekund na wywołanie LiteLLM. Bramka może wykonać maksymalnie dwie próby wywołania dostawcy, a aplikacja również może wykonać maksymalnie dwie próby wywołania bramki. Jakie ryzyko wiąże się z taką konfiguracją?</p>\n<ul><li>a: LiteLLM przejmie obsługę wszystkich ponowień, przez co mechanizm retry po stronie aplikacji nie zostanie wykorzystany.</li><li>b: Timeout 35 sekund ograniczy czas całej operacji, niezależnie od liczby ponowień po stronie aplikacji.</li><li>c: LiteLLM wykona najwyżej dwa wywołania dostawcy, ponieważ ponowienie po stronie aplikacji wykorzysta wynik poprzedniego żądania.</li><li>d: Jedno żądanie użytkownika może wygenerować nawet cztery wywołania dostawcy, zwiększając opóźnienia i koszty.</li></ul>\n<p>Platforma nie udostępniła klucza poprawnej odpowiedzi.</p>\n</article>\n</section>",
+            "video_drive_id": null,
+            "documents": [],
+            "quiz": {
+              "schema_version": 1,
+              "pass_percent": 0,
+              "max_attempts": null,
+              "answers_visibility": "always",
+              "questions": [
+                {
+                  "id": "8189712f-5ca4-402c-842f-f74c7f8bd0e7",
+                  "type": "single_choice",
+                  "prompt": "W istniejącym systemie logika kontroli dostępu jest rozproszona między kontrolerami REST. Planujesz udostępnić asystentowi AI możliwość odczytywania tych samych danych. Jak najlepiej przygotować aplikację do tej integracji?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Wystawić osobne endpointy dla AI, które odtworzą reguły dostępu wykorzystywane przez frontend."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Przenieść kontrolę uprawnień do wspólnej warstwy serwisowej, z której korzystają zarówno istniejące endpointy, jak i funkcje AI."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Zachować obecne endpointy, a przed przekazaniem danych do modelu filtrować odpowiedzi według uprawnień użytkownika."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Udostępnić AI operacje odczytu bezpośrednio na bazie danych, wykorzystując dedykowane konto z ograniczonymi uprawnieniami."
+                    }
+                  ]
+                },
+                {
+                  "id": "6145536b-b50a-4f5d-b3a6-b5331062abde",
+                  "type": "single_choice",
+                  "prompt": "Asystent AI dodaje komentarz do zgłoszenia. Wywołanie kończy się timeoutem, ale komentarz został już zapisany w bazie. Model ponawia operację. Jak powinien zachować się system?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Odrzucić ponowione żądanie jako konflikt wersji zgłoszenia, niezależnie od tego, czy jego treść się zmieniła."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Porównać treść nowego komentarza z ostatnim komentarzem i zablokować zapis, jeśli są identyczne."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Wykonać zapis ponownie, a ewentualne duplikaty usunąć podczas późniejszej synchronizacji."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Rozpoznać ponowienie na podstawie klucza idempotentności i nie tworzyć drugiego komentarza."
+                    }
+                  ]
+                },
+                {
+                  "id": "f1d14250-0803-442b-99fa-24bf0ac92521",
+                  "type": "single_choice",
+                  "prompt": "Podczas testu obciążeniowego na stagingu produkcja zaczyna otrzymywać błędy HTTP 429 od dostawcy LLM. Oba środowiska mają osobne klucze API, a same aplikacje działają poprawnie. Co należy sprawdzić w pierwszej kolejności?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Czy staging i produkcja korzystają z identycznych parametrów temperature i max_tokens, ponieważ różnice mogą powodować błędy limitowania."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Czy limity żądań i tokenów są współdzielone na poziomie organizacji, mimo używania osobnych kluczy API."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Czy LiteLLM kieruje żądania ze stagingu na model przypisany do produkcji, zamiast na osobne wdrożenie."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Czy dostawca nie wprowadził ograniczenia liczby aktywnych kluczy API przypisanych do jednego modelu."
+                    }
+                  ]
+                },
+                {
+                  "id": "265f9253-606c-4772-9028-c0d0780c3ca3",
+                  "type": "single_choice",
+                  "prompt": "Publiczny ranking szybkości podaje, że jeden z dwóch porównywanych modeli ma niższą medianę czasu odpowiedzi, ale wyraźnie gorszy 95. percentyl. Aplikacja wymaga przewidywalnego czasu reakcji. Jakie podejście będzie najbardziej uzasadnione?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Wybrać model z niższą medianą, ponieważ większość użytkowników otrzyma odpowiedź szybciej."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Wybrać model z większą liczbą tokenów generowanych na sekundę, niezależnie od czasu rozpoczęcia odpowiedzi."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Uśrednić medianę i 95. percentyl, a następnie porównać otrzymane wartości."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Zmierzyć opóźnienia dla rzeczywistych scenariuszy aplikacji, z regionu, z którego idzie Twój ruch, i oprzeć konfigurację timeoutów na odpowiednich percentylach."
+                    }
+                  ]
+                },
+                {
+                  "id": "70e41461-0b44-492a-b5dd-0380420d75b7",
+                  "type": "single_choice",
+                  "prompt": "W LiteLLM konfigurujesz alias chat wskazujący na dwa wdrożenia modelu. Jedno z nich regularnie zwraca błędy 500. Chcesz ograniczyć kierowanie do niego kolejnych żądań, ale jednocześnie umożliwić automatyczny powrót po ustąpieniu awarii. Który mechanizm najlepiej odpowiada temu wymaganiu?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Zwiększenie liczby ponowień dla zawodzącego wdrożenia, aby ograniczyć liczbę błędów widocznych dla aplikacji."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Zmniejszenie wagi routingu zawodzącego wdrożenia do zera i pozostawienie tej konfiguracji do ręcznej aktualizacji."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Skonfigurowanie cooldown, który czasowo wykluczy zawodzące wdrożenie z wyboru."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Skrócenie czasu życia cache promptów, aby żądania były częściej kierowane do pozostałych wdrożeń."
+                    }
+                  ]
+                },
+                {
+                  "id": "e342fb1f-0e2e-4a9e-a262-194652af386c",
+                  "type": "single_choice",
+                  "prompt": "Aplikacja korzysta z tego samego modelu udostępnionego przez dwóch dostawców. Chcesz zwiększyć szansę wykorzystania prompt cache, kierując kolejne żądania z tej samej konwersacji do tego samego wdrożenia. Co warto skonfigurować w LiteLLM?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Cost-based routing, żeby żądania trafiały do dostawcy oferującego najtańszy odczyt tokenów z cache."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Routing z session affinity, aby żądania należące do tej samej sesji trafiały do tego samego wdrożenia."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Least-busy routing, aby zmniejszyć liczbę równoczesnych żądań do każdego dostawcy."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Context-window fallback, aby żądania z długą historią były automatycznie przekierowywane do modelu z większym kontekstem."
+                    }
+                  ]
+                },
+                {
+                  "id": "804b4c98-49c5-4372-a1d4-dc26e6bef131",
+                  "type": "single_choice",
+                  "prompt": "W LiteLLM skonfigurowano dwóch dostawców modeli z różnymi budżetami. Jeden z nich zbliża się do ustalonego limitu wydatków. Czy LiteLLM automatycznie zacznie kierować więcej żądań do drugiego dostawcy?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Tak, ponieważ routing domyślnie uwzględnia pozostały budżet każdego wdrożenia."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Nie. Budżet dostawcy nie wpływa na wybór trasy; dopiero po jego przekroczeniu wszystkie modele tego dostawcy wypadają z obsługi."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Tak, ale tylko przy strategii cost-based routing, która uwzględnia pozostały budżet dostawcy."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Nie. Po osiągnięciu limitu LiteLLM blokuje cały alias, nawet jeśli inne wdrożenia nadal są dostępne."
+                    }
+                  ]
+                },
+                {
+                  "id": "e1a52cab-0c64-4c72-8c46-9cc2ec6f0385",
+                  "type": "single_choice",
+                  "prompt": "Do asystenta trafia wiadomość zawierająca adres e-mail klienta i numer karty płatniczej. W Retrofit skonfigurowano Presidio tak, aby maskowało określone dane osobowe, ale blokowało numery kart. Jak powinien zadziałać system?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Zamaskować adres e-mail i numer karty, a następnie przekazać zmodyfikowaną wiadomość do modelu."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Zablokować żądanie ze względu na numer karty, mimo że sam adres e-mail mógłby zostać zamaskowany."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Przekazać wiadomość do modelu, a następnie usunąć dane wrażliwe z wygenerowanej odpowiedzi."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Zanonimizować wiadomość w aplikacji, ponieważ guardraile w bramce LiteLLM nie mogą blokować żądań przed modelem."
+                    }
+                  ]
+                },
+                {
+                  "id": "e6a4e7cd-700a-4aaa-9c03-c4ebc3bd17b9",
+                  "type": "single_choice",
+                  "prompt": "W aplikacji ustawiono timeout 35 sekund na wywołanie LiteLLM. Bramka może wykonać maksymalnie dwie próby wywołania dostawcy, a aplikacja również może wykonać maksymalnie dwie próby wywołania bramki. Jakie ryzyko wiąże się z taką konfiguracją?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "LiteLLM przejmie obsługę wszystkich ponowień, przez co mechanizm retry po stronie aplikacji nie zostanie wykorzystany."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Timeout 35 sekund ograniczy czas całej operacji, niezależnie od liczby ponowień po stronie aplikacji."
+                    },
+                    {
+                      "id": "c",
+                      "text": "LiteLLM wykona najwyżej dwa wywołania dostawcy, ponieważ ponowienie po stronie aplikacji wykorzysta wynik poprzedniego żądania."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Jedno żądanie użytkownika może wygenerować nawet cztery wywołania dostawcy, zwiększając opóźnienia i koszty."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": "0e98c82f-8036-4d2b-a6bb-857eede664db",
+            "name": "Q&A #1: 23.11 20:00",
+            "description": "",
+            "video_drive_id": null,
+            "documents": []
           }
         ]
       }
